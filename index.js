@@ -43,6 +43,10 @@ function computeSummary(file) {
     const b2bMixedGenderSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmixed").length;
     const b2bMixedGenderSongs_PERCENT = b2bMixedGenderSongs_COUNT/songPlays*100;
 
+    // Non b2b
+    const nonb2bSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "X").length;
+    const nonb2bSongs_PERCENT = nonb2bSongs_COUNT/songPlays*100;
+
     summaryData.push({cityName, 
                     stationName, 
                     ownerName, 
@@ -57,7 +61,9 @@ function computeSummary(file) {
                     onlyMixedGenderSongs_COUNT, 
                     onlyMixedGenderSongs_PERCENT,
                     b2bMixedGenderSongs_COUNT,
-                    b2bMixedGenderSongs_PERCENT
+                    b2bMixedGenderSongs_PERCENT,
+                    nonb2bSongs_COUNT,
+                    nonb2bSongs_PERCENT
     })
 }
 
@@ -120,9 +126,10 @@ function createB2Bcsv(file) {
 }
 
 function init() {
+    // Loops through each file and adds the b2b data
     files.map(createB2Bcsv)
 
-    console.log(summaryData)
+    // Writes out the summary data csv
     const concatSumData = [].concat(...summaryData).map(d => ({
 		...d
 	}));
