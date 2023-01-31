@@ -76,7 +76,7 @@ function b2bSync(i) {
     }
 }
 
-function addB2BData(data) {
+function addB2BData(data, file) {
     let b2bValue;
 
     for(var i = 0; i < data.length; i++) {
@@ -98,8 +98,11 @@ function addB2BData(data) {
         }
     }
 
+    const currCity = file.split("_")[0];
+
     songPlays_B2B = data.map((d, i) => ({
         ...d,
+        city: currCity,
         b2b_gender: b2bSync(i)
     }))
 }
@@ -112,7 +115,7 @@ function createB2Bcsv(file) {
     playsOnly = raw.filter(d => !d.Artist.includes("SPOT BREAK") )
 
     // Adds the column for b2b plays
-    addB2BData(playsOnly) 
+    addB2BData(playsOnly, file) 
 
     // Creates summary data for each station
     computeSummary(file)
