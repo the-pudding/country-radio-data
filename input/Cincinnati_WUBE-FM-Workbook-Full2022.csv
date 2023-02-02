@@ -1,4 +1,4 @@
-﻿Date,Weekday,Dayparts,OWNER,Station,Time Played,Artist,Title,Rel. Date,GRC,genre,ensemble,gender,race
+date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble,gender,race
 1/7/22,"Friday, Morris",OVN,Hubbard,WUBE-FM,12:00:00 AM,"SWINDELL, COLE",Single Saturday Night,2020,R,c-,solo,men,white
 1/7/22,"Friday, Morris",OVN,Hubbard,WUBE-FM,12:03:00 AM,"SHELTON, BLAKE",Come Back As A Country Boy,2021,R,c-,solo,men,white
 1/7/22,"Friday, Morris",OVN,Hubbard,WUBE-FM,12:06:00 AM,"BROWN, KANE",Heaven,2017,G,c-,solo,men,multiethnic

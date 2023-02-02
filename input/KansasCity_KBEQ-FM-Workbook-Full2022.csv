@@ -1,4 +1,4 @@
-﻿Date,Weekday,Dayparts,OWNER,Station,Time Played,Artist,Title,Rel. Date,GRC,genre,ensemble,gender,race
+date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble,gender,race
 1/7/22,"Friday, Morris",OVN,Steel City,KBEQ-FM,12:03:00 AM,"EVANS, MORGAN",Love Is Real,2017,G,c-,solo,men,white
 1/7/22,"Friday, Morris",OVN,Steel City,KBEQ-FM,12:06:00 AM,"PEARCE, CARLY/MCBRYDE, ASHLEY",Never Wanted To Be That Girl,2019,G,c-,collab,women,white
 1/7/22,"Friday, Morris",OVN,Steel City,KBEQ-FM,12:09:00 AM,"GRIFFIN, RYAN","Salt, Lime & Tequila",2011,G,c-,solo,men,white

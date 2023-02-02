@@ -1,4 +1,4 @@
-﻿Date,Weekday,Daypart,OWNER,Station,Time Played,Artist,Title,Rel. Date,GRC,genre,ensemble,gender,race
+date,weekday,daypart,owner,station,time,artist,title,release,grc,genre,ensemble,gender,race
 1/7/22,"Friday, Morris",OVN,iHeartMedia,KASE-FM,12:01 AM,"JONES, GEORGE",Finally Friday,1993,G,c-,solo,men,white
 1/7/22,"Friday, Morris",OVN,iHeartMedia,KASE-FM,12:03 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white
 1/7/22,"Friday, Morris",OVN,iHeartMedia,KASE-FM,12:06 AM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white
@@ -159,7 +159,7 @@
 1/7/22,"Friday, Morris",MID,iHeartMedia,KASE-FM,10:08 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  7:30),,,,,,
 1/7/22,"Friday, Morris",MID,iHeartMedia,KASE-FM,10:16 AM,"CHESNEY, KENNY",Knowing You,2020,R,c-,solo,men,white
 1/7/22,"Friday, Morris",MID,iHeartMedia,KASE-FM,10:20 AM,"COMBS, LUKE",Hurricane,2015,G,c-,solo,men,white
-11/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:25 AM,"JACKSON, ALAN/BUFFETT, JIMMY",It's Five O'Clock Somewhere,2003,G,c-,collab,men,white
+1/7/22,"Friday, Morris",MID,iHeartMedia,KASE-FM,10:23 AM,"ALLEN, JIMMIE/PAISLEY, BRAD",Freedom Was A Highway,2020,R,c-,collab,men,multiethnic
 1/7/22,"Friday, Morris",MID,iHeartMedia,KASE-FM,10:27 AM,"BRICE, LEE",One Of Them Girls,2020,G,c-,solo,men,white
 1/7/22,"Friday, Morris",MID,iHeartMedia,KASE-FM,10:30 AM,"HUNT, SAM",Take Your Time,2014,G,c-,solo,men,white
 1/7/22,"Friday, Morris",MID,iHeartMedia,KASE-FM,10:34 AM,"PARDI, JON",Tequila Little Time,2019,R,c-,solo,men,white
@@ -274,13 +274,13 @@
 1/7/22,"Friday, Morris",PMD,iHeartMedia,KASE-FM,5:38 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white
 1/7/22,"Friday, Morris",PMD,iHeartMedia,KASE-FM,5:41 PM,"PARDI, JON",Heartache Medication,2019,G,c-,solo,men,white
 1/7/22,"Friday, Morris",PMD,iHeartMedia,KASE-FM,5:44 PM,"URBAN, KEITH",Kiss A Girl,2009,G,c-,solo,men,white
-1/24/22,"Monday, Block",MID,iHeartMedia,KASE-FM,10:59 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
+1/7/22,"Friday, Morris",PMD,iHeartMedia,KASE-FM,5:48 PM,"ALLEN, JIMMIE/PAISLEY, BRAD",Freedom Was A Highway,2020,R,c-,collab,men,multiethnic
 1/7/22,"Friday, Morris",PMD,iHeartMedia,KASE-FM,5:52 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  8:45),,,,,,
 1/7/22,"Friday, Morris",PMD,iHeartMedia,KASE-FM,6:01 PM,"MORRIS, MAREN",Circles Around This Town,2022,R,c-,solo,women,white
 1/7/22,"Friday, Morris",PMD,iHeartMedia,KASE-FM,6:04 PM,"ALDEAN, JASON",Amarillo Sky,2005,G,c-,solo,men,white
 1/7/22,"Friday, Morris",PMD,iHeartMedia,KASE-FM,6:07 PM,OLD DOMINION,One Man Band,2019,G,c-,group,men,white
 1/7/22,"Friday, Morris",PMD,iHeartMedia,KASE-FM,6:12 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  7:45),,,,,,
-1/28/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,3:10 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
+1/7/22,"Friday, Morris",PMD,iHeartMedia,KASE-FM,6:20 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
 1/7/22,"Friday, Morris",PMD,iHeartMedia,KASE-FM,6:23 PM,"COMBS, LUKE",One Number Away,2017,G,c-,solo,men,white
 1/7/22,"Friday, Morris",PMD,iHeartMedia,KASE-FM,6:26 PM,"DAVIS, JORDAN/BRYAN, LUKE",Buy Dirt,2021,R,c-,collab,men,white
 1/7/22,"Friday, Morris",PMD,iHeartMedia,KASE-FM,6:29 PM,"BRICE, LEE",One Of Them Girls,2020,G,c-,solo,men,white
@@ -373,7 +373,7 @@
 1/7/22,"Friday, Morris",EVE,iHeartMedia,KASE-FM,11:55 PM,"CHESNEY, KENNY",Knowing You,2020,R,c-,solo,men,white
 1/7/22,"Friday, Morris",EVE,iHeartMedia,KASE-FM,11:58 PM,"ALAINA, LAUREN/PARDI, JON",Getting Over Him,2020,R,c-,collab,male-female,white
 1/24/22,"Monday, Block",OVN,iHeartMedia,KASE-FM,12:00 AM,"ALDEAN, JASON",Crazy Town,2009,G,c-,solo,men,white
-1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:26 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
+1/24/22,"Monday, Block",OVN,iHeartMedia,KASE-FM,12:03 AM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white
 1/24/22,"Monday, Block",OVN,iHeartMedia,KASE-FM,12:07 AM,"SHELTON, BLAKE",God's Country,2019,G,c-,solo,men,white
 1/24/22,"Monday, Block",OVN,iHeartMedia,KASE-FM,12:10 AM,HARDY,Give Heaven Some Hell,2020,R,c-,solo,men,white
 1/24/22,"Monday, Block",OVN,iHeartMedia,KASE-FM,12:14 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  4:45),,,,,,
@@ -480,7 +480,7 @@
 1/24/22,"Monday, Block",AMD,iHeartMedia,KASE-FM,6:41 AM,"RHETT, THOMAS",What's Your Country Song,2020,R,c-,solo,men,white
 1/24/22,"Monday, Block",AMD,iHeartMedia,KASE-FM,6:44 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  5:15),,,,,,
 1/24/22,"Monday, Block",AMD,iHeartMedia,KASE-FM,6:50 AM,"BRYAN, LUKE",Rain Is A Good Thing,2009,G,c-,solo,men,white
-1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:49 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
+1/24/22,"Monday, Block",AMD,iHeartMedia,KASE-FM,6:54 AM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
 1/24/22,"Monday, Block",AMD,iHeartMedia,KASE-FM,6:58 AM,"COMBS, LUKE",When It Rains It Pours,2017,G,c-,solo,men,white
 1/24/22,"Monday, Block",AMD,iHeartMedia,KASE-FM,7:02 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  0:15),,,,,,
 1/24/22,"Monday, Block",AMD,iHeartMedia,KASE-FM,7:05 AM,"CHESNEY, KENNY",Knowing You,2020,R,c-,solo,men,white
@@ -524,8 +524,8 @@
 1/24/22,"Monday, Block",MID,iHeartMedia,KASE-FM,10:41 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  6:15),,,,,,
 1/24/22,"Monday, Block",MID,iHeartMedia,KASE-FM,10:48 AM,"MCCOLLUM, PARKER",To Be Loved By You,2020,R,c-,solo,men,white
 1/24/22,"Monday, Block",MID,iHeartMedia,KASE-FM,10:51 AM,"URBAN, KEITH",Long Hot Summer,2010,G,c-,solo,men,white
-2/7/22,"Monday, Barrett",EVE,iHeartMedia,KASE-FM,9:10 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
-2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:47 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
+1/24/22,"Monday, Block",MID,iHeartMedia,KASE-FM,10:56 AM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic
+1/24/22,"Monday, Block",MID,iHeartMedia,KASE-FM,10:59 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
 1/24/22,"Monday, Block",MID,iHeartMedia,KASE-FM,11:03 AM,FLORIDA GEORGIA LINE,Cruise,2012,G,c-,duo,men,white
 1/24/22,"Monday, Block",MID,iHeartMedia,KASE-FM,11:06 AM,"STAPLETON, CHRIS",You Should Probably Leave,2020,R,c-,solo,men,white
 1/24/22,"Monday, Block",MID,iHeartMedia,KASE-FM,11:10 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  7:00),,,,,,
@@ -644,7 +644,7 @@
 1/24/22,"Monday, Block",PMD,iHeartMedia,KASE-FM,6:41 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  6:00),,,,,,
 1/24/22,"Monday, Block",PMD,iHeartMedia,KASE-FM,6:48 PM,"CHESNEY, KENNY",Knowing You,2020,R,c-,solo,men,white
 1/24/22,"Monday, Block",PMD,iHeartMedia,KASE-FM,6:51 PM,"ALAINA, LAUREN",Road Less Traveled,2015,G,c-,solo,women,white
-3/25/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,7:24 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
+1/24/22,"Monday, Block",PMD,iHeartMedia,KASE-FM,6:55 PM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic
 1/24/22,"Monday, Block",PMD,iHeartMedia,KASE-FM,6:58 PM,"SCOTT, DYLAN",My Girl,2016,G,c-,solo,men,white
 1/24/22,"Monday, Block",EVE,iHeartMedia,KASE-FM,7:01 PM,"STAPLETON, CHRIS",You Should Probably Leave,2020,R,c-,solo,men,white
 1/24/22,"Monday, Block",EVE,iHeartMedia,KASE-FM,7:05 PM,FLORIDA GEORGIA LINE,Long Live,2020,R,c-,duo,men,white
@@ -727,7 +727,7 @@
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:03 AM,"ALDEAN, JASON",Got What I Got,2019,G,c-,solo,men,white
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:06 AM,"MOON, NIKO",Good Time,2019,R,c-,solo,men,white
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:10 AM,"JANSON, CHRIS",Good Vibes,2019,G,c-,solo,men,white
-5/20/22,"Friday, Wilson",EVE,iHeartMedia,KASE-FM,8:34 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
+1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:12 AM,LADY ANTEBELLUM,What A Song Can Do,2021,R,c-,trio,male-female,white
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:16 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  4:45),,,,,,
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:21 AM,"ARTS, TENILLE","Back Then, Right Now",2021,R,c-,solo,women,white
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:24 AM,"RHETT, THOMAS",Slow Down Summer,2021,R,c-,solo,men,white
@@ -792,7 +792,7 @@
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:42 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  4:15),,,,,,
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:47 AM,"KEITH, TOBY",Old School,2021,C,c-,solo,men,white
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:50 AM,"PEARCE, CARLY/MCBRYDE, ASHLEY",Never Wanted To Be That Girl,2021,R,c-,collab,women,white
-5/27/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:56 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
+1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:54 AM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:56 AM,"ALDEAN, JASON",Big Green Tractor,2009,G,c-,solo,men,white
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:00 AM,"BRYAN, LUKE",Up,2021,R,c-,solo,men,white
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:03 AM,"SCOTT, DYLAN",My Girl,2016,G,c-,solo,men,white
@@ -803,7 +803,7 @@
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:22 AM,"ALAINA, LAUREN/PARDI, JON",Getting Over Him,2020,R,c-,collab,male-female,white
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:24 AM,"BRYAN, LUKE",Up,2021,R,c-,solo,men,white
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:28 AM,DAN + SHAY,Speechless,2018,G,c-,duo,men,multiethnic
-6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,9:54 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
+1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:32 AM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:35 AM,"SHELTON, BLAKE",Come Back As A Country Boy,2021,R,c-,solo,men,white
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:38 AM,"CLARK, CALLISTA",It's 'Cause I Am,2021,R,c-,solo,women,white
 1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:41 AM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white
@@ -868,7 +868,7 @@
 1/28/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:09 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  7:15),,,,,,
 1/28/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:23 AM,"DAVIS, JORDAN/BRYAN, LUKE",Buy Dirt,2021,R,c-,collab,men,white
 1/28/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:26 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  7:45),,,,,,
-1/7/22,"Friday, Morris",MID,iHeartMedia,KASE-FM,10:23 AM,"ALLEN, JIMMIE/PAISLEY, BRAD",Freedom Was A Highway,2020,R,c-,collab,men,multiethnic
+1/28/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:34 AM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
 1/28/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:37 AM,"UNDERWOOD, CARRIE",Two Black Cadillacs,2012,G,c-,solo,women,white
 1/28/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:41 AM,"CHESNEY, KENNY",Knowing You,2020,R,c-,solo,men,white
 1/28/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:45 AM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
@@ -932,7 +932,7 @@
 1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:34 PM,"MCCOLLUM, PARKER",To Be Loved By You,2020,R,c-,solo,men,white
 1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:37 PM,LOVE AND THEFT,Angel Eyes,2011,G,c-,duo,men,white
 1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:41 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  6:00),,,,,,
-1/7/22,"Friday, Morris",PMD,iHeartMedia,KASE-FM,5:48 PM,"ALLEN, JIMMIE/PAISLEY, BRAD",Freedom Was A Highway,2020,R,c-,collab,men,multiethnic
+1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:47 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
 1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:50 PM,"STAPLETON, CHRIS",You Should Probably Leave,2020,R,c-,solo,men,white
 1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:54 PM,"OWEN, JAKE",Barefoot Blue Jean Night,2011,G,c-,solo,men,white
 1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:57 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
@@ -947,14 +947,14 @@
 1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:35 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
 1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:37 PM,"ALLEN, JIMMIE/PAISLEY, BRAD",Freedom Was A Highway,2020,R,c-,collab,men,multiethnic
 1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:42 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  5:15),,,,,,
-2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,10:05 AM,"ALLEN, JIMMIE/PAISLEY, BRAD",Freedom Was A Highway,2020,R,c-,collab,men,multiethnic
+1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:47 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white
 1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:50 PM,"MCCOLLUM, PARKER",To Be Loved By You,2020,R,c-,solo,men,white
 1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:53 PM,PARMALEE,Carolina,2012,G,c-,group,men,white
 1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:57 PM,"HUNT, SAM",23,2021,R,c-,solo,men,white
 1/28/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,3:00 PM,"BRYAN, LUKE","Sunrise, Sunburn, Sunset",2017,G,c-,solo,men,white
 1/28/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,3:03 PM,"BALLERINI, KELSEA/CHESNEY, KENNY",Half Of My Hometown,2020,R,c-,collab,male-female,white
 1/28/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,3:07 PM,"PARDI, JON",Dirt On My Boots,2016,G,c-,solo,men,white
-3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:45 AM,"BECKHAM, CHAYCE/LINDSAY ELL",Can't Do Without Me,2021,R,c-,collab,male-female,white
+1/28/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,3:10 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
 1/28/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,3:15 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  10:00),,,,,,
 1/28/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,3:25 PM,"BRICE, LEE",Memory I Don't Mess With,2020,R,c-,solo,men,white
 1/28/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,3:28 PM,"KEITH, TOBY",God Love Her,2008,G,c-,solo,men,white
@@ -1057,9 +1057,9 @@
 1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:06 PM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic
 1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:09 PM,"RHETT, THOMAS",T-Shirt,2015,G,c-,solo,men,white
 1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:14 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  6:00),,,,,,
-1/24/22,"Monday, Block",MID,iHeartMedia,KASE-FM,10:56 AM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic
+1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:20 PM,"PEARCE, CARLY/MCBRYDE, ASHLEY",Never Wanted To Be That Girl,2021,R,c-,collab,women,white
 1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:23 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
-1/24/22,"Monday, Block",PMD,iHeartMedia,KASE-FM,6:55 PM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic
+1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:26 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
 1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:30 PM,"HOUSER, RANDY",Runnin' Outta Moonlight,2013,G,c-,solo,men,white
 1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:33 PM,"DAVIS, JORDAN/BRYAN, LUKE",Buy Dirt,2021,R,c-,collab,men,white
 1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:36 PM,"COMBS, LUKE",Lovin' On You,2019,G,c-,solo,men,white
@@ -1081,7 +1081,7 @@
 1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:37 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white
 1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:40 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  5:15),,,,,,
 1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:46 PM,"ARTS, TENILLE","Back Then, Right Now",2021,R,c-,solo,women,white
-3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:36 AM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic
+1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:49 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
 1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:53 PM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white
 1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:55 PM,BROTHERS OSBORNE,I'm Not For Everyone,2020,C,c-,duo,men,white
 1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:58 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
@@ -1137,7 +1137,7 @@
 2/7/22,"Monday, Barrett",OVN,iHeartMedia,KASE-FM,2:41 AM,"DICKERSON, RUSSELL",Home Sweet,2020,R,c-,solo,men,white
 2/7/22,"Monday, Barrett",OVN,iHeartMedia,KASE-FM,2:44 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  4:15),,,,,,
 2/7/22,"Monday, Barrett",OVN,iHeartMedia,KASE-FM,2:49 AM,"JONES, CAROLINE",Come In (But Don't Make...),2021,C,c-,solo,women,white
-4/29/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:35 PM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic
+2/7/22,"Monday, Barrett",OVN,iHeartMedia,KASE-FM,2:52 AM,"PEARCE, CARLY/MCBRYDE, ASHLEY",Never Wanted To Be That Girl,2021,R,c-,collab,women,white
 2/7/22,"Monday, Barrett",OVN,iHeartMedia,KASE-FM,2:55 AM,HARDY,Give Heaven Some Hell,2020,R,c-,solo,men,white
 2/7/22,"Monday, Barrett",OVN,iHeartMedia,KASE-FM,2:57 AM,"HUNT, SAM",Leave The Night On,2014,G,c-,solo,men,white
 2/7/22,"Monday, Barrett",OVN,iHeartMedia,KASE-FM,2:59 AM,"JONES, CAROLINE",Come In (But Don't Make...),2021,C,c-,solo,women,white
@@ -1197,7 +1197,7 @@
 2/7/22,"Monday, Barrett",AMD,iHeartMedia,KASE-FM,6:55 AM,"HUNT, SAM",Kinfolks,2019,G,c-,solo,men,white
 2/7/22,"Monday, Barrett",AMD,iHeartMedia,KASE-FM,6:58 AM,"SCOTT, DYLAN",My Girl,2016,G,c-,solo,men,white
 2/7/22,"Monday, Barrett",AMD,iHeartMedia,KASE-FM,7:01 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  0:15),,,,,,
-1/7/22,"Friday, Morris",PMD,iHeartMedia,KASE-FM,6:20 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
+2/7/22,"Monday, Barrett",AMD,iHeartMedia,KASE-FM,7:03 AM,"HURD, RYAN/MORRIS, MAREN",Chasing After You,2021,R,c-,collab,male-female,white
 2/7/22,"Monday, Barrett",AMD,iHeartMedia,KASE-FM,7:14 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  4:00),,,,,,
 2/7/22,"Monday, Barrett",AMD,iHeartMedia,KASE-FM,7:18 AM,"ATKINS, RODNEY",Take A Back Road,2011,G,c-,solo,men,white
 2/7/22,"Monday, Barrett",AMD,iHeartMedia,KASE-FM,7:26 AM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white
@@ -1233,7 +1233,7 @@
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,10:22 AM,"TURNER, JOSH",Hometown Girl,2016,G,c-,solo,men,white
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,10:25 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,10:29 AM,"BRICE, LEE",One Of Them Girls,2020,G,c-,solo,men,white
-1/24/22,"Monday, Block",AMD,iHeartMedia,KASE-FM,6:54 AM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
+2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,10:32 AM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,10:36 AM,"BROOKS, GARTH",Two Pina Coladas,1997,G,c-,solo,men,white
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,10:39 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  6:45),,,,,,
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,10:46 AM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
@@ -1283,7 +1283,7 @@
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,1:35 PM,"MCCOLLUM, PARKER",To Be Loved By You,2020,R,c-,solo,men,white
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,1:38 PM,"RHETT, THOMAS",Die A Happy Man,2015,G,c-,solo,men,white
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,1:43 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  5:45),,,,,,
-1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:32 AM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
+2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,1:49 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,1:52 PM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,1:55 PM,FLORIDA GEORGIA LINE,Cruise,2012,G,c-,duo,men,white
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,1:58 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
@@ -1298,7 +1298,7 @@
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,2:35 PM,"ALLEN, JIMMIE/PAISLEY, BRAD",Freedom Was A Highway,2020,R,c-,collab,men,multiethnic
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,2:39 PM,"MCBRIDE, MARTINA",Independence Day,1993,G,c-,solo,women,white
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,2:43 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  5:30),,,,,,
-1/28/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:34 AM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
+2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,2:49 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,2:52 PM,"MCCOLLUM, PARKER",To Be Loved By You,2020,R,c-,solo,men,white
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,2:55 PM,PARMALEE,Carolina,2012,G,c-,group,men,white
 2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,2:58 PM,"BROWN, KANE",One Mississippi,2021,R,c-,solo,men,multiethnic
@@ -1328,7 +1328,7 @@
 2/7/22,"Monday, Barrett",PMD,iHeartMedia,KASE-FM,4:36 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white
 2/7/22,"Monday, Barrett",PMD,iHeartMedia,KASE-FM,4:38 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  7:30),,,,,,
 2/7/22,"Monday, Barrett",PMD,iHeartMedia,KASE-FM,4:46 PM,"BENTLEY, DIERKS",Drunk On A Plane,2014,G,c-,solo,men,white
-1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:47 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
+2/7/22,"Monday, Barrett",PMD,iHeartMedia,KASE-FM,4:50 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white
 2/7/22,"Monday, Barrett",PMD,iHeartMedia,KASE-FM,4:53 PM,"DAVIS, JORDAN/BRYAN, LUKE",Buy Dirt,2021,R,c-,collab,men,white
 2/7/22,"Monday, Barrett",PMD,iHeartMedia,KASE-FM,4:55 PM,"LANE, CHRIS",I Don't Know About You,2018,G,c-,solo,men,white
 2/7/22,"Monday, Barrett",PMD,iHeartMedia,KASE-FM,4:59 PM,"CHESNEY, KENNY",Knowing You,2020,R,c-,solo,men,white
@@ -1393,7 +1393,7 @@
 2/7/22,"Monday, Barrett",EVE,iHeartMedia,KASE-FM,8:58 PM,RASCAL FLATTS,Life Is A Highway,2006,G,c-,trio,men,white
 2/7/22,"Monday, Barrett",EVE,iHeartMedia,KASE-FM,9:03 PM,"BALLERINI, KELSEA/CHESNEY, KENNY",Half Of My Hometown,2020,R,c-,collab,male-female,white
 2/7/22,"Monday, Barrett",EVE,iHeartMedia,KASE-FM,9:07 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
-3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,9:06 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
+2/7/22,"Monday, Barrett",EVE,iHeartMedia,KASE-FM,9:10 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
 2/7/22,"Monday, Barrett",EVE,iHeartMedia,KASE-FM,9:14 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  8:00),,,,,,
 2/7/22,"Monday, Barrett",EVE,iHeartMedia,KASE-FM,9:23 PM,"HOUSER, RANDY",Runnin' Outta Moonlight,2013,G,c-,solo,men,white
 2/7/22,"Monday, Barrett",EVE,iHeartMedia,KASE-FM,9:26 PM,"DAVIS, JORDAN/BRYAN, LUKE",Buy Dirt,2021,R,c-,collab,men,white
@@ -1597,7 +1597,7 @@
 2/25/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:55 AM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
 2/25/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:58 AM,LANCO,Greatest Love Story,2016,G,c-,group,men,white
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,10:02 AM,"BENTLEY, DIERKS",Somewhere On A Beach,2016,G,c-,solo,men,white
-3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:25 PM,ZAC BROWN BAND,Toes,2008,G,c-,group,men,white
+2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,10:05 AM,"ALLEN, JIMMIE/PAISLEY, BRAD",Freedom Was A Highway,2020,R,c-,collab,men,multiethnic
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,10:09 AM,ELI YOUNG BAND,Love Ain't,2018,G,c-,group,men,white
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,10:11 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  9:00),,,,,,
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,10:21 AM,"COMBS, LUKE",Forever After All,2020,R,c-,solo,men,white
@@ -1635,7 +1635,7 @@
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:25 PM,"STAPLETON, CHRIS",You Should Probably Leave,2020,R,c-,solo,men,white
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:28 PM,FLORIDA GEORGIA LINE,Round Here,2012,G,c-,duo,men,white
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:32 PM,"CHESNEY, KENNY",Knowing You,2020,R,c-,solo,men,white
-4/8/22,"Friday, Ballerini",MID,iHeartMedia,KASE-FM,12:29 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
+2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:35 PM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:39 PM,"BRYAN, LUKE",That's My Kind Of Night,2013,G,c-,solo,men,white
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:42 PM,"STELL, MATT",Prayed For You,2018,G,c-,solo,men,white
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:45 PM,"RAY, MICHAEL",Whiskey And Rain,2020,R,c-,solo,men,white
@@ -1666,7 +1666,7 @@
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:34 PM,"DAVIS, JORDAN/BRYAN, LUKE",Buy Dirt,2021,R,c-,collab,men,white
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:36 PM,"STRAIT, GEORGE",Check Yes Or No,1995,G,c-,solo,men,white
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:39 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  7:45),,,,,,
-4/8/22,"Friday, Ballerini",PMD,iHeartMedia,KASE-FM,3:26 PM,ZAC BROWN BAND,Toes,2008,G,c-,group,men,white
+2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:47 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:51 PM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:54 PM,"RHETT, THOMAS",Get Me Some Of That,2013,G,c-,solo,men,white
 2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:57 PM,HARDY,Give Heaven Some Hell,2020,R,c-,solo,men,white
@@ -1966,7 +1966,7 @@
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,10:28 AM,"YOUNG, BRETT",Lady,2020,R,c-,solo,men,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,10:31 AM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,10:34 AM,"ALLEN, JIMMIE/PAISLEY, BRAD",Freedom Was A Highway,2020,R,c-,collab,men,multiethnic
-4/8/22,"Friday, Ballerini",EVE,iHeartMedia,KASE-FM,8:34 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
+3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,10:38 AM,"BAND PERRY, THE",If I Die Young,2010,G,c-,trio,male-female,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,10:41 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  7:30),,,,,,
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,10:49 AM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,10:53 AM,"BALLERINI, KELSEA/CHESNEY, KENNY",Half Of My Hometown,2020,R,c-,collab,male-female,white
@@ -1988,7 +1988,7 @@
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,11:57 AM,"BALLERINI, KELSEA/CHESNEY, KENNY",Half Of My Hometown,2020,R,c-,collab,male-female,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,12:01 PM,"UNDERWOOD, CARRIE",Ghost Story,2022,R,c-,solo,women,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,12:04 PM,"BENTLEY, DIERKS",Somewhere On A Beach,2016,G,c-,solo,men,white
-4/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:38 PM,ZAC BROWN BAND,Chicken Fried,2008,G,c-,group,men,white
+3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,12:08 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,12:10 PM,"GILBERT, BRANTLEY",You Don't Know Her Like I Do,2011,G,c-,solo,men,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,12:14 PM,"TWAIN, SHANIA",Any Man Of Mine,1995,G,c-,solo,women,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,12:18 PM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white
@@ -1996,7 +1996,7 @@
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,12:24 PM,"COMBS, LUKE",Forever After All,2020,R,c-,solo,men,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,12:28 PM,"RHETT, THOMAS",Get Me Some Of That,2013,G,c-,solo,men,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,12:31 PM,"ALDEAN, JASON",You Make It Easy,2018,G,c-,solo,men,white
-5/27/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,2:51 AM,ZAC BROWN BAND,Out In The Middle,2021,C,c-,group,men,white
+3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,12:34 PM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,12:38 PM,FLORIDA GEORGIA LINE,Round Here,2012,G,c-,duo,men,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,12:41 PM,"ALLEN, JIMMIE",Best Shot,2017,G,c-,solo,men,black
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,12:44 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white
@@ -2021,7 +2021,7 @@
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,2:05 PM,"SHELTON, BLAKE",Honey Bee,2011,G,c-,solo,men,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,2:08 PM,"ALDEAN, JASON",Girl Like You,2018,G,c-,solo,men,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,2:12 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  9:30),,,,,,
-7/29/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:27 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
+3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,2:21 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,2:24 PM,"RUCKER, DARIUS",Wagon Wheel,2012,G,c-,solo,men,black
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,2:28 PM,"BALLERINI, KELSEA/CHESNEY, KENNY",Half Of My Hometown,2020,R,c-,collab,male-female,white
 3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,2:32 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
@@ -2095,7 +2095,7 @@
 3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,7:12 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  11:15),,,,,,
 3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,7:24 PM,"ALDEAN, JASON",Dirt Road Anthem,2010,G,c-,solo,men,white
 3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,7:27 PM,"DAVIS, JORDAN/BRYAN, LUKE",Buy Dirt,2021,R,c-,collab,men,white
-9/30/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:34 PM,ZAC BROWN BAND,Out In The Middle,2021,C,c-,group,men,white
+3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,7:30 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
 3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,7:33 PM,"SWIFT, TAYLOR",Back To December,2010,G,c-,solo,women,white
 3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,7:37 PM,FLORIDA GEORGIA LINE,Long Live,2020,R,c-,duo,men,white
 3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,7:40 PM,"LAMBERT, MIRANDA",The House That Built Me,2009,G,c-,solo,women,white
@@ -2118,7 +2118,7 @@
 3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,8:56 PM,"RAY, MICHAEL",Whiskey And Rain,2020,R,c-,solo,men,white
 3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,9:00 PM,"BROWN, KANE/ALAINA, LAUREN",What Ifs,2016,G,c-,collab,male-female,multiethnic
 3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,9:03 PM,"UNDERWOOD, CARRIE",Ghost Story,2022,R,c-,solo,women,white
-10/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,8:29 PM,ZAC BROWN BAND,Out In The Middle,2021,C,c-,group,men,white
+3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,9:06 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
 3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,9:09 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white
 3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,9:12 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  9:00),,,,,,
 3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,9:21 PM,ELI YOUNG BAND,Even If It Breaks Your Heart,2011,G,c-,group,men,white
@@ -2164,7 +2164,7 @@
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:01 AM,"JONES, GEORGE",Finally Friday,1993,G,c-,solo,men,white
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:03 AM,"BARRETT, GABBY",The Good Ones,2019,R,c-,solo,women,white
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:07 AM,"BRYAN, LUKE",Knockin' Boots,2019,G,c-,solo,men,white
-1/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:47 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white
+3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:10 AM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:15 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  4:45),,,,,,
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:20 AM,"JONES, CAROLINE",Come In (But Don't Make...),2021,C,c-,solo,women,white
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:23 AM,"MCGRAW, TIM",7500 OBO,2020,R,c-,solo,men,white
@@ -2172,7 +2172,7 @@
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:28 AM,"BROWN, KANE",Lose It,2018,G,c-,solo,men,multiethnic
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:30 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:33 AM,"CHESNEY, KENNY",Save It For A Rainy Day,2014,G,c-,solo,men,white
-2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,2:49 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white
+3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:36 AM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:39 AM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:42 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  4:15),,,,,,
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:49 AM,"YOUNG, CHRIS/TENPENNY, MITCHELL",At The End Of A Bar,2021,R,c-,collab,men,white
@@ -2229,7 +2229,7 @@
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:35 AM,"JANSON, CHRIS",Fix A Drink,2017,G,c-,solo,men,white
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:38 AM,"RHETT, THOMAS",Slow Down Summer,2021,R,c-,solo,men,white
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:42 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  2:45),,,,,,
-2/7/22,"Monday, Barrett",PMD,iHeartMedia,KASE-FM,4:50 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white
+3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:45 AM,"BECKHAM, CHAYCE/LINDSAY ELL",Can't Do Without Me,2021,R,c-,collab,male-female,white
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:48 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:51 AM,"CHURCH, ERIC",Heart On Fire,2021,R,c-,solo,men,white
 3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:55 AM,"HAYES, WALKER",Fancy Like,2021,R,c-,solo,men,white
@@ -2280,7 +2280,7 @@
 3/25/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,7:02 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  0:15),,,,,,
 3/25/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,7:04 AM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white
 3/25/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,7:13 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  3:45),,,,,,
-3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,2:21 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white
+3/25/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,7:24 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
 3/25/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,7:28 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  4:00),,,,,,
 3/25/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,7:35 AM,"DICKERSON, RUSSELL",Love You Like I Used To,2020,G,c-,solo,men,white
 3/25/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,7:38 AM,"CHESNEY, KENNY",Knowing You,2020,R,c-,solo,men,white
@@ -2361,7 +2361,7 @@
 3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:09 PM,"HUNT, SAM",Hard To Forget,2020,G,c-,solo,men,white
 3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:12 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  9:45),,,,,,
 3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:22 PM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white
-4/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:04 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white
+3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:25 PM,ZAC BROWN BAND,Toes,2008,G,c-,group,men,white
 3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:29 PM,"YOUNG, BRETT",Lady,2020,R,c-,solo,men,white
 3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:32 PM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white
 3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:35 PM,"BALLERINI, KELSEA/CHESNEY, KENNY",Half Of My Hometown,2020,R,c-,collab,male-female,white
@@ -2372,7 +2372,7 @@
 3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:56 PM,"HUNT, SAM",Body Like A Back Road,2017,G,c-,solo,men,white
 3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,1:59 PM,"CHESNEY, KENNY",Knowing You,2020,R,c-,solo,men,white
 3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:03 PM,"YOUNG, CHRIS",I'm Comin' Over,2015,G,c-,solo,men,white
-7/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:03 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white
+3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:06 PM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white
 3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:09 PM,"PARDI, JON",Heartache Medication,2019,G,c-,solo,men,white
 3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:13 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  8:30),,,,,,
 3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:21 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
@@ -2406,7 +2406,7 @@
 3/25/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:25 PM,"OWEN, JAKE",Made For You,2018,R,c-,solo,men,white
 3/25/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:29 PM,"HILL, FAITH",This Kiss,1998,G,c-,solo,women,white
 3/25/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:32 PM,"CHESNEY, KENNY",Knowing You,2020,R,c-,solo,men,white
-6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:29 PM,"FLORIDA GEORGIA LINE/MCGRAW, TIM",May We All,2016,G,c-,collab,men,white
+3/25/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:36 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
 3/25/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:38 PM,"HUNT, SAM",23,2021,R,c-,solo,men,white
 3/25/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:41 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  9:00),,,,,,
 3/25/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:51 PM,"UNDERWOOD, CARRIE",Good Girl,2012,G,c-,solo,women,white
@@ -2471,7 +2471,7 @@
 3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,8:55 PM,"BALLERINI, KELSEA/CHESNEY, KENNY",Half Of My Hometown,2020,R,c-,collab,male-female,white
 3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,8:59 PM,"RUCKER, DARIUS",Alright,2008,G,c-,solo,men,black
 3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,9:03 PM,"HUNT, SAM",23,2021,R,c-,solo,men,white
-2/7/22,"Monday, Barrett",AMD,iHeartMedia,KASE-FM,7:03 AM,"HURD, RYAN/MORRIS, MAREN",Chasing After You,2021,R,c-,collab,male-female,white
+3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,9:06 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
 3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,9:08 PM,"CHESNEY, KENNY",Knowing You,2020,R,c-,solo,men,white
 3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,9:12 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  8:30),,,,,,
 3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,9:20 PM,"BRYAN, LUKE",Kiss Tomorrow Goodbye,2011,G,c-,solo,men,white
@@ -2510,7 +2510,7 @@
 3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:33 PM,"KEITH, TOBY",Old School,2021,C,c-,solo,men,white
 3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:37 PM,"BRYAN, LUKE",Waves,2021,R,c-,solo,men,white
 3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:40 PM,"JONES, CAROLINE",Come In (But Don't Make...),2021,C,c-,solo,women,white
-1/24/22,"Monday, Block",OVN,iHeartMedia,KASE-FM,12:03 AM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white
+3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:44 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white
 3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:46 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  7:30),,,,,,
 3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:54 PM,"BECKHAM, CHAYCE/LINDSAY ELL",Can't Do Without Me,2021,R,c-,collab,male-female,white
 3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:57 PM,"CHESNEY, KENNY",Knowing You,2020,R,c-,solo,men,white
@@ -2556,7 +2556,7 @@
 4/8/22,"Friday, Ballerini",OVN,iHeartMedia,KASE-FM,2:13 AM,"MCGRAW, TIM",7500 OBO,2020,R,c-,solo,men,white
 4/8/22,"Friday, Ballerini",OVN,iHeartMedia,KASE-FM,2:18 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  4:45),,,,,,
 4/8/22,"Friday, Ballerini",OVN,iHeartMedia,KASE-FM,2:22 AM,"BRICE, LEE",Soul,2020,R,c-,solo,men,white
-2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,10:32 AM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white
+4/8/22,"Friday, Ballerini",OVN,iHeartMedia,KASE-FM,2:25 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white
 4/8/22,"Friday, Ballerini",OVN,iHeartMedia,KASE-FM,2:28 AM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white
 4/8/22,"Friday, Ballerini",OVN,iHeartMedia,KASE-FM,2:32 AM,"CHESNEY, KENNY",I Go Back,2004,G,c-,solo,men,white
 4/8/22,"Friday, Ballerini",OVN,iHeartMedia,KASE-FM,2:36 AM,"BRYAN, LUKE",Up,2021,R,c-,solo,men,white
@@ -2697,7 +2697,7 @@
 4/8/22,"Friday, Ballerini",MID,iHeartMedia,KASE-FM,12:19 PM,"COMBS, LUKE",Lovin' On You,2019,G,c-,solo,men,white
 4/8/22,"Friday, Ballerini",MID,iHeartMedia,KASE-FM,12:22 PM,"LAMBERT, MIRANDA",If I Was A Cowboy,2021,R,c-,solo,women,white
 4/8/22,"Friday, Ballerini",MID,iHeartMedia,KASE-FM,12:25 PM,"BRYAN, LUKE",I Don't Want This Night To End,2011,G,c-,solo,men,white
-2/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:35 PM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white
+4/8/22,"Friday, Ballerini",MID,iHeartMedia,KASE-FM,12:29 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
 4/8/22,"Friday, Ballerini",MID,iHeartMedia,KASE-FM,12:32 PM,"OWEN, JAKE",Best Thing Since Backroads,2021,R,c-,solo,men,white
 4/8/22,"Friday, Ballerini",MID,iHeartMedia,KASE-FM,12:35 PM,"UNDERWOOD, CARRIE",Good Girl,2012,G,c-,solo,women,white
 4/8/22,"Friday, Ballerini",MID,iHeartMedia,KASE-FM,12:39 PM,"SCOTT, DYLAN",My Girl,2016,G,c-,solo,men,white
@@ -2740,7 +2740,7 @@
 4/8/22,"Friday, Ballerini",PMD,iHeartMedia,KASE-FM,3:09 PM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white
 4/8/22,"Friday, Ballerini",PMD,iHeartMedia,KASE-FM,3:12 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  10:30),,,,,,
 4/8/22,"Friday, Ballerini",PMD,iHeartMedia,KASE-FM,3:23 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
-3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,12:34 PM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white
+4/8/22,"Friday, Ballerini",PMD,iHeartMedia,KASE-FM,3:26 PM,ZAC BROWN BAND,Toes,2008,G,c-,group,men,white
 4/8/22,"Friday, Ballerini",PMD,iHeartMedia,KASE-FM,3:30 PM,HARDY,Give Heaven Some Hell,2020,R,c-,solo,men,white
 4/8/22,"Friday, Ballerini",PMD,iHeartMedia,KASE-FM,3:33 PM,"PARDI, JON",Heartache Medication,2019,G,c-,solo,men,white
 4/8/22,"Friday, Ballerini",PMD,iHeartMedia,KASE-FM,3:36 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white
@@ -2816,7 +2816,7 @@
 4/8/22,"Friday, Ballerini",EVE,iHeartMedia,KASE-FM,8:24 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white
 4/8/22,"Friday, Ballerini",EVE,iHeartMedia,KASE-FM,8:27 PM,"YOUNG, CHRIS",Aw Naw,2013,G,c-,solo,men,white
 4/8/22,"Friday, Ballerini",EVE,iHeartMedia,KASE-FM,8:29 PM,"COMBS, LUKE",Doin' This,2021,R,c-,solo,men,white
-3/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:10 AM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white
+4/8/22,"Friday, Ballerini",EVE,iHeartMedia,KASE-FM,8:34 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
 4/8/22,"Friday, Ballerini",EVE,iHeartMedia,KASE-FM,8:37 PM,"YOUNG, BRETT",In Case You Didn't Know,2016,G,c-,solo,men,white
 4/8/22,"Friday, Ballerini",EVE,iHeartMedia,KASE-FM,8:40 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  5:45),,,,,,
 4/8/22,"Friday, Ballerini",EVE,iHeartMedia,KASE-FM,8:46 PM,"CHESNEY, KENNY",Get Along,2018,G,c-,solo,men,white
@@ -2869,7 +2869,7 @@
 4/8/22,"Friday, Ballerini",EVE,iHeartMedia,KASE-FM,11:41 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  6:00),,,,,,
 4/8/22,"Friday, Ballerini",EVE,iHeartMedia,KASE-FM,11:47 PM,"YOUNG, BRETT",You Didn't,2021,C,c-,solo,men,white
 4/8/22,"Friday, Ballerini",EVE,iHeartMedia,KASE-FM,11:51 PM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white
-3/25/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:06 PM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white
+4/8/22,"Friday, Ballerini",EVE,iHeartMedia,KASE-FM,11:54 PM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white
 4/8/22,"Friday, Ballerini",EVE,iHeartMedia,KASE-FM,11:58 PM,"RAY, FRANK",Country'd Look Good On You,2021,R,c-,solo,men,hispanic
 4/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:01 AM,"JONES, GEORGE",Finally Friday,1993,G,c-,solo,men,white
 4/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:04 AM,"CHESNEY, KENNY",I Go Back,2004,G,c-,solo,men,white
@@ -2931,7 +2931,7 @@
 4/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:22 AM,"MCCREERY, SCOTTY",Damn Strait,2021,R,c-,solo,men,white
 4/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:27 AM,"WALLEN, MORGAN",Wasted On You,2021,R,c-,solo,men,white
 4/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:30 AM,ZAC BROWN BAND,Chicken Fried,2008,G,c-,group,men,white
-4/8/22,"Friday, Ballerini",EVE,iHeartMedia,KASE-FM,11:54 PM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white
+4/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:33 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white
 4/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:36 AM,"RHETT, THOMAS",Unforgettable,2017,G,c-,solo,men,white
 4/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:38 AM,"OWEN, JAKE",Best Thing Since Backroads,2021,R,c-,solo,men,white
 4/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:42 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  4:45),,,,,,
@@ -2999,7 +2999,7 @@
 4/29/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,8:54 AM,"SHELTON, BLAKE",A Guy With A Girl,2016,G,c-,solo,men,white
 4/29/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,8:59 AM,"ALDEAN, JASON",Trouble With A Heartbreak,2022,R,c-,solo,men,white
 4/29/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:07 AM,"BENTLEY, DIERKS",Somewhere On A Beach,2016,G,c-,solo,men,white
-1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,12:12 AM,LADY ANTEBELLUM,What A Song Can Do,2021,R,c-,trio,male-female,white
+4/29/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:10 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white
 4/29/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:13 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  7:30),,,,,,
 4/29/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:21 AM,"BRYAN, LUKE",Down To One,2020,R,c-,solo,men,white
 4/29/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:30 AM,"HAYES, WALKER",AA,2021,R,c-,solo,men,white
@@ -3084,7 +3084,7 @@
 4/29/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:49 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
 4/29/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:52 PM,"BALLERINI, KELSEA/CHESNEY, KENNY",Half Of My Hometown,2020,R,c-,collab,male-female,white
 4/29/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:55 PM,"RUCKER, DARIUS",Wagon Wheel,2012,G,c-,solo,men,black
-8/26/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,8:41 AM,"MARLOWE, KAMERON",Giving You Up,2019,C,c-,solo,men,white
+4/29/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,3:00 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white
 4/29/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,3:02 PM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white
 4/29/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,3:06 PM,"HUNT, SAM",Body Like A Back Road,2017,G,c-,solo,men,white
 4/29/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,3:09 PM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white
@@ -3107,7 +3107,7 @@
 4/29/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:26 PM,"MESSINA, JO DEE",Lesson In Leavin',1998,G,c-,solo,women,white
 4/29/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:29 PM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white
 4/29/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:32 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white
-1/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:20 PM,"PEARCE, CARLY/MCBRYDE, ASHLEY",Never Wanted To Be That Girl,2021,R,c-,collab,women,white
+4/29/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:35 PM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic
 4/29/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:38 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  8:00),,,,,,
 4/29/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:46 PM,LADY ANTEBELLUM,Just A Kiss,2011,G,c-,trio,male-female,white
 4/29/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:50 PM,"COMBS, LUKE",Forever After All,2020,R,c-,solo,men,white
@@ -3144,7 +3144,7 @@
 4/29/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,6:54 PM,"ALDEAN, JASON",Big Green Tractor,2009,G,c-,solo,men,white
 4/29/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,6:57 PM,"RHETT, THOMAS",It Goes Like This,2013,G,c-,solo,men,white
 4/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:00 PM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white
-2/7/22,"Monday, Barrett",OVN,iHeartMedia,KASE-FM,2:52 AM,"PEARCE, CARLY/MCBRYDE, ASHLEY",Never Wanted To Be That Girl,2021,R,c-,collab,women,white
+4/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:04 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white
 4/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:06 PM,"HUNT, SAM",23,2021,R,c-,solo,men,white
 4/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:09 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  9:00),,,,,,
 4/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:19 PM,"ALLAN, GARY",Every Storm (Runs Out Of Rain),2012,G,c-,solo,men,white
@@ -3152,7 +3152,7 @@
 4/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:27 PM,"COMBS, LUKE",Forever After All,2020,R,c-,solo,men,white
 4/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:30 PM,"NIEMANN, JERROD",Drink To That All Night,2013,G,c-,solo,men,white
 4/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:34 PM,"BALLERINI, KELSEA/CHESNEY, KENNY",Half Of My Hometown,2020,R,c-,collab,male-female,white
-3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,11:44 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white
+4/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:38 PM,ZAC BROWN BAND,Chicken Fried,2008,G,c-,group,men,white
 4/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:41 PM,"HAYES, WALKER",AA,2021,R,c-,solo,men,white
 4/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:44 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  7:15),,,,,,
 4/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:51 PM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white
@@ -3526,7 +3526,7 @@
 5/20/22,"Friday, Wilson",EVE,iHeartMedia,KASE-FM,8:25 PM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white
 5/20/22,"Friday, Wilson",EVE,iHeartMedia,KASE-FM,8:28 PM,"COMBS, LUKE",Hurricane,2015,G,c-,solo,men,white
 5/20/22,"Friday, Wilson",EVE,iHeartMedia,KASE-FM,8:32 PM,"SCOTT, DYLAN",New Truck,2021,R,c-,solo,men,white
-4/8/22,"Friday, Ballerini",OVN,iHeartMedia,KASE-FM,2:25 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white
+5/20/22,"Friday, Wilson",EVE,iHeartMedia,KASE-FM,8:34 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
 5/20/22,"Friday, Wilson",EVE,iHeartMedia,KASE-FM,8:38 PM,"BENTLEY, DIERKS",Somewhere On A Beach,2016,G,c-,solo,men,white
 5/20/22,"Friday, Wilson",EVE,iHeartMedia,KASE-FM,8:41 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  7:15),,,,,,
 5/20/22,"Friday, Wilson",EVE,iHeartMedia,KASE-FM,8:48 PM,"STAPLETON, CHRIS",You Should Probably Leave,2020,R,c-,solo,men,white
@@ -3636,7 +3636,7 @@
 5/27/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,2:41 AM,"ALDEAN, JASON",Trouble With A Heartbreak,2022,R,c-,solo,men,white
 5/27/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,2:45 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  3:15),,,,,,
 5/27/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,2:48 AM,"DEAN, JACKSON",Don't Come Lookin',2021,R,c-,solo,men,white
-4/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:33 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white
+5/27/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,2:51 AM,ZAC BROWN BAND,Out In The Middle,2021,C,c-,group,men,white
 5/27/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,2:54 AM,"YOUNG, CHRIS/TENPENNY, MITCHELL",At The End Of A Bar,2021,R,c-,collab,men,white
 5/27/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,2:56 AM,"MOORE, KIP",Beer Money,2012,G,c-,solo,men,white
 5/27/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,2:59 AM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white
@@ -3835,7 +3835,7 @@
 5/27/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:40 PM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic
 5/27/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:43 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  9:15),,,,,,
 5/27/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:53 PM,"CHURCH, ERIC",Drink In My Hand,2011,G,c-,solo,men,white
-4/29/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,9:10 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white
+5/27/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:56 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
 5/27/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,5:00 PM,"OWEN, JAKE",Best Thing Since Backroads,2021,R,c-,solo,men,white
 5/27/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,5:03 PM,"BRICE, LEE",Hard To Love,2012,G,c-,solo,men,white
 5/27/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,5:06 PM,"BALLERINI, KELSEA/CHESNEY, KENNY",Half Of My Hometown,2020,R,c-,collab,male-female,white
@@ -3867,7 +3867,7 @@
 5/27/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,6:54 PM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white
 5/27/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,6:58 PM,"CHESNEY, KENNY",American Kids,2014,G,c-,solo,men,white
 5/27/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:01 PM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic
-4/29/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,3:00 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white
+5/27/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:04 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
 5/27/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:07 PM,"HUNT, SAM",23,2021,R,c-,solo,men,white
 5/27/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:10 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  9:30),,,,,,
 5/27/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:20 PM,"BROOKS, GARTH",Friends In Low Places,1991,G,c-,solo,men,white
@@ -4109,7 +4109,7 @@
 6/13/22,"Monday, Pearce",MID,iHeartMedia,KASE-FM,11:18 AM,"CHESNEY, KENNY",Knowing You,2020,R,c-,solo,men,white
 6/13/22,"Monday, Pearce",MID,iHeartMedia,KASE-FM,11:21 AM,RASCAL FLATTS,Fast Cars And Freedom,2004,G,c-,trio,men,white
 6/13/22,"Monday, Pearce",MID,iHeartMedia,KASE-FM,11:25 AM,"MCCREERY, SCOTTY",Damn Strait,2021,R,c-,solo,men,white
-7/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,2:58 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white
+6/13/22,"Monday, Pearce",MID,iHeartMedia,KASE-FM,11:29 AM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
 6/13/22,"Monday, Pearce",MID,iHeartMedia,KASE-FM,11:32 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  8:15),,,,,,
 6/13/22,"Monday, Pearce",MID,iHeartMedia,KASE-FM,11:41 AM,PARMALEE,Take My Name,2021,R,c-,group,men,white
 6/13/22,"Monday, Pearce",MID,iHeartMedia,KASE-FM,11:43 AM,"BRYAN, LUKE",Play It Again,2013,G,c-,solo,men,white
@@ -4580,7 +4580,7 @@
 6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:18 PM,OLD DOMINION,Break Up With Him,2014,G,c-,group,men,white
 6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:22 PM,"OWEN, JAKE",Best Thing Since Backroads,2021,R,c-,solo,men,white
 6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:25 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
-3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,10:38 AM,"BAND PERRY, THE",If I Die Young,2010,G,c-,trio,male-female,white
+6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:29 PM,"FLORIDA GEORGIA LINE/MCGRAW, TIM",May We All,2016,G,c-,collab,men,white
 6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:32 PM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white
 6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:36 PM,"CHESNEY, KENNY",Beer In Mexico,2005,G,c-,solo,men,white
 6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:40 PM,"RAY, FRANK",Country'd Look Good On You,2021,R,c-,solo,men,hispanic
@@ -4617,7 +4617,7 @@
 6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,9:44 PM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white
 6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,9:47 PM,"HUNT, SAM",Break Up In A Small Town,2014,G,c-,solo,men,white
 6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,9:51 PM,ZAC BROWN BAND,Out In The Middle,2021,C,c-,group,men,white
-9/30/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:05 AM,"BAND PERRY, THE",If I Die Young,2010,G,c-,trio,male-female,white
+6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,9:54 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
 6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,9:58 PM,"CHESNEY, KENNY",Everyone She Knows,2020,R,c-,solo,men,white
 6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:01 PM,"RAY, MICHAEL",Whiskey And Rain,2020,R,c-,solo,men,white
 6/24/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:05 PM,"PARDI, JON",Last Night Lonely,2022,R,c-,solo,men,white
@@ -4703,7 +4703,7 @@
 7/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,2:47 AM,"ANDRESS, INGRID/HUNT, SAM",Wishful Drinking,2021,R,c-,collab,male-female,white
 7/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,2:51 AM,"RAY, FRANK",Country'd Look Good On You,2021,R,c-,solo,men,hispanic
 7/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,2:55 AM,"SHELTON, BLAKE",God Gave Me You,2011,G,c-,solo,men,white
-1/28/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:54 AM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
+7/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,2:58 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white
 7/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:02 AM,"HAYES, WALKER",Fancy Like,2021,R,c-,solo,men,white
 7/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:04 AM,ZAC BROWN BAND,Out In The Middle,2021,C,c-,group,men,white
 7/29/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:07 AM,"HOUSER, RANDY",How Country Feels,2012,G,c-,solo,men,white
@@ -4860,7 +4860,7 @@
 7/29/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:17 PM,"RAY, MICHAEL",Whiskey And Rain,2020,R,c-,solo,men,white
 7/29/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:20 PM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white
 7/29/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:23 PM,"MCCREERY, SCOTTY",Damn Strait,2021,R,c-,solo,men,white
-2/7/22,"Monday, Barrett",MID,iHeartMedia,KASE-FM,1:49 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
+7/29/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:27 PM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white
 7/29/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:30 PM,"PARDI, JON",Last Night Lonely,2022,R,c-,solo,men,white
 7/29/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:33 PM,"ALDEAN, JASON/KELLY CLARKSON",Don't You Wanna Stay,2010,G,c-,collab,male-female,white
 7/29/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:37 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  7:45),,,,,,
@@ -4975,7 +4975,7 @@
 7/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,9:54 PM,"ALDEAN, JASON",Tattoos On This Town,2010,G,c-,solo,men,white
 7/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,9:57 PM,"MORRIS, MAREN",Circles Around This Town,2022,R,c-,solo,women,white
 7/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:00 PM,"BENTLEY, DIERKS",Gold,2022,C,c-,solo,men,white
-3/18/22,"Friday, Underwood",MID,iHeartMedia,KASE-FM,12:08 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
+7/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:03 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white
 7/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:06 PM,"CURRINGTON, BILLY",Do I Make You Wanna,2015,G,c-,solo,men,white
 7/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:09 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  7:45),,,,,,
 7/29/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,10:18 PM,"BRYAN, LUKE",Country On,2022,R,c-,solo,men,white
@@ -5132,7 +5132,7 @@
 8/26/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,8:14 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  5:45),,,,,,
 8/26/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,8:22 AM,"ALDEAN, JASON",Trouble With A Heartbreak,2022,R,c-,solo,men,white
 8/26/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,8:26 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  5:30),,,,,,
-3/18/22,"Friday, Underwood",EVE,iHeartMedia,KASE-FM,7:30 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
+8/26/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,8:41 AM,"MARLOWE, KAMERON",Giving You Up,2019,C,c-,solo,men,white
 8/26/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,8:45 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  4:15),,,,,,
 8/26/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,8:51 AM,"ALLAN, GARY",Watching Airplanes,2007,G,c-,solo,men,white
 8/26/22,"Friday, regular",AMD,iHeartMedia,KASE-FM,8:54 AM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white
@@ -5444,7 +5444,7 @@
 9/30/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:55 AM,"LAMBERT, MIRANDA",The House That Built Me,2009,G,c-,solo,women,white
 9/30/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:58 AM,"DAVIS, JORDAN",Singles You Up,2017,G,c-,solo,men,white
 9/30/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:02 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white
-3/25/22,"Friday, regular",PMD,iHeartMedia,KASE-FM,4:36 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
+9/30/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:05 AM,"BAND PERRY, THE",If I Die Young,2010,G,c-,trio,male-female,white
 9/30/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:09 AM,"COMBS, LUKE",The Kind Of Love We Make,2022,R,c-,solo,men,white
 9/30/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:12 AM,"BRYAN, LUKE","Sunrise, Sunburn, Sunset",2017,G,c-,solo,men,white
 9/30/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,4:18 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  3:45),,,,,,
@@ -5552,7 +5552,7 @@
 9/30/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:26 PM,"TENPENNY, MITCHELL",Truth About You,2021,R,c-,solo,men,white
 9/30/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:29 PM,"ALDEAN, JASON",When She Says Baby,2012,G,c-,solo,men,white
 9/30/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:32 PM,PARMALEE,Take My Name,2021,R,c-,group,men,white
-3/25/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,9:06 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
+9/30/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:34 PM,ZAC BROWN BAND,Out In The Middle,2021,C,c-,group,men,white
 9/30/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:37 PM,"GILBERT, BRANTLEY",Bottoms Up,2013,G,c-,solo,men,white
 9/30/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:41 PM,"CHESNEY, KENNY",Get Along,2018,G,c-,solo,men,white
 9/30/22,"Friday, regular",MID,iHeartMedia,KASE-FM,12:44 PM,"HOUSER, RANDY",Note To Self,2022,C,c-,solo,men,white
@@ -5943,7 +5943,7 @@
 10/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:17 PM,"MCCREERY, SCOTTY",Damn Strait,2021,R,c-,solo,men,white
 10/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:21 PM,"ALDEAN, JASON",When She Says Baby,2012,G,c-,solo,men,white
 10/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:24 PM,"WALLEN, MORGAN",You Proof,2022,R,c-,solo,men,white
-5/27/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,7:04 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
+10/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:26 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
 10/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:29 PM,JELLY ROLL,Son Of A Sinner,2021,C,c-,solo,men,white
 10/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:33 PM,"PAISLEY, BRAD",I'm Gonna Miss Her,2001,G,c-,solo,men,white
 10/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:38 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  6:00),,,,,,
@@ -6033,7 +6033,7 @@
 10/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,8:19 PM,"BRYAN, LUKE",Waves,2021,R,c-,solo,men,white
 10/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,8:22 PM,"WALLEN, MORGAN",You Proof,2022,R,c-,solo,men,white
 10/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,8:25 PM,LADY ANTEBELLUM,Just A Kiss,2011,G,c-,trio,male-female,white
-6/13/22,"Monday, Pearce",MID,iHeartMedia,KASE-FM,11:29 AM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
+10/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,8:29 PM,ZAC BROWN BAND,Out In The Middle,2021,C,c-,group,men,white
 10/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,8:31 PM,PARMALEE,Take My Name,2021,R,c-,group,men,white
 10/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,8:34 PM,LOCASH,I Love This Life,2014,G,c-,duo,men,white
 10/28/22,"Friday, regular",EVE,iHeartMedia,KASE-FM,8:38 PM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  5:15),,,,,,
@@ -6157,7 +6157,7 @@
 11/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:16 AM,"SMITH, GRANGER",Forever Forward,2022,C,c-,solo,men,white
 11/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:19 AM,SPOT BREAK,Commercials And/Or Recorded Promos (Duration  3:00),,,,,,
 11/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:22 AM,"EVANS, MORGAN",Over For You,2022,C,c-,solo,men,white
-10/28/22,"Friday, regular",MID,iHeartMedia,KASE-FM,2:26 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic
+11/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:25 AM,"JACKSON, ALAN/BUFFETT, JIMMY",It's Five O'Clock Somewhere,2003,G,c-,collab,men,white
 11/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:28 AM,"WALLEN, MORGAN",You Proof,2022,R,c-,solo,men,white
 11/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:30 AM,"WILSON, LAINEY",Heart Like A Truck,2022,C,c-,solo,women,white
 11/25/22,"Friday, regular",OVN,iHeartMedia,KASE-FM,3:33 AM,"HUNT, SAM",Leave The Night On,2014,G,c-,solo,men,white

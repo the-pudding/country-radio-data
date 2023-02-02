@@ -1,4 +1,4 @@
-﻿Date,Weekday,Dayparts,OWNER,Station,Time Played,Artist,Title,Rel. Date,GRC,genre,ensemble,gender,race
+date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble,gender,race
 1/7/22,"Friday, Morris",OVN,Cox,KCYY-FM,12:00:00 AM,"BRYAN, LUKE",Play It Again,2013,G,c-,solo,men,white
 1/7/22,"Monday, Barrett",OVN,Cox,KCYY-FM,12:01:00 AM,FLORIDA GEORGIA LINE,This Is How We Roll,2013,G,c-,duo,men,white
 1/7/22,"Friday, Morris",OVN,Cox,KCYY-FM,12:04:00 AM,"PARDI, JON",Tequila Little Time,2019,R,c-,solo,men,white

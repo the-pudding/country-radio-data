@@ -14,9 +14,9 @@ let songPlays_B2B;
 let summaryData = []
 
 function computeSummary(data, file) {
-    stationName = data[0].Station;
+    stationName = data[0].station;
     cityName = file.split("_")[0];
-    ownerName = data[0].OWNER;
+    ownerName = data[0].owner;
     console.log(cityName)
     songPlays = data.length;
 
@@ -82,8 +82,10 @@ function addB2BData(data, file) {
         if (i > 0) {
             let prevGender = data[i-1].gender;
             let currGender = data[i].gender;
+            let prevDate = data[i-1].date;
+            let currDate = data[i].date;
 
-            if (currGender == prevGender) {
+            if (currGender == prevGender && prevDate == currDate) {
                 if (currGender == "women") { b2bValue = "B2Bwomen" }
                 else if (currGender == "men") { b2bValue = "B2Bmen" }
                 else { b2bValue = "B2Bmixed" }
@@ -108,18 +110,19 @@ function addB2BData(data, file) {
 
 function createB2Bcsv(file) {
     // Loads in file 
-    const raw = d3.csvParse(fs.readFileSync(`${IN_PATH}${file}`, "utf8"));
+    const raw = fs.readFileSync(`${IN_PATH}${file}`, "utf8");
+    const csvData = d3.csvParse(raw);
 
     // Filters out spot breaks so that the data only includes songs
-    let playsOnly = raw.filter(d => !d.Artist.includes("SPOT BREAK") )
+    let playsOnly = csvData.filter(d => !d.artist.includes("SPOT BREAK") )
 
-    // Adds the column for b2b plays
+    // // Adds the column for b2b plays
     addB2BData(playsOnly, file) 
 
-    // Creates summary data for each station
+    // // Creates summary data for each station
     computeSummary(playsOnly, file)
 
-    // Writes out the station b2b csv
+    // // Writes out the station b2b csv
     const concatData = [].concat(...songPlays_B2B).map(d => ({
 		...d
 	}));

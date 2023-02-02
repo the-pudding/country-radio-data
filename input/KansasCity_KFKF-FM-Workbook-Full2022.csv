@@ -1,4 +1,4 @@
-﻿Date,Weekday,Dayparts,OWNER,Station,Time Played,Artist,Title,Rel. Date,GRC,genre,ensemble,gender,race
+date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble,gender,race
 1/7/22,"Friday, Morris",OVN,Steel City,KFKF-FM,12:02:00 AM,"ALDEAN, JASON/LAMBERT, MIRANDA",Drowns The Whiskey,2018,G,c-,collab,male-female,white
 1/7/22,"Friday, Morris",OVN,Steel City,KFKF-FM,12:05:00 AM,FLORIDA GEORGIA LINE,Long Live,2020,R,c-,duo,men,white
 1/7/22,"Friday, Morris",OVN,Steel City,KFKF-FM,12:08:00 AM,"LAWRENCE, TRACY",Alibis,1993,G,c-,solo,men,white

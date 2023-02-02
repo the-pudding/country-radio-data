@@ -1,4 +1,4 @@
-﻿Date,Weekday,Daypart,OWNER,Station,Time Played,Artist,Title,Rel. Date,GRC,genre,ensemble,gender,race
+date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble,gender,race
 1/7/22,"Friday, Morris",OVN,Cumulus,WSM-FM,12:03 AM,ALABAMA,Mountain Music,1982,G,c-,group,men,white
 1/7/22,"Friday, Morris",OVN,Cumulus,WSM-FM,12:06 AM,"MOORE, KIP",Somethin' 'Bout A Truck,2011,G,c-,solo,men,white
 1/7/22,"Friday, Morris",OVN,Cumulus,WSM-FM,12:09 AM,"HILL, FAITH",Breathe,1999,G,c-,solo,women,white
