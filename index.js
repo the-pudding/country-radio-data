@@ -10,34 +10,32 @@ let stationName;
 let cityName;
 let ownerName;
 let songPlays;
-let playsOnly;
 let songPlays_B2B;
-let b2bValue_ARRAY = [];
 let summaryData = []
 
-function computeSummary(file) {
-    stationName = playsOnly[0].Station;
+function computeSummary(data, file) {
+    stationName = data[0].Station;
     cityName = file.split("_")[0];
-    ownerName = playsOnly[0].OWNER;
+    ownerName = data[0].OWNER;
     console.log(cityName)
-    songPlays = playsOnly.length;
+    songPlays = data.length;
 
     // Women songs stats
-    const onlyWomenSongs_ARRAY = playsOnly.filter(d => d.gender == "women");
+    const onlyWomenSongs_ARRAY = data.filter(d => d.gender == "women");
     const onlyWomenSongs_COUNT = onlyWomenSongs_ARRAY.length;
     const onlyWomenSongs_PERCENT = onlyWomenSongs_COUNT/songPlays*100;
     const b2bWomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen").length;
     const b2bWomenSongs_PERCENT = b2bWomenSongs_COUNT/songPlays*100;
 
     // Men songs stats
-    const onlyMenSongs_ARRAY = playsOnly.filter(d => d.gender == "men");
+    const onlyMenSongs_ARRAY = data.filter(d => d.gender == "men");
     const onlyMenSongs_COUNT = onlyMenSongs_ARRAY.length;
     const onlyMenSongs_PERCENT = onlyMenSongs_COUNT/songPlays*100;
     const b2bMenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmen").length;
     const b2bMenSongs_PERCENT = b2bMenSongs_COUNT/songPlays*100;
 
     // Mixed gender songs stats
-    const onlyMixedGenderSongs_ARRAY = playsOnly.filter(d => d.gender == "male-female");
+    const onlyMixedGenderSongs_ARRAY = data.filter(d => d.gender == "male-female");
     const onlyMixedGenderSongs_COUNT = onlyMixedGenderSongs_ARRAY.length;
     const onlyMixedGenderSongs_PERCENT = onlyMixedGenderSongs_COUNT/songPlays*100;
     const b2bMixedGenderSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmixed").length;
@@ -68,16 +66,17 @@ function computeSummary(file) {
 }
 
 
-function b2bSync(i) {
+function b2bSync(array, i) {
     if (i == 0) {
         return "X"
     } else {
-        return b2bValue_ARRAY[i-1]
+        return array[i-1]
     }
 }
 
 function addB2BData(data, file) {
     let b2bValue;
+    let b2bValue_ARRAY = [];
 
     for(var i = 0; i < data.length; i++) {
         if (i > 0) {
@@ -103,7 +102,7 @@ function addB2BData(data, file) {
     songPlays_B2B = data.map((d, i) => ({
         ...d,
         city: currCity,
-        b2b_gender: b2bSync(i)
+        b2b_gender: b2bSync(b2bValue_ARRAY, i)
     }))
 }
 
@@ -112,13 +111,13 @@ function createB2Bcsv(file) {
     const raw = d3.csvParse(fs.readFileSync(`${IN_PATH}${file}`, "utf8"));
 
     // Filters out spot breaks so that the data only includes songs
-    playsOnly = raw.filter(d => !d.Artist.includes("SPOT BREAK") )
+    let playsOnly = raw.filter(d => !d.Artist.includes("SPOT BREAK") )
 
     // Adds the column for b2b plays
     addB2BData(playsOnly, file) 
 
     // Creates summary data for each station
-    computeSummary(file)
+    computeSummary(playsOnly, file)
 
     // Writes out the station b2b csv
     const concatData = [].concat(...songPlays_B2B).map(d => ({
