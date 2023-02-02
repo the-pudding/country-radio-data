@@ -41,9 +41,15 @@ function computeSummary(data, file) {
     const b2bMixedGenderSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmixed").length;
     const b2bMixedGenderSongs_PERCENT = b2bMixedGenderSongs_COUNT/songPlays*100;
 
-    // Non b2b
-    const nonb2bSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "X").length;
-    const nonb2bSongs_PERCENT = nonb2bSongs_COUNT/songPlays*100;
+    // Women and mixed combined stats
+    const onlyCombinedGenderSongs_ARRAY = data.filter(d => d.gender == "male-female" || d.gender == "women");
+    const onlyCombinedGenderSongs_COUNT = onlyCombinedGenderSongs_ARRAY.length;
+    const onlyCombinedGenderSongs_PERCENT = onlyCombinedGenderSongs_COUNT/songPlays*100;
+    const b2bCombinedGenderSongs_COUNT = songPlays_B2B.filter(d => d.b2b_combinedGender == "B2BCombWomen").length;
+    const b2bCombinedGenderSongs_PERCENT = b2bCombinedGenderSongs_COUNT/songPlays*100;
+
+    // Total songs
+    const total_COUNT = data.length;
 
     summaryData.push({cityName, 
                     stationName, 
@@ -60,8 +66,11 @@ function computeSummary(data, file) {
                     onlyMixedGenderSongs_PERCENT,
                     b2bMixedGenderSongs_COUNT,
                     b2bMixedGenderSongs_PERCENT,
-                    nonb2bSongs_COUNT,
-                    nonb2bSongs_PERCENT
+                    onlyCombinedGenderSongs_COUNT,
+                    onlyCombinedGenderSongs_PERCENT,
+                    b2bCombinedGenderSongs_COUNT,
+                    b2bCombinedGenderSongs_PERCENT,
+                    total_COUNT
     })
 }
 
@@ -108,6 +117,40 @@ function addB2BData(data, file) {
     }))
 }
 
+function addB2BCombinedData(data, file) {
+    let b2bValueCombined;
+    let b2bValueCombined_ARRAY = [];
+
+    for(var i = 0; i < data.length; i++) {
+        if (i > 0) {
+            let prevGender = data[i-1].gender;
+            let currGender = data[i].gender;
+            let prevDate = data[i-1].date;
+            let currDate = data[i].date;
+
+            if (currGender == "women" && prevGender == "women" || currGender == "women" && prevGender == "male-female") {
+                b2bValueCombined = "B2BCombWomen"
+            } else if (currGender == "male-female" && prevGender == "women" || currGender == "male-female" && prevGender == "male-female") {
+                b2bValueCombined = "B2BCombWomen"
+            } else if (currGender == "men" && prevGender == "men") {
+                b2bValueCombined = "B2BCombMen"
+            } else {
+                b2bValueCombined = "X"
+            }
+
+            b2bValueCombined_ARRAY.push(b2bValueCombined)
+        }
+    }
+
+    const currCity = file.split("_")[0];
+
+    songPlays_B2B = data.map((d, i) => ({
+        ...d,
+        city: currCity,
+        b2b_combinedGender: b2bSync(b2bValueCombined_ARRAY, i)
+    }))
+}
+
 function createB2Bcsv(file) {
     // Loads in file 
     const raw = fs.readFileSync(`${IN_PATH}${file}`, "utf8");
@@ -116,13 +159,14 @@ function createB2Bcsv(file) {
     // Filters out spot breaks so that the data only includes songs
     let playsOnly = csvData.filter(d => !d.artist.includes("SPOT BREAK") )
 
-    // // Adds the column for b2b plays
+    // Adds the column for b2b plays
     addB2BData(playsOnly, file) 
+    addB2BCombinedData(songPlays_B2B, file) 
 
-    // // Creates summary data for each station
+    // Creates summary data for each station
     computeSummary(playsOnly, file)
 
-    // // Writes out the station b2b csv
+    // Writes out the station b2b csv
     const concatData = [].concat(...songPlays_B2B).map(d => ({
 		...d
 	}));
