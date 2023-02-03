@@ -128,12 +128,16 @@ function addB2BCombinedData(data, file) {
             let prevDate = data[i-1].date;
             let currDate = data[i].date;
 
-            if (currGender == "women" && prevGender == "women" || currGender == "women" && prevGender == "male-female") {
-                b2bValueCombined = "B2BCombWomen"
-            } else if (currGender == "male-female" && prevGender == "women" || currGender == "male-female" && prevGender == "male-female") {
-                b2bValueCombined = "B2BCombWomen"
-            } else if (currGender == "men" && prevGender == "men") {
-                b2bValueCombined = "B2BCombMen"
+            if (currDate == prevDate) {
+                if (currGender == "women" && prevGender == "women" || currGender == "women" && prevGender == "male-female") {
+                    b2bValueCombined = "B2BCombWomen"
+                } else if (currGender == "male-female" && prevGender == "women" || currGender == "male-female" && prevGender == "male-female") {
+                    b2bValueCombined = "B2BCombWomen"
+                } else if (currGender == "men" && prevGender == "men") {
+                    b2bValueCombined = "B2BCombMen"
+                } else {
+                    b2bValueCombined = "X"
+                }
             } else {
                 b2bValueCombined = "X"
             }
