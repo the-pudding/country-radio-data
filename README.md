@@ -37,6 +37,9 @@ Imports all radio station data csvs from `input/`, outputs new csvs with back-to
 | onlyMixedGenderSongs_PERCENT  | number  | The **percentage of songs** by mix gendered artists (ensemble, collaboration, duet, etc.)  |
 | b2bMixedGenderSongs_COUNT  | number  | The **total number of back-to-back songs** by mix gendered artists (ensemble, collaboration, duet, etc.)  |
 | b2bMixedGenderSongs_PERCENT  | number  | The **percentage of back-to-back songs** by mix gendered artists (ensemble, collaboration, duet, etc.)  |
-| nonb2bSongs_COUNT  | number  | The **total number of songs** that were not same-gender (men/men, women/women, mixed/mixed) back-to-back plays  |
-| nonb2bSongs_PERCENT  | number  | The **percentage of songs** that were not same-gender (men/men, women/women, mixed/mixed) back-to-back plays  |
+| onlyCombinedGenderSongs_COUNT  | number  | The **total number of songs** by women AND mix gendered artists (ensemble, collaboration, duet, etc.)  |
+| onlyCombinedGenderSongs_PERCENT  | number  | The **percentage of songs** by women AND mix gendered artists (ensemble, collaboration, duet, etc.)  |
+| b2bCombinedGenderSongs_COUNT  | number  | The **total number of back-to-back songs** by women AND mix gendered artists (ensemble, collaboration, duet, etc.)  |
+| b2bCombinedGenderSongs_PERCENT  | number  | The **percentage of back-to-back songs** by women AND mix gendered artists (ensemble, collaboration, duet, etc.)  |
+| total_COUNT  | number  | The **total number of songs** by all artists |
 
