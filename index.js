@@ -41,12 +41,24 @@ function computeSummary(data, file) {
     const b2bMixedGenderSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmixed").length;
     const b2bMixedGenderSongs_PERCENT = b2bMixedGenderSongs_COUNT/songPlays*100;
 
-    // Women and mixed combined stats
+    // Women and all mixed combined stats
     const onlyCombinedGenderSongs_ARRAY = data.filter(d => d.gender == "male-female" || d.gender == "women");
     const onlyCombinedGenderSongs_COUNT = onlyCombinedGenderSongs_ARRAY.length;
     const onlyCombinedGenderSongs_PERCENT = onlyCombinedGenderSongs_COUNT/songPlays*100;
     const b2bCombinedGenderSongs_COUNT = songPlays_B2B.filter(d => d.b2b_combinedGender == "B2BCombWomen").length;
     const b2bCombinedGenderSongs_PERCENT = b2bCombinedGenderSongs_COUNT/songPlays*100;
+
+    // Women and collabs combined stats
+    let onlyCollabGenderSongs_ARRAY = data.filter(d => d.gender == "male-female" && d.ensemble == "collab" || d.gender == "women");
+    const onlyCollabGenderSongs_COUNT = onlyCollabGenderSongs_ARRAY.length;
+    const onlyCollabGenderSongs_PERCENT = onlyCollabGenderSongs_COUNT/songPlays*100;
+    const b2bCollabGenderSongs_COUNT = songPlays_B2B.filter(d => d.b2b_collabGender == "B2BCollabWomen").length;
+    const b2bCollabGenderSongs_PERCENT = b2bCollabGenderSongs_COUNT/songPlays*100;
+
+    const combinedCollabDiff_COUNT = onlyCombinedGenderSongs_COUNT - onlyCollabGenderSongs_COUNT;
+    const combinedCollabDiff_PERCENT = onlyCombinedGenderSongs_PERCENT - onlyCollabGenderSongs_PERCENT;
+    const b2bcombinedCollabDiff_COUNT = b2bCombinedGenderSongs_COUNT - b2bCollabGenderSongs_COUNT;
+    const b2bcombinedCollabDiff_PERCENT = b2bCombinedGenderSongs_PERCENT - b2bCollabGenderSongs_PERCENT;
 
     // Total songs
     const total_COUNT = data.length;
@@ -54,6 +66,7 @@ function computeSummary(data, file) {
     summaryData.push({cityName, 
                     stationName, 
                     ownerName, 
+                    total_COUNT,
                     onlyWomenSongs_COUNT, 
                     onlyWomenSongs_PERCENT,
                     b2bWomenSongs_COUNT,
@@ -70,7 +83,15 @@ function computeSummary(data, file) {
                     onlyCombinedGenderSongs_PERCENT,
                     b2bCombinedGenderSongs_COUNT,
                     b2bCombinedGenderSongs_PERCENT,
-                    total_COUNT
+                    onlyCollabGenderSongs_COUNT,
+                    onlyCollabGenderSongs_PERCENT,
+                    b2bCollabGenderSongs_COUNT,
+                    b2bCollabGenderSongs_PERCENT,
+                    combinedCollabDiff_COUNT,
+                    combinedCollabDiff_PERCENT,
+                    b2bcombinedCollabDiff_COUNT,
+                    b2bcombinedCollabDiff_PERCENT
+
     })
 }
 
@@ -155,6 +176,62 @@ function addB2BCombinedData(data, file) {
     }))
 }
 
+function addB2BCollabData(data, file) {
+    let b2bValueCollab;
+    let b2bValueCollab_ARRAY = [];
+
+    for(var i = 0; i < data.length; i++) {
+        if (i > 0) {
+            let prevGender = data[i-1].gender;
+            let currEnsemble = data[i].ensemble;
+            let prevEnsemble = data[i-1].ensemble;
+            let currGender = data[i].gender;
+            let prevDate = data[i-1].date;
+            let currDate = data[i].date;
+
+            if (currDate == prevDate) {
+                if (currGender == "women" && prevGender == "women") {
+                    b2bValueCollab = "B2BCollabWomen"
+                } else if (currGender == "women" && prevGender == "male-female") {
+                    if (prevEnsemble == "collab") {
+                        b2bValueCollab = "B2BCollabWomen"
+                    } else {
+                        b2bValueCollab = "X"
+                    }
+                } else if (currGender == "male-female" && prevGender == "women") {
+                    if (currEnsemble == "collab") {
+                        b2bValueCollab = "B2BCollabWomen"
+                    } else {
+                        b2bValueCollab = "X"
+                    }
+                } else if (currGender == "male-female" && prevGender == "male-female") {
+                    if (prevEnsemble == "collab" && currEnsemble == "collab") {
+                        b2bValueCollab = "B2BCollabWomen"
+                    } else {
+                        b2bValueCollab = "X"
+                    }
+                } else if (currGender == "men" && prevGender == "men") {
+                    b2bValueCollab = "B2BCollabMen"
+                } else {
+                    b2bValueCollab = "X"
+                }
+            } else {
+                b2bValueCollab = "X"
+            }
+
+            b2bValueCollab_ARRAY.push(b2bValueCollab)
+        }
+    }
+
+    const currCity = file.split("_")[0];
+
+    songPlays_B2B = data.map((d, i) => ({
+        ...d,
+        city: currCity,
+        b2b_collabGender: b2bSync(b2bValueCollab_ARRAY, i)
+    }))
+}
+
 function createB2Bcsv(file) {
     // Loads in file 
     const raw = fs.readFileSync(`${IN_PATH}${file}`, "utf8");
@@ -166,6 +243,7 @@ function createB2Bcsv(file) {
     // Adds the column for b2b plays
     addB2BData(playsOnly, file) 
     addB2BCombinedData(songPlays_B2B, file) 
+    addB2BCollabData(songPlays_B2B, file) 
 
     // Creates summary data for each station
     computeSummary(playsOnly, file)

@@ -25,6 +25,7 @@ Imports all radio station data csvs from `input/`, outputs new csvs with back-to
 | cityName | string | The city in which the radio station is located |
 | stationName  | string  | The radio station's 3-to-4-letter call sign and the wave (FM/AM) formatted like `{callSign}-{wave}`  |
 | ownerName | string | The radio station's owner |
+| total_COUNT  | number  | The **total number of songs** by all artists |
 | onlyWomenSongs_COUNT  | number  | The **total number of songs** by women artists (either solo or in a women's only ensemble)  |
 | onlyWomenSongs_PERCENT  | number  | The **percentage of songs** by women artists (either solo or in a women's only ensemble)  |
 | b2bWomenSongs_COUNT  | number  | The **total number of back-to-back songs** by women artists (either solo or in a women's only ensemble)  |
@@ -41,5 +42,10 @@ Imports all radio station data csvs from `input/`, outputs new csvs with back-to
 | onlyCombinedGenderSongs_PERCENT  | number  | The **percentage of songs** by women AND mix gendered artists (ensemble, collaboration, duet, etc.)  |
 | b2bCombinedGenderSongs_COUNT  | number  | The **total number of back-to-back songs** by women AND mix gendered artists (ensemble, collaboration, duet, etc.)  |
 | b2bCombinedGenderSongs_PERCENT  | number  | The **percentage of back-to-back songs** by women AND mix gendered artists (ensemble, collaboration, duet, etc.)  |
-| total_COUNT  | number  | The **total number of songs** by all artists |
+| onlyCollabGenderSongs_COUNT  | number  | The **total number of songs** by women AND mix gendered artists collabs  |
+| onlyCollabGenderSongs_PERCENT  | number  | The **percentage of songs** by women AND mix gendered artists collabs  |
+| b2bCollabGenderSongs_COUNT  | number  | The **total number of back-to-back songs** by women AND mix gendered artists collabs  |
+| b2bCollabGenderSongs_PERCENT  | number  | The **percentage of back-to-back songs** by women AND mix gendered artists collabs  |
+| b2bcombinedCollabDiff_COUNT  | number | The **number difference of songs** between women + ALL mixed gendered artists and women + ONLY mixed gendered collabs |
+| b2bcombinedCollabDiff_PERCENT  | number | The **percent difference of songs** between women + ALL mixed gendered artists and women + ONLY mixed gendered collabs |
 
