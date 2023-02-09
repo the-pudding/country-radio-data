@@ -48,4 +48,12 @@ Imports all radio station data csvs from `input/`, outputs new csvs with back-to
 | b2bCollabGenderSongs_PERCENT  | number  | The **percentage of back-to-back songs** by women AND mix gendered artists collabs  |
 | b2bcombinedCollabDiff_COUNT  | number | The **number difference of songs** between women + ALL mixed gendered artists and women + ONLY mixed gendered collabs |
 | b2bcombinedCollabDiff_PERCENT  | number | The **percent difference of songs** between women + ALL mixed gendered artists and women + ONLY mixed gendered collabs |
+| onlyNonWhiteSongs_COUNT  | number  | The **total number of songs** by non-white artists |
+| onlyNonWhiteSongs_PERCENT  | number  | The **percentage of songs** by non-white artists  |
+| b2bNonWhiteSongs_COUNT  | number  | The **total number of back-to-back songs** by non-white artists  |
+| b2bNonWhiteSongs_PERCENT  | number  | The **percentage of back-to-back songs** by non-white artists  |
+| onlyNonWhiteWomenSongs_COUNT  | number  | The **total number of songs** by non-white women artists |
+| onlyNonWhiteWomenSongs_PERCENT  | number  | The **percentage of songs** by non-white women artists  |
+| b2bNonWhiteWomenSongs_COUNT  | number  | The **total number of back-to-back songs** by non-white women artists  |
+| b2bNonWhiteWomenSongs_PERCENT  | number  | The **percentage of back-to-back songs** by non-white women artists  |
 

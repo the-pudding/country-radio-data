@@ -60,6 +60,19 @@ function computeSummary(data, file) {
     const b2bcombinedCollabDiff_COUNT = b2bCombinedGenderSongs_COUNT - b2bCollabGenderSongs_COUNT;
     const b2bcombinedCollabDiff_PERCENT = b2bCombinedGenderSongs_PERCENT - b2bCollabGenderSongs_PERCENT;
 
+    // Non-white song stats
+    const onlyNonWhiteSong_ARRAY = data.filter(d => d.race !== "white");
+    const onlyNonWhiteSongs_COUNT = onlyNonWhiteSong_ARRAY.length;
+    const onlyNonWhiteSongs_PERCENT = onlyNonWhiteSongs_COUNT/songPlays*100;
+    const b2bNonWhiteSongs_COUNT = songPlays_B2B.filter(d => d.b2b_race == "B2Bnonwhite").length;
+    const b2bNonWhiteSongs_PERCENT = b2bNonWhiteSongs_COUNT/songPlays*100;
+    
+    const onlyNonWhiteWomenSong_ARRAY = data.filter(d => d.race !== "white" && d.gender == "women");
+    const onlyNonWhiteWomenSongs_COUNT = onlyNonWhiteWomenSong_ARRAY.length;
+    const onlyNonWhiteWomenSongs_PERCENT = onlyNonWhiteWomenSongs_COUNT/songPlays*100;
+    const b2bNonWhiteWomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_raceGender == "B2BnonwhiteWomen").length;
+    const b2bNonWhiteWomenSongs_PERCENT = b2bNonWhiteWomenSongs_COUNT/songPlays*100;
+
     // Total songs
     const total_COUNT = data.length;
 
@@ -90,7 +103,15 @@ function computeSummary(data, file) {
                     combinedCollabDiff_COUNT,
                     combinedCollabDiff_PERCENT,
                     b2bcombinedCollabDiff_COUNT,
-                    b2bcombinedCollabDiff_PERCENT
+                    b2bcombinedCollabDiff_PERCENT,
+                    onlyNonWhiteSongs_COUNT,
+                    onlyNonWhiteSongs_PERCENT,
+                    b2bNonWhiteSongs_COUNT,
+                    b2bNonWhiteSongs_PERCENT,
+                    onlyNonWhiteWomenSongs_COUNT,
+                    onlyNonWhiteWomenSongs_PERCENT,
+                    b2bNonWhiteWomenSongs_COUNT,
+                    b2bNonWhiteWomenSongs_PERCENT
 
     })
 }
@@ -232,6 +253,69 @@ function addB2BCollabData(data, file) {
     }))
 }
 
+function addB2BRaceData(data, file) {
+    let b2bRaceValue;
+    let b2bRaceValue_ARRAY = [];
+
+    for(var i = 0; i < data.length; i++) {
+        if (i > 0) {
+            let prevRace = data[i-1].race;
+            let currRace = data[i].race;
+            let prevDate = data[i-1].date;
+            let currDate = data[i].date;
+
+            if (currRace == prevRace && prevDate == currDate || currRace !== "white" && prevRace !=="white" && prevDate == currDate) {
+                if (currRace !== "white") { b2bRaceValue = "B2Bnonwhite" }
+                else { b2bRaceValue = "B2Bwhite" }
+            } else {
+                b2bRaceValue = "X"
+            }
+
+            b2bRaceValue_ARRAY.push(b2bRaceValue)
+        }
+    }
+
+    songPlays_B2B = data.map((d, i) => ({
+        ...d,
+        b2b_race: b2bSync(b2bRaceValue_ARRAY, i)
+    }))
+}
+
+function addB2BRaceGenderData(data, file) {
+    let b2bRaceGenderValue;
+    let b2bRaceGenderValue_ARRAY = [];
+
+    for(var i = 0; i < data.length; i++) {
+        if (i > 0) {
+            let prevGender = data[i-1].gender;
+            let currGender = data[i].gender;
+            let prevRace = data[i-1].race;
+            let currRace = data[i].race;
+            let prevDate = data[i-1].date;
+            let currDate = data[i].date;
+
+            if (currRace == prevRace && prevDate == currDate && currGender == prevGender || currRace !== "white" && prevRace !=="white" && prevDate == currDate && currGender == prevGender) {
+                if (currRace !== "white" && currGender == "women") { b2bRaceGenderValue = "B2BnonwhiteWomen" }
+                else if (currRace !== "white" && currGender == "men") { b2bRaceGenderValue = "B2BnonwhiteMen" }
+                else if (currRace !== "white" && currGender == "male-female") { b2bRaceGenderValue = "B2BnonwhiteMixed" }
+                else if (currRace == "white" && currGender == "women") { b2bRaceGenderValue = "B2BwhiteWomen" }
+                else if (currRace == "white" && currGender == "men") { b2bRaceGenderValue = "B2BwhiteMen" }
+                else if (currRace == "white" && currGender == "male-female") { b2bRaceGenderValue = "B2BwhiteMixed" }
+                else { b2bRaceGenderValue = "X" }
+            } else {
+                b2bRaceGenderValue = "X"
+            }
+
+            b2bRaceGenderValue_ARRAY.push(b2bRaceGenderValue)
+        }
+    }
+
+    songPlays_B2B = data.map((d, i) => ({
+        ...d,
+        b2b_raceGender: b2bSync(b2bRaceGenderValue_ARRAY, i)
+    }))
+}
+
 function createB2Bcsv(file) {
     // Loads in file 
     const raw = fs.readFileSync(`${IN_PATH}${file}`, "utf8");
@@ -244,6 +328,8 @@ function createB2Bcsv(file) {
     addB2BData(playsOnly, file) 
     addB2BCombinedData(songPlays_B2B, file) 
     addB2BCollabData(songPlays_B2B, file) 
+    addB2BRaceData(songPlays_B2B, file) 
+    addB2BRaceGenderData(songPlays_B2B, file)
 
     // Creates summary data for each station
     computeSummary(playsOnly, file)
