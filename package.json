@@ -4,7 +4,8 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"start": "node index.js"
+		"b2bSum": "node b2bSum.js",
+		"b2bDays": "node b2bDays.js"
 	},
 	"keywords": [],
 	"author": "",
