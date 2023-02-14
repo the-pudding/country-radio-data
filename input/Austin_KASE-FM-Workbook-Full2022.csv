@@ -1,4 +1,4 @@
-date,weekday,daypart,owner,station,time,artist,title,release,grc,genre,ensemble,gender,race
+date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble,gender,race
 1/7/22,"Friday, Morris",OVN,iHeartMedia,KASE-FM,12:01 AM,"JONES, GEORGE",Finally Friday,1993,G,c-,solo,men,white
 1/7/22,"Friday, Morris",OVN,iHeartMedia,KASE-FM,12:03 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white
 1/7/22,"Friday, Morris",OVN,iHeartMedia,KASE-FM,12:06 AM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white

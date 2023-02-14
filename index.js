@@ -27,6 +27,54 @@ function computeSummary(data, file) {
     const b2bWomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen").length;
     const b2bWomenSongs_PERCENT = b2bWomenSongs_COUNT/songPlays*100;
 
+    const OVNwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.dayparts == "OVN")
+    const OVNwomenSongs_COUNT = OVNwomenSongs_ARRAY.length;
+    const OVNwomenSongs_PERCENT = OVNwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
+    const b2bOVNwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.dayparts == "OVN").length;
+    const b2bOVNwomenSongs_PERCENT = b2bOVNwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
+
+    const AMDwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.dayparts == "AMD")
+    const AMDwomenSongs_COUNT = AMDwomenSongs_ARRAY.length;
+    const AMDwomenSongs_PERCENT = AMDwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
+    const b2bAMDwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.dayparts == "AMD").length;
+    const b2bAMDwomenSongs_PERCENT = b2bAMDwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
+
+    const MIDwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.dayparts == "MID")
+    const MIDwomenSongs_COUNT = MIDwomenSongs_ARRAY.length;
+    const MIDwomenSongs_PERCENT = MIDwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
+    const b2bMIDwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.dayparts == "MID").length;
+    const b2bMIDwomenSongs_PERCENT = b2bMIDwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
+
+    const PMDwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.dayparts == "PMD")
+    const PMDwomenSongs_COUNT = PMDwomenSongs_ARRAY.length;
+    const PMDwomenSongs_PERCENT = PMDwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
+    const b2bPMDwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.dayparts == "PMD").length;
+    const b2bPMDwomenSongs_PERCENT = b2bPMDwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
+
+    const EVEwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.dayparts == "EVE")
+    const EVEwomenSongs_COUNT = EVEwomenSongs_ARRAY.length;
+    const EVEwomenSongs_PERCENT = EVEwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
+    const b2bEVEwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.dayparts == "EVE").length;
+    const b2bEVEwomenSongs_PERCENT = b2bEVEwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
+
+    const GwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.grc == "G")
+    const GwomenSongs_COUNT = GwomenSongs_ARRAY.length;
+    const GwomenSongs_PERCENT = GwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
+    const b2bGwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.grc == "G").length;
+    const b2bGwomenSongs_PERCENT = b2bGwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
+
+    const RwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.grc == "R")
+    const RwomenSongs_COUNT = RwomenSongs_ARRAY.length;
+    const RwomenSongs_PERCENT = RwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
+    const b2bRwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.grc == "R").length;
+    const b2bRwomenSongs_PERCENT = b2bRwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
+
+    const CwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.grc == "C")
+    const CwomenSongs_COUNT = CwomenSongs_ARRAY.length;
+    const CwomenSongs_PERCENT = CwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
+    const b2bCwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.grc == "C").length;
+    const b2bCwomenSongs_PERCENT = b2bCwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
+
     // Men songs stats
     const onlyMenSongs_ARRAY = data.filter(d => d.gender == "men");
     const onlyMenSongs_COUNT = onlyMenSongs_ARRAY.length;
@@ -111,7 +159,39 @@ function computeSummary(data, file) {
                     onlyNonWhiteWomenSongs_COUNT,
                     onlyNonWhiteWomenSongs_PERCENT,
                     b2bNonWhiteWomenSongs_COUNT,
-                    b2bNonWhiteWomenSongs_PERCENT
+                    b2bNonWhiteWomenSongs_PERCENT,
+                    OVNwomenSongs_COUNT,
+                    OVNwomenSongs_PERCENT,
+                    b2bOVNwomenSongs_COUNT,
+                    b2bOVNwomenSongs_PERCENT,
+                    AMDwomenSongs_COUNT,
+                    AMDwomenSongs_PERCENT,
+                    b2bAMDwomenSongs_COUNT,
+                    b2bAMDwomenSongs_PERCENT,
+                    MIDwomenSongs_COUNT,
+                    MIDwomenSongs_PERCENT,
+                    b2bMIDwomenSongs_COUNT,
+                    b2bMIDwomenSongs_PERCENT,
+                    PMDwomenSongs_COUNT,
+                    PMDwomenSongs_PERCENT,
+                    b2bPMDwomenSongs_COUNT,
+                    b2bPMDwomenSongs_PERCENT,
+                    EVEwomenSongs_COUNT,
+                    EVEwomenSongs_PERCENT,
+                    b2bEVEwomenSongs_COUNT,
+                    b2bEVEwomenSongs_PERCENT,
+                    GwomenSongs_COUNT,
+                    GwomenSongs_PERCENT,
+                    b2bGwomenSongs_COUNT,
+                    b2bGwomenSongs_PERCENT,
+                    RwomenSongs_COUNT,
+                    RwomenSongs_PERCENT,
+                    b2bRwomenSongs_COUNT,
+                    b2bRwomenSongs_PERCENT,
+                    CwomenSongs_COUNT,
+                    CwomenSongs_PERCENT,
+                    b2bCwomenSongs_COUNT,
+                    b2bCwomenSongs_PERCENT
 
     })
 }
