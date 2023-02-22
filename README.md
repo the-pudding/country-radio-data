@@ -108,3 +108,7 @@ Imports all radio station data with b2b plays csvs from `output/`, and outputs t
 | onlyCombinedGenderSongs_PERCENT  | number  | The **percentage of songs** by women AND mix gendered artists (ensemble, collaboration, duet, etc.) per date  |
 | b2bCombinedGenderSongs_COUNT  | number  | The **total number of back-to-back songs** by women AND mix gendered artists (ensemble, collaboration, duet, etc.) per date   |
 | b2bCombinedGenderSongs_PERCENT  | number  | The **percentage of back-to-back songs** by women AND mix gendered artists (ensemble, collaboration, duet, etc.) per date  |
+
+## Analysis
+
+R scripts to run coin flip probability analysis.
