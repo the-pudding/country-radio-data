@@ -4,6 +4,7 @@ import * as d3 from "d3";
 const IN_PATH = "./input/"
 const OUT_PATH = "./output/"
 const files = fs.readdirSync(IN_PATH).filter(d => d.includes('.csv'));
+const lgbtqArtists = ["BROTHERS OSBORNE", "CLARK, BRANDY", "EDEN, BROOKE", "FAIRCHILD, SHELLY", "GILMAN, BILLY", "HAYES, HUNTER", "HERNDON, TY", "LIL NAS X", "CARLILE, BRANDI", "ROSE, LILY", "WRIGHT, CHELY", "HIGHWOMEN", "GRAE, HARPER"];
 
 // Overall variables
 let stationName;
@@ -108,18 +109,25 @@ function computeSummary(data, file) {
     const b2bcombinedCollabDiff_COUNT = b2bCombinedGenderSongs_COUNT - b2bCollabGenderSongs_COUNT;
     const b2bcombinedCollabDiff_PERCENT = b2bCombinedGenderSongs_PERCENT - b2bCollabGenderSongs_PERCENT;
 
-    // Non-white song stats
-    const onlyNonWhiteSong_ARRAY = data.filter(d => d.race !== "white");
-    const onlyNonWhiteSongs_COUNT = onlyNonWhiteSong_ARRAY.length;
-    const onlyNonWhiteSongs_PERCENT = onlyNonWhiteSongs_COUNT/songPlays*100;
-    const b2bNonWhiteSongs_COUNT = songPlays_B2B.filter(d => d.b2b_race == "B2Bnonwhite").length;
-    const b2bNonWhiteSongs_PERCENT = b2bNonWhiteSongs_COUNT/songPlays*100;
+    // LGBTQ song stats
+    const onlyLGBTQSong_ARRAY = songPlays_B2B.filter(d => d.lgbtq == true);
+    const onlyLGBTQSongs_COUNT = onlyLGBTQSong_ARRAY.length;
+    const onlyLGBTQSongs_PERCENT = onlyLGBTQSongs_COUNT/songPlays*100;
+    const b2bLGBTQSongs_COUNT = songPlays_B2B.filter(d => d.b2b_lgbtq == "B2BLGBTQ").length;
+    const b2bLGBTQSongs_PERCENT = b2bLGBTQSongs_COUNT/songPlays*100;
+
+    // POC song stats
+    const onlyPOCSong_ARRAY = data.filter(d => d.race !== "white");
+    const onlyPOCSongs_COUNT = onlyPOCSong_ARRAY.length;
+    const onlyPOCSongs_PERCENT = onlyPOCSongs_COUNT/songPlays*100;
+    const b2bPOCSongs_COUNT = songPlays_B2B.filter(d => d.b2b_race == "B2BPOC").length;
+    const b2bPOCSongs_PERCENT = b2bPOCSongs_COUNT/songPlays*100;
     
-    const onlyNonWhiteWomenSong_ARRAY = data.filter(d => d.race !== "white" && d.gender == "women");
-    const onlyNonWhiteWomenSongs_COUNT = onlyNonWhiteWomenSong_ARRAY.length;
-    const onlyNonWhiteWomenSongs_PERCENT = onlyNonWhiteWomenSongs_COUNT/songPlays*100;
-    const b2bNonWhiteWomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_raceGender == "B2BnonwhiteWomen").length;
-    const b2bNonWhiteWomenSongs_PERCENT = b2bNonWhiteWomenSongs_COUNT/songPlays*100;
+    const onlyPOCWomenSong_ARRAY = data.filter(d => d.race !== "white" && d.gender == "women");
+    const onlyPOCWomenSongs_COUNT = onlyPOCWomenSong_ARRAY.length;
+    const onlyPOCWomenSongs_PERCENT = onlyPOCWomenSongs_COUNT/songPlays*100;
+    const b2bPOCWomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_raceGender == "B2BPOCWomen").length;
+    const b2bPOCWomenSongs_PERCENT = b2bPOCWomenSongs_COUNT/songPlays*100;
 
     // Total songs
     const total_COUNT = data.length;
@@ -152,14 +160,18 @@ function computeSummary(data, file) {
                     combinedCollabDiff_PERCENT,
                     b2bcombinedCollabDiff_COUNT,
                     b2bcombinedCollabDiff_PERCENT,
-                    onlyNonWhiteSongs_COUNT,
-                    onlyNonWhiteSongs_PERCENT,
-                    b2bNonWhiteSongs_COUNT,
-                    b2bNonWhiteSongs_PERCENT,
-                    onlyNonWhiteWomenSongs_COUNT,
-                    onlyNonWhiteWomenSongs_PERCENT,
-                    b2bNonWhiteWomenSongs_COUNT,
-                    b2bNonWhiteWomenSongs_PERCENT,
+                    onlyLGBTQSongs_COUNT,
+                    onlyLGBTQSongs_PERCENT,
+                    b2bLGBTQSongs_COUNT,
+                    b2bLGBTQSongs_PERCENT,
+                    onlyPOCSongs_COUNT,
+                    onlyPOCSongs_PERCENT,
+                    b2bPOCSongs_COUNT,
+                    b2bPOCSongs_PERCENT,
+                    onlyPOCWomenSongs_COUNT,
+                    onlyPOCWomenSongs_PERCENT,
+                    b2bPOCWomenSongs_COUNT,
+                    b2bPOCWomenSongs_PERCENT,
                     OVNwomenSongs_COUNT,
                     OVNwomenSongs_PERCENT,
                     b2bOVNwomenSongs_COUNT,
@@ -235,8 +247,14 @@ function addB2BData(data, file) {
     songPlays_B2B = data.map((d, i) => ({
         ...d,
         city: currCity,
+        lgbtq: matchLGBTQ(d.artist),
         b2b_gender: b2bSync(b2bValue_ARRAY, i)
     }))
+}
+
+function matchLGBTQ(name) {
+    const match = lgbtqArtists.includes(name);
+    return match;
 }
 
 function addB2BCombinedData(data, file) {
@@ -333,6 +351,38 @@ function addB2BCollabData(data, file) {
     }))
 }
 
+function addB2BLGBTQData(data, file) {
+    let b2bValueLGBTQ;
+    let b2bValueLGBTQ_ARRAY = [];
+
+    for(var i = 0; i < data.length; i++) {
+        if (i > 0) {
+            let prevLGBTQ = data[i-1].gender;
+            let currLGBTQ = data[i].gender;
+            let prevDate = data[i-1].date;
+            let currDate = data[i].date;
+
+            if (currDate == prevDate) {
+                if (currLGBTQ == true && prevLGBTQ == true) { b2bValueLGBTQ = "B2BLGBTQ" } 
+                else if (currLGBTQ == false && prevLGBTQ == false) { b2bValueLGBTQ = "B2BStraight" }
+                else { b2bValueLGBTQ = "X" }
+            } else {
+                b2bValueLGBTQ = "X"
+            }
+
+            b2bValueLGBTQ_ARRAY.push(b2bValueLGBTQ)
+        }
+    }
+
+    const currCity = file.split("_")[0];
+
+    songPlays_B2B = data.map((d, i) => ({
+        ...d,
+        city: currCity,
+        b2b_lgbtq: b2bSync(b2bValueLGBTQ_ARRAY, i)
+    }))
+}
+
 function addB2BRaceData(data, file) {
     let b2bRaceValue;
     let b2bRaceValue_ARRAY = [];
@@ -345,7 +395,7 @@ function addB2BRaceData(data, file) {
             let currDate = data[i].date;
 
             if (currRace == prevRace && prevDate == currDate || currRace !== "white" && prevRace !=="white" && prevDate == currDate) {
-                if (currRace !== "white") { b2bRaceValue = "B2Bnonwhite" }
+                if (currRace !== "white") { b2bRaceValue = "B2BPOC" }
                 else { b2bRaceValue = "B2Bwhite" }
             } else {
                 b2bRaceValue = "X"
@@ -375,9 +425,9 @@ function addB2BRaceGenderData(data, file) {
             let currDate = data[i].date;
 
             if (currRace == prevRace && prevDate == currDate && currGender == prevGender || currRace !== "white" && prevRace !=="white" && prevDate == currDate && currGender == prevGender) {
-                if (currRace !== "white" && currGender == "women") { b2bRaceGenderValue = "B2BnonwhiteWomen" }
-                else if (currRace !== "white" && currGender == "men") { b2bRaceGenderValue = "B2BnonwhiteMen" }
-                else if (currRace !== "white" && currGender == "male-female") { b2bRaceGenderValue = "B2BnonwhiteMixed" }
+                if (currRace !== "white" && currGender == "women") { b2bRaceGenderValue = "B2BPOCWomen" }
+                else if (currRace !== "white" && currGender == "men") { b2bRaceGenderValue = "B2BPOCMen" }
+                else if (currRace !== "white" && currGender == "male-female") { b2bRaceGenderValue = "B2BPOCMixed" }
                 else if (currRace == "white" && currGender == "women") { b2bRaceGenderValue = "B2BwhiteWomen" }
                 else if (currRace == "white" && currGender == "men") { b2bRaceGenderValue = "B2BwhiteMen" }
                 else if (currRace == "white" && currGender == "male-female") { b2bRaceGenderValue = "B2BwhiteMixed" }
@@ -408,6 +458,7 @@ function createB2Bcsv(file) {
     addB2BData(playsOnly, file) 
     addB2BCombinedData(songPlays_B2B, file) 
     addB2BCollabData(songPlays_B2B, file) 
+    addB2BLGBTQData(songPlays_B2B, file) 
     addB2BRaceData(songPlays_B2B, file) 
     addB2BRaceGenderData(songPlays_B2B, file)
 
