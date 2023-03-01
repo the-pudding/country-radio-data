@@ -131,10 +131,10 @@ function computeSummary(data, file) {
 
     // STRAIGHT
     const onlyStraightSong_ARRAY = songPlays_B2B.filter(d => d.lgbtq == false);
-    const onlyStraightSongs_COUNT = onlyLGBTQSong_ARRAY.length;
-    const onlyStraightSongs_PERCENT = onlyLGBTQSongs_COUNT/songPlays*100;
+    const onlyStraightSongs_COUNT = onlyStraightSong_ARRAY.length;
+    const onlyStraightSongs_PERCENT = onlyStraightSongs_COUNT/songPlays*100;
     const b2bStraightSongs_COUNT = songPlays_B2B.filter(d => d.b2b_lgbtq == "B2BStraight").length;
-    const b2bStraightSongs_PERCENT = b2bLGBTQSongs_COUNT/songPlays*100;
+    const b2bStraightSongs_PERCENT = b2bStraightSongs_COUNT/songPlays*100;
 
     // POC
     // Men of color
