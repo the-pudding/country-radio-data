@@ -73,7 +73,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/7/22,"Friday, Morris",OVN,Audacy/Entercom,KILT-FM,3:59:00 AM,RASCAL FLATTS,My Wish,2006,G,c-,trio,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 1/7/22,"Friday, Morris",OVN,Audacy/Entercom,KILT-FM,4:03:00 AM,"STAPLETON, CHRIS",You Should Probably Leave,2020,R,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/7/22,"Friday, Morris",OVN,Audacy/Entercom,KILT-FM,4:06:00 AM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,Houston,false,X,X,X,X,B2Bwhite,X
-1/7/22,"Friday, Morris",OVN,Audacy/Entercom,KILT-FM,4:10:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/7/22,"Friday, Morris",OVN,Audacy/Entercom,KILT-FM,4:10:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/7/22,"Friday, Morris",OVN,Audacy/Entercom,KILT-FM,4:13:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,B2BwhiteMixed
 1/7/22,"Friday, Morris",OVN,Audacy/Entercom,KILT-FM,4:16:00 AM,ZAC BROWN BAND,Chicken Fried,2008,G,c-,group,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 1/7/22,"Friday, Morris",OVN,Audacy/Entercom,KILT-FM,4:20:00 AM,"TRITT, TRAVIS",Take It Easy,1993,G,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -432,7 +432,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/24/22,"Monday, Block",OVN,Audacy/Entercom,KILT-FM,4:35:00 AM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white,Houston,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",OVN,Audacy/Entercom,KILT-FM,4:39:00 AM,OLD DOMINION,One Man Band,2019,G,c-,group,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",OVN,Audacy/Entercom,KILT-FM,4:42:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Houston,false,X,X,X,X,B2Bwhite,X
-1/24/22,"Monday, Block",OVN,Audacy/Entercom,KILT-FM,4:44:00 AM,"PEARCE, CARLY/BRICE, LEE",I Hope You're Happy Now,2019,G,c-,solo,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/24/22,"Monday, Block",OVN,Audacy/Entercom,KILT-FM,4:44:00 AM,"PEARCE, CARLY/BRICE, LEE",I Hope You're Happy Now,2019,G,c-,solo,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/24/22,"Monday, Block",OVN,Audacy/Entercom,KILT-FM,4:48:00 AM,"ALDEAN, JASON",Burnin' It Down,2014,G,c-,solo,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",OVN,Audacy/Entercom,KILT-FM,4:51:00 AM,"DAVIS, JORDAN/BRYAN, LUKE",Buy Dirt,2021,R,c-,collab,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/24/22,"Monday, Block",OVN,Audacy/Entercom,KILT-FM,4:54:00 AM,"JACKSON, ALAN/BUFFETT, JIMMY",It's Five O'Clock Somewhere,2003,G,c-,collab,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -1292,7 +1292,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 2/7/22,"Monday, Barrett",PMD,Audacy/Entercom,KILT-FM,5:49:00 PM,"RAY, MICHAEL",Whiskey And Rain,2020,R,c-,solo,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 2/7/22,"Monday, Barrett",PMD,Audacy/Entercom,KILT-FM,5:53:00 PM,MIDLAND,Sunrise Tells The Story,2021,C,c-,trio,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 2/7/22,"Monday, Barrett",PMD,Audacy/Entercom,KILT-FM,5:56:00 PM,LADY ANTEBELLUM,I Run To You,2008,G,c-,trio,male-female,white,Houston,false,X,X,X,X,B2Bwhite,X
-2/7/22,"Monday, Barrett",PMD,Audacy/Entercom,KILT-FM,6:00:00 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+2/7/22,"Monday, Barrett",PMD,Audacy/Entercom,KILT-FM,6:00:00 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 2/7/22,"Monday, Barrett",PMD,Audacy/Entercom,KILT-FM,6:03:00 PM,"SHELTON, BLAKE",Neon Light,2014,G,c-,solo,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 2/7/22,"Monday, Barrett",PMD,Audacy/Entercom,KILT-FM,6:06:00 PM,"BROWN, KANE/ALAINA, LAUREN",What Ifs,2016,G,c-,collab,male-female,multiethnic,Houston,false,X,X,X,X,X,X
 2/7/22,"Monday, Barrett",PMD,Audacy/Entercom,KILT-FM,6:10:00 PM,"RAY, FRANK",Country'd Look Good On You,2021,R,c-,solo,men,hispanic,Houston,false,X,X,X,X,B2BPOC,X
@@ -1423,7 +1423,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,KILT-FM,2:14:00 AM,"ELDREDGE, BRETT",Wanna Be That Song,2015,G,c-,solo,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,KILT-FM,2:17:00 AM,"RUCKER, DARIUS",Beers And Sunshine,2020,R,c-,solo,men,black,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,KILT-FM,2:20:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Houston,false,X,X,X,X,X,X
-2/25/22,"Friday, regular",OVN,Audacy/Entercom,KILT-FM,2:23:00 AM,LADY ANTEBELLUM,What A Song Can Do,2021,R,c-,trio,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+2/25/22,"Friday, regular",OVN,Audacy/Entercom,KILT-FM,2:23:00 AM,LADY ANTEBELLUM,What A Song Can Do,2021,R,c-,trio,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,KILT-FM,2:27:00 AM,"MCCOLLUM, PARKER",To Be Loved By You,2020,R,c-,solo,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,KILT-FM,2:30:00 AM,"RICE, CHASE",If I Were Rock & Roll,2021,R,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,KILT-FM,2:34:00 AM,"BROWN, KANE",One Mississippi,2021,R,c-,solo,men,multiethnic,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
@@ -1521,7 +1521,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 2/25/22,"Friday, regular",AMD,Audacy/Entercom,KILT-FM,9:20:00 AM,"CHURCH, ERIC",Heart On Fire,2021,R,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 2/25/22,"Friday, regular",AMD,Audacy/Entercom,KILT-FM,9:24:00 AM,"SCOTT, DYLAN",My Girl,2016,G,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 2/25/22,"Friday, regular",AMD,Audacy/Entercom,KILT-FM,9:27:00 AM,LADY ANTEBELLUM,Like A Lady,2021,R,c-,trio,male-female,white,Houston,false,X,X,X,X,B2Bwhite,X
-2/25/22,"Friday, regular",AMD,Audacy/Entercom,KILT-FM,9:30:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+2/25/22,"Friday, regular",AMD,Audacy/Entercom,KILT-FM,9:30:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 2/25/22,"Friday, regular",AMD,Audacy/Entercom,KILT-FM,9:33:00 AM,"ALDEAN, JASON",Big Green Tractor,2009,G,c-,solo,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 2/25/22,"Friday, regular",AMD,Audacy/Entercom,KILT-FM,9:36:00 AM,"STAPLETON, CHRIS",You Should Probably Leave,2020,R,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 2/25/22,"Friday, regular",AMD,Audacy/Entercom,KILT-FM,9:39:00 AM,"RHETT, THOMAS/MORRIS, MAREN",Craving You ,2017,G,c-,collab,male-female,white,Houston,false,X,X,X,X,B2Bwhite,X
@@ -1958,7 +1958,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 3/18/22,"Friday, Underwood",PMD,Audacy/Entercom,KILT-FM,3:50:00 PM,"HUNT, SAM",23,2021,R,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/18/22,"Friday, Underwood",PMD,Audacy/Entercom,KILT-FM,3:53:00 PM,"SCOTT, DYLAN",My Girl,2016,G,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/18/22,"Friday, Underwood",PMD,Audacy/Entercom,KILT-FM,3:56:00 PM,LADY ANTEBELLUM,Just A Kiss,2011,G,c-,trio,male-female,white,Houston,false,X,X,X,X,B2Bwhite,X
-3/18/22,"Friday, Underwood",PMD,Audacy/Entercom,KILT-FM,3:59:00 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+3/18/22,"Friday, Underwood",PMD,Audacy/Entercom,KILT-FM,3:59:00 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 3/18/22,"Friday, Underwood",PMD,Audacy/Entercom,KILT-FM,4:02:00 PM,BROOKS & DUNN,Ain't Nothing 'Bout You,2001,G,c-,duo,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 3/18/22,"Friday, Underwood",PMD,Audacy/Entercom,KILT-FM,4:05:00 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Houston,false,X,X,X,X,B2Bwhite,X
 3/18/22,"Friday, Underwood",PMD,Audacy/Entercom,KILT-FM,4:15:00 PM,"STRAIT, GEORGE",The Cowboy Rides Away,1985,G,c-,solo,men,white,Houston,false,X,X,X,X,B2Bwhite,X
@@ -2934,7 +2934,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 4/29/22,"Friday, regular",MID,Audacy/Entercom,KILT-FM,10:05:00 AM,"JANSON, CHRIS",Fix A Drink,2017,G,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/29/22,"Friday, regular",MID,Audacy/Entercom,KILT-FM,10:08:00 AM,"MCCREERY, SCOTTY",Damn Strait,2021,R,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/29/22,"Friday, regular",MID,Audacy/Entercom,KILT-FM,10:17:00 AM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,Houston,false,X,X,X,X,B2Bwhite,X
-4/29/22,"Friday, regular",MID,Audacy/Entercom,KILT-FM,10:21:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+4/29/22,"Friday, regular",MID,Audacy/Entercom,KILT-FM,10:21:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 4/29/22,"Friday, regular",MID,Audacy/Entercom,KILT-FM,10:24:00 AM,"BRYAN, LUKE",Light It Up,2017,G,c-,solo,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 4/29/22,"Friday, regular",MID,Audacy/Entercom,KILT-FM,10:27:00 AM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/29/22,"Friday, regular",MID,Audacy/Entercom,KILT-FM,10:29:00 AM,"SHELTON, BLAKE",A Guy With A Girl,2016,G,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -3729,7 +3729,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 5/27/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,4:55:00 PM,"URBAN, KEITH",Long Hot Summer,2010,G,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/27/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,4:59:00 PM,ELI YOUNG BAND,Love Ain't,2018,G,c-,group,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/27/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,5:02:00 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Houston,false,X,X,X,X,B2Bwhite,X
-5/27/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,5:05:00 PM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+5/27/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,5:05:00 PM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 5/27/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,5:09:00 PM,"BRYAN, LUKE",One Margarita,2020,G,c-,solo,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 5/27/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,5:12:00 PM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 5/27/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,5:15:00 PM,"KEITH, TOBY",As Good As I Once Was,2005,G,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
@@ -3842,8 +3842,8 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,12:31:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Houston,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,12:34:00 AM,"BARRETT, GABBY",Pick Me Up,2021,C,c-,solo,women,white,Houston,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,12:37:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Houston,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
-6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,12:45:00 AM,THOMPSON SQUARE,Country In My Soul,2022,C,c-,duo,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
-6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,12:49:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,12:45:00 AM,THOMPSON SQUARE,Country In My Soul,2022,C,c-,duo,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
+6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,12:49:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,12:51:00 AM,"COMBS, LUKE",Forever After All,2020,R,c-,solo,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,12:55:00 AM,"SMITH, CONNER",Learn From It,2021,R,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,12:58:00 AM,"WALKER, CLAY",Catching Up With An Ol' Memory,2021,R,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -3888,7 +3888,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,3:12:00 AM,"UNDERWOOD, CARRIE",Last Name,2007,G,c-,solo,women,white,Houston,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,3:16:00 AM,"RAY, FRANK",Country'd Look Good On You,2021,R,c-,solo,men,hispanic,Houston,false,X,X,X,X,X,X
 6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,3:19:00 AM,"BECKHAM, CHAYCE/ELL, LINDSAY",Can't Do Without Me,2021,R,c-,collab,male-female,white,Houston,false,X,X,X,X,X,X
-6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,3:22:00 AM,LADY ANTEBELLUM,What A Song Can Do,2021,R,c-,trio,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,3:22:00 AM,LADY ANTEBELLUM,What A Song Can Do,2021,R,c-,trio,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,3:26:00 AM,"MORRIS, MAREN",Circles Around This Town,2022,R,c-,solo,women,white,Houston,false,X,B2BCombWomen,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,3:29:00 AM,PARMALEE,Take My Name,2021,R,c-,group,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",OVN,Audacy/Entercom,KILT-FM,3:31:00 AM,"BRICE, LEE",Soul,2020,R,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -4120,7 +4120,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,KILT-FM,7:57:00 PM,"BROWN, KANE",Cool Again,2020,G,c-,solo,men,multiethnic,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,KILT-FM,8:00:00 PM,"CHESNEY, KENNY",Don't Happen Twice,2000,G,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,KILT-FM,8:04:00 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Houston,false,X,X,X,X,B2Bwhite,X
-6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,KILT-FM,8:07:00 PM,LITTLE BIG TOWN,Hell Yeah,2022,C,c-,group,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,KILT-FM,8:07:00 PM,LITTLE BIG TOWN,Hell Yeah,2022,C,c-,group,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,KILT-FM,8:10:00 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,KILT-FM,8:13:00 PM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,KILT-FM,8:16:00 PM,"LAMBERT, MIRANDA",If I Was A Cowboy,2021,R,c-,solo,women,white,Houston,false,X,X,X,X,B2Bwhite,X
@@ -4747,7 +4747,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 7/29/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,3:21:00 PM,"HAYES, WALKER",Fancy Like,2021,R,c-,solo,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 7/29/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,3:24:00 PM,MIDLAND,Sunrise Tells The Story,2021,C,c-,trio,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 7/29/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,3:28:00 PM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,Houston,false,X,X,X,X,B2Bwhite,X
-7/29/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,3:32:00 PM,"BROWN, KANE/ALAINA, LAUREN",What Ifs,2016,G,c-,collab,male-female,multiethnic,Houston,false,B2Bmixed,B2BCombWomen,X,X,X,X
+7/29/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,3:32:00 PM,"BROWN, KANE/ALAINA, LAUREN",What Ifs,2016,G,c-,collab,male-female,multiethnic,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,X,X
 7/29/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,3:35:00 PM,"ANDRESS, INGRID/HUNT, SAM",Wishful Drinking,2021,R,c-,collab,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabWomen,X,X,X
 7/29/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,3:38:00 PM,"BENTLEY, DIERKS",Gone,2020,R,c-,solo,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 7/29/22,"Friday, regular",PMD,Audacy/Entercom,KILT-FM,3:48:00 PM,"DAVIS, JORDAN/BRYAN, LUKE",Buy Dirt,2021,R,c-,collab,men,white,Houston,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -4848,7 +4848,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 7/29/22,"Friday, regular",EVE,Audacy/Entercom,KILT-FM,10:08:00 PM,"PEARCE, CARLY",What He Didn't Do,2021,C,c-,solo,women,white,Houston,false,X,X,X,X,X,X
 7/29/22,"Friday, regular",EVE,Audacy/Entercom,KILT-FM,10:11:00 PM,"PARDI, JON",Last Night Lonely,2022,R,c-,solo,men,white,Houston,false,X,X,X,X,B2Bwhite,X
 7/29/22,"Friday, regular",EVE,Audacy/Entercom,KILT-FM,10:14:00 PM,"MCGRAW, TIM/HILL, FAITH",It's Your Love,1997,G,c-,collab,male-female,white,Houston,false,X,X,X,X,B2Bwhite,X
-7/29/22,"Friday, regular",EVE,Audacy/Entercom,KILT-FM,10:18:00 PM,LITTLE BIG TOWN,Hell Yeah,2022,C,c-,group,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+7/29/22,"Friday, regular",EVE,Audacy/Entercom,KILT-FM,10:18:00 PM,LITTLE BIG TOWN,Hell Yeah,2022,C,c-,group,male-female,white,Houston,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 7/29/22,"Friday, regular",EVE,Audacy/Entercom,KILT-FM,10:20:00 PM,"RUCKER, DARIUS",If I Told You,2016,G,c-,solo,men,black,Houston,false,X,X,X,X,X,X
 7/29/22,"Friday, regular",EVE,Audacy/Entercom,KILT-FM,10:24:00 PM,"BLOCK, PRISCILLA",My Bar,2022,C,c-,solo,women,white,Houston,false,X,X,X,X,X,X
 7/29/22,"Friday, regular",EVE,Audacy/Entercom,KILT-FM,10:32:00 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Houston,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X

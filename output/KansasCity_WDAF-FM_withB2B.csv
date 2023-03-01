@@ -617,7 +617,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/24/22,"Monday, Block",PMD,Audacy/Entercom,WDAF-FM,3:49:00 PM,"BRYAN, LUKE",One Margarita,2020,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/24/22,"Monday, Block",PMD,Audacy/Entercom,WDAF-FM,3:52:00 PM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/24/22,"Monday, Block",PMD,Audacy/Entercom,WDAF-FM,3:55:00 PM,"HURD, RYAN/MORRIS, MAREN",Chasing After You,2021,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-1/24/22,"Monday, Block",PMD,Audacy/Entercom,WDAF-FM,3:58:00 PM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/24/22,"Monday, Block",PMD,Audacy/Entercom,WDAF-FM,3:58:00 PM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/24/22,"Monday, Block",PMD,Audacy/Entercom,WDAF-FM,4:02:00 PM,"MOORE, JUSTIN",We Didn't Have Much,2020,R,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",PMD,Audacy/Entercom,WDAF-FM,4:05:00 PM,"CHESNEY, KENNY",Happy Does,2020,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/24/22,"Monday, Block",PMD,Audacy/Entercom,WDAF-FM,4:08:00 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
@@ -1493,7 +1493,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,2:23:00 AM,"HAYES, WALKER",Fancy Like,2021,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,2:26:00 AM,"STAPLETON, CHRIS",You Should Probably Leave,2020,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,2:29:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,2:32:00 AM,LADY ANTEBELLUM,Bartender,2014,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,2:32:00 AM,LADY ANTEBELLUM,Bartender,2014,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,2:35:00 AM,OLD DOMINION,No Hard Feelings,2021,R,c-,group,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,2:39:00 AM,"WALLEN, MORGAN",Chasin' You,2018,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,2:42:00 AM,"SWINDELL, COLE",Single Saturday Night,2020,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -1511,7 +1511,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,3:22:00 AM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,3:26:00 AM,"MCGRAW, TIM",7500 OBO,2020,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,3:29:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,3:32:00 AM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,3:32:00 AM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,3:35:00 AM,"CHESNEY, KENNY",Get Along,2018,G,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,3:40:00 AM,"WILSON, LAINEY",Things A Man Oughta Know,2019,R,c-,solo,women,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 2/25/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,3:43:00 AM,"BALLERINI, KELSEA/CHESNEY, KENNY",Half Of My Hometown,2020,R,c-,collab,male-female,white,KansasCity,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
@@ -1869,7 +1869,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 3/18/22,"Friday, Underwood",OVN,Audacy/Entercom,WDAF-FM,3:24:00 AM,"MCCREERY, SCOTTY",You Time,2020,R,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 3/18/22,"Friday, Underwood",OVN,Audacy/Entercom,WDAF-FM,3:27:00 AM,OLD DOMINION,No Hard Feelings,2021,R,c-,group,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/18/22,"Friday, Underwood",OVN,Audacy/Entercom,WDAF-FM,3:30:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-3/18/22,"Friday, Underwood",OVN,Audacy/Entercom,WDAF-FM,3:34:00 AM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+3/18/22,"Friday, Underwood",OVN,Audacy/Entercom,WDAF-FM,3:34:00 AM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 3/18/22,"Friday, Underwood",OVN,Audacy/Entercom,WDAF-FM,3:38:00 AM,"DENNING, TRAVIS",After A Few,2018,G,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 3/18/22,"Friday, Underwood",OVN,Audacy/Entercom,WDAF-FM,3:42:00 AM,"RUCKER, DARIUS",Beers And Sunshine,2020,R,c-,solo,men,black,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 3/18/22,"Friday, Underwood",OVN,Audacy/Entercom,WDAF-FM,3:45:00 AM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white,KansasCity,false,X,X,X,X,X,X
@@ -2566,7 +2566,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 4/8/22,"Friday, Ballerini",OVN,Audacy/Entercom,WDAF-FM,3:26:00 AM,"BRICE, LEE",Memory I Don't Mess With,2020,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/8/22,"Friday, Ballerini",OVN,Audacy/Entercom,WDAF-FM,3:29:00 AM,"URBAN, KEITH",Wild Hearts,2021,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/8/22,"Friday, Ballerini",OVN,Audacy/Entercom,WDAF-FM,3:31:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-4/8/22,"Friday, Ballerini",OVN,Audacy/Entercom,WDAF-FM,3:34:00 AM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+4/8/22,"Friday, Ballerini",OVN,Audacy/Entercom,WDAF-FM,3:34:00 AM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 4/8/22,"Friday, Ballerini",OVN,Audacy/Entercom,WDAF-FM,3:37:00 AM,"BROWN, KANE",Good As You,2018,G,c-,solo,men,multiethnic,KansasCity,false,X,X,X,X,X,X
 4/8/22,"Friday, Ballerini",OVN,Audacy/Entercom,WDAF-FM,3:42:00 AM,"ARTS, TENILLE",Somebody Like That,2019,R,c-,solo,women,white,KansasCity,false,X,X,X,X,X,X
 4/8/22,"Friday, Ballerini",OVN,Audacy/Entercom,WDAF-FM,3:45:00 AM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
@@ -2652,7 +2652,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 4/8/22,"Friday, Ballerini",AMD,Audacy/Entercom,WDAF-FM,9:45:00 AM,"BRICE, LEE",Rumor,2017,G,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 4/8/22,"Friday, Ballerini",AMD,Audacy/Entercom,WDAF-FM,9:49:00 AM,"LAMBERT, MIRANDA",White Liar,2009,G,c-,solo,women,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 4/8/22,"Friday, Ballerini",AMD,Audacy/Entercom,WDAF-FM,9:52:00 AM,"HARDY/ALAINA, LAUREN/DAWSON, DEVON",One Beer,2019,G,c-,collab,male-female,white,KansasCity,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
-4/8/22,"Friday, Ballerini",AMD,Audacy/Entercom,WDAF-FM,9:55:00 AM,LADY ANTEBELLUM,Bartender,2014,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+4/8/22,"Friday, Ballerini",AMD,Audacy/Entercom,WDAF-FM,9:55:00 AM,LADY ANTEBELLUM,Bartender,2014,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 4/8/22,"Friday, Ballerini",AMD,Audacy/Entercom,WDAF-FM,9:58:00 AM,"MOON, NIKO",Good Time,2019,R,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 4/8/22,"Friday, Ballerini",MID,Audacy/Entercom,WDAF-FM,10:02:00 AM,"MOORE, JUSTIN",We Didn't Have Much,2020,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/8/22,"Friday, Ballerini",MID,Audacy/Entercom,WDAF-FM,10:04:00 AM,"SHELTON, BLAKE/STEFANI, GWEN",Happy Anywhere,2020,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
@@ -2948,7 +2948,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:00:00 AM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:03:00 AM,"BARRETT, GABBY",Pick Me Up,2021,C,c-,solo,women,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:05:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,KansasCity,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
-4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:09:00 AM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:09:00 AM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:16:00 AM,"WALLEN, MORGAN",7 Summers,2020,R,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:19:00 AM,"YOUNG, CHRIS/TENPENNY, MITCHELL",At The End Of A Bar,2021,R,c-,collab,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:22:00 AM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -2957,7 +2957,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:32:00 AM,"WILLS, MARK",19 Somethin',2002,G,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:35:00 AM,"MORRIS, MAREN",Circles Around This Town,2022,R,c-,solo,women,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:38:00 AM,"URBAN, KEITH/PINK",One Too Many,2020,R,c-,collab,male-female,white,KansasCity,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
-4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:46:00 AM,LITTLE BIG TOWN,Better Man,2016,G,c-,group,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:46:00 AM,LITTLE BIG TOWN,Better Man,2016,G,c-,group,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:50:00 AM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic,KansasCity,false,X,X,X,X,X,X
 4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:53:00 AM,"HURD, RYAN/MORRIS, MAREN",Chasing After You,2021,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,X,X
 4/29/22,"Friday, regular",OVN,Audacy/Entercom,WDAF-FM,5:57:00 AM,"SHELTON, BLAKE",Come Back As A Country Boy,2021,R,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
@@ -3182,7 +3182,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 4/29/22,"Friday, regular",EVE,Audacy/Entercom,WDAF-FM,9:38:00 PM,"HUNT, SAM",23,2021,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/29/22,"Friday, regular",EVE,Audacy/Entercom,WDAF-FM,9:41:00 PM,"YOUNG, BRETT",You Didn't,2021,C,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/29/22,"Friday, regular",EVE,Audacy/Entercom,WDAF-FM,9:46:00 PM,"ANDRESS, INGRID/HUNT, SAM",Wishful Drinking,2021,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-4/29/22,"Friday, regular",EVE,Audacy/Entercom,WDAF-FM,9:49:00 PM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+4/29/22,"Friday, regular",EVE,Audacy/Entercom,WDAF-FM,9:49:00 PM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 4/29/22,"Friday, regular",EVE,Audacy/Entercom,WDAF-FM,9:57:00 PM,DAN + SHAY,Glad You Exist,2021,R,c-,duo,men,multiethnic,KansasCity,false,X,X,X,X,X,X
 4/29/22,"Friday, regular",EVE,Audacy/Entercom,WDAF-FM,10:00:00 PM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 4/29/22,"Friday, regular",EVE,Audacy/Entercom,WDAF-FM,10:03:00 PM,"DICKERSON, RUSSELL",Blue Tacoma,2016,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -3316,7 +3316,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 5/20/22,"Friday, Wilson",AMD,Audacy/Entercom,WDAF-FM,6:23:00 AM,"HAYES, WALKER",AA,2021,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/20/22,"Friday, Wilson",AMD,Audacy/Entercom,WDAF-FM,6:36:00 AM,"JANSON, CHRIS",Done,2019,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/20/22,"Friday, Wilson",AMD,Audacy/Entercom,WDAF-FM,6:40:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-5/20/22,"Friday, Wilson",AMD,Audacy/Entercom,WDAF-FM,6:52:00 AM,LITTLE BIG TOWN,Boondocks,2005,G,c-,group,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+5/20/22,"Friday, Wilson",AMD,Audacy/Entercom,WDAF-FM,6:52:00 AM,LITTLE BIG TOWN,Boondocks,2005,G,c-,group,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 5/20/22,"Friday, Wilson",AMD,Audacy/Entercom,WDAF-FM,6:57:00 AM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic,KansasCity,false,X,X,X,X,X,X
 5/20/22,"Friday, Wilson",AMD,Audacy/Entercom,WDAF-FM,7:00:00 AM,"TRITT, TRAVIS",T-r-o-u-b-l-e,1992,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 5/20/22,"Friday, Wilson",AMD,Audacy/Entercom,WDAF-FM,7:03:00 AM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -3457,7 +3457,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 5/20/22,"Friday, Wilson",PMD,Audacy/Entercom,WDAF-FM,4:32:00 PM,"WILSON, LAINEY",Things A Man Oughta Know,2019,R,c-,solo,women,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 5/20/22,"Friday, Wilson",PMD,Audacy/Entercom,WDAF-FM,4:35:00 PM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 5/20/22,"Friday, Wilson",PMD,Audacy/Entercom,WDAF-FM,4:39:00 PM,LADY ANTEBELLUM,Just A Kiss,2011,G,c-,trio,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-5/20/22,"Friday, Wilson",PMD,Audacy/Entercom,WDAF-FM,4:42:00 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+5/20/22,"Friday, Wilson",PMD,Audacy/Entercom,WDAF-FM,4:42:00 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 5/20/22,"Friday, Wilson",PMD,Audacy/Entercom,WDAF-FM,4:46:00 PM,"BENTLEY, DIERKS",Somewhere On A Beach,2016,G,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 5/20/22,"Friday, Wilson",PMD,Audacy/Entercom,WDAF-FM,4:49:00 PM,"HUNT, SAM",23,2021,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/20/22,"Friday, Wilson",PMD,Audacy/Entercom,WDAF-FM,4:52:00 PM,JELLY ROLL,Son Of A Sinner,2021,C,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -3691,7 +3691,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 5/27/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,8:17:00 AM,"MOON, NIKO",Good Time,2019,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/27/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,8:20:00 AM,"MOORE, KIP",Somethin' 'Bout A Truck,2011,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/27/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,8:24:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-5/27/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,8:30:00 AM,LITTLE BIG TOWN,Boondocks,2005,G,c-,group,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+5/27/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,8:30:00 AM,LITTLE BIG TOWN,Boondocks,2005,G,c-,group,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 5/27/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,8:34:00 AM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 5/27/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,8:49:00 AM,"BROWN, KANE/ALAINA, LAUREN",What Ifs,2016,G,c-,collab,male-female,multiethnic,KansasCity,false,X,X,X,X,X,X
 5/27/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,8:52:00 AM,"BARRETT, GABBY",I Hope,2019,G,c-,solo,women,white,KansasCity,false,X,B2BCombWomen,B2BCollabWomen,X,X,X
@@ -4162,7 +4162,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/13/22,"Monday, Pearce",PMD,Audacy/Entercom,WDAF-FM,4:33:00 PM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",PMD,Audacy/Entercom,WDAF-FM,4:36:00 PM,"TENPENNY, MITCHELL",Truth About You,2021,R,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",PMD,Audacy/Entercom,WDAF-FM,4:39:00 PM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-6/13/22,"Monday, Pearce",PMD,Audacy/Entercom,WDAF-FM,4:43:00 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/13/22,"Monday, Pearce",PMD,Audacy/Entercom,WDAF-FM,4:43:00 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/13/22,"Monday, Pearce",PMD,Audacy/Entercom,WDAF-FM,4:45:00 PM,"LYNCH, DUSTIN",Where It's At,2014,G,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",PMD,Audacy/Entercom,WDAF-FM,4:49:00 PM,"BRICE, LEE",Memory I Don't Mess With,2020,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/13/22,"Monday, Pearce",PMD,Audacy/Entercom,WDAF-FM,4:52:00 PM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
@@ -4232,7 +4232,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,WDAF-FM,9:04:00 PM,"HUBBARD, TYLER",5 Foot 9,2022,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,WDAF-FM,9:07:00 PM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,WDAF-FM,9:11:00 PM,"COOKE, ASHLEY/YOUNG, BRETT",Never Til Now,2022,C,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,WDAF-FM,9:13:00 PM,LADY ANTEBELLUM,Just A Kiss,2011,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,WDAF-FM,9:13:00 PM,LADY ANTEBELLUM,Just A Kiss,2011,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,WDAF-FM,9:17:00 PM,"ERNEST/WALLEN, MORGAN",Flower Shops,2022,R,c-,collab,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,WDAF-FM,9:27:00 PM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",EVE,Audacy/Entercom,WDAF-FM,9:31:00 PM,"OWEN, JAKE",Best Thing Since Backroads,2021,R,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
@@ -4414,7 +4414,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/24/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,9:49:00 AM,"UNDERWOOD, CARRIE",Before He Cheats,2005,G,c-,solo,women,white,KansasCity,false,X,X,X,X,X,X
 6/24/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,9:53:00 AM,"MCCREERY, SCOTTY",Damn Strait,2021,R,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 6/24/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,9:56:00 AM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-6/24/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,10:00:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/24/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,10:00:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/24/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,10:03:00 AM,"SWIFT, TAYLOR",Mean,2010,G,c-,solo,women,white,KansasCity,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
 6/24/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,10:07:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,KansasCity,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
 6/24/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,10:09:00 AM,"KEITH, TOBY",Should've Been A Cowboy,1993,G,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
@@ -4548,7 +4548,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/24/22,"Friday, regular",PMD,Audacy/Entercom,WDAF-FM,6:34:00 PM,"LAMBERT, MIRANDA",Kerosene,2004,G,c-,solo,women,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 6/24/22,"Friday, regular",PMD,Audacy/Entercom,WDAF-FM,6:37:00 PM,"BROWN, KANE",Cool Again,2020,G,c-,solo,men,multiethnic,KansasCity,false,X,X,X,X,X,X
 6/24/22,"Friday, regular",PMD,Audacy/Entercom,WDAF-FM,6:40:00 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,X,X
-6/24/22,"Friday, regular",PMD,Audacy/Entercom,WDAF-FM,6:51:00 PM,LADY ANTEBELLUM,Just A Kiss,2011,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/24/22,"Friday, regular",PMD,Audacy/Entercom,WDAF-FM,6:51:00 PM,LADY ANTEBELLUM,Just A Kiss,2011,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/24/22,"Friday, regular",PMD,Audacy/Entercom,WDAF-FM,6:54:00 PM,"WALLEN, MORGAN",7 Summers,2020,R,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 6/24/22,"Friday, regular",PMD,Audacy/Entercom,WDAF-FM,6:58:00 PM,"STAPLETON, CHRIS",You Should Probably Leave,2020,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/24/22,"Friday, regular",EVE,Audacy/Entercom,WDAF-FM,7:02:00 PM,"ALDEAN, JASON",Trouble With A Heartbreak,2022,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -4764,7 +4764,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 7/29/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,9:23:00 AM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 7/29/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,9:25:00 AM,"DICKERSON, RUSSELL/SCOTT, JAKE",She Likes It,2021,R,c-,collab,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 7/29/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,9:29:00 AM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-7/29/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,9:32:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+7/29/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,9:32:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 7/29/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,9:34:00 AM,"UNDERWOOD, CARRIE",Church Bells,2015,G,c-,solo,women,white,KansasCity,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
 7/29/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,9:44:00 AM,"JANSON, CHRIS",Good Vibes,2019,G,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 7/29/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,9:47:00 AM,LOVE AND THEFT,Angel Eyes,2011,G,c-,duo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -4807,7 +4807,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 7/29/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,12:20:00 PM,OLD DOMINION,One Man Band,2019,G,c-,group,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 7/29/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,12:23:00 PM,"OWEN, JAKE",Barefoot Blue Jean Night,2011,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 7/29/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,12:25:00 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-7/29/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,12:29:00 PM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+7/29/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,12:29:00 PM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 7/29/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,12:32:00 PM,"BROWN, KANE",Like I Love Country Music,2022,R,c-,solo,men,multiethnic,KansasCity,false,X,X,X,X,X,X
 7/29/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,12:35:00 PM,"URBAN, KEITH",Wild Hearts,2021,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 7/29/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,12:38:00 PM,"MCCREERY, SCOTTY",Damn Strait,2021,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -4875,7 +4875,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 7/29/22,"Friday, regular",PMD,Audacy/Entercom,WDAF-FM,4:51:00 PM,"BALLERINI, KELSEA",Heartfirst,2022,C,c-,solo,women,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 7/29/22,"Friday, regular",PMD,Audacy/Entercom,WDAF-FM,4:54:00 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 7/29/22,"Friday, regular",PMD,Audacy/Entercom,WDAF-FM,4:57:00 PM,LADY ANTEBELLUM,Just A Kiss,2011,G,c-,trio,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-7/29/22,"Friday, regular",PMD,Audacy/Entercom,WDAF-FM,5:01:00 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+7/29/22,"Friday, regular",PMD,Audacy/Entercom,WDAF-FM,5:01:00 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 7/29/22,"Friday, regular",PMD,Audacy/Entercom,WDAF-FM,5:04:00 PM,RASCAL FLATTS,Fast Cars And Freedom,2004,G,c-,trio,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 7/29/22,"Friday, regular",PMD,Audacy/Entercom,WDAF-FM,5:08:00 PM,"WALLEN, MORGAN",You Proof,2022,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 7/29/22,"Friday, regular",PMD,Audacy/Entercom,WDAF-FM,5:10:00 PM,"HUNT, SAM",Break Up In A Small Town,2014,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -5085,7 +5085,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 8/26/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,6:51:00 AM,"ATKINS, RODNEY",If You're Going Through Hell,2005,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 8/26/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,6:55:00 AM,"MONTGOMERY, JOHN MICHAEL",Sold (The Grundy County ...),1995,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 8/26/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,6:57:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-8/26/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,7:03:00 AM,LITTLE BIG TOWN,Boondocks,2005,G,c-,group,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+8/26/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,7:03:00 AM,LITTLE BIG TOWN,Boondocks,2005,G,c-,group,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 8/26/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,7:07:00 AM,PARMALEE,Take My Name,2021,R,c-,group,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 8/26/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,7:19:00 AM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 8/26/22,"Friday, regular",AMD,Audacy/Entercom,WDAF-FM,7:22:00 AM,"COMBS, LUKE",One Number Away,2017,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
@@ -5492,7 +5492,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 9/30/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,10:27:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,10:31:00 AM,BIG & RICH,Save A Horse (Ride A Cowboy),2003,G,c-,duo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,10:34:00 AM,"ANDRESS, INGRID/HUNT, SAM",Wishful Drinking,2021,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-9/30/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,10:37:00 AM,LADY ANTEBELLUM,Bartender,2014,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+9/30/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,10:37:00 AM,LADY ANTEBELLUM,Bartender,2014,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 9/30/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,10:43:00 AM,"MCGRAW, TIM",Where The Green Grass Grows,1997,G,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,10:47:00 AM,"DICKERSON, RUSSELL/SCOTT, JAKE",She Likes It,2021,R,c-,collab,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 9/30/22,"Friday, regular",MID,Audacy/Entercom,WDAF-FM,10:49:00 AM,LOCASH,I Love This Life,2014,G,c-,duo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen

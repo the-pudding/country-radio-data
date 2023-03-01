@@ -750,7 +750,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/28/22,"Friday, regular",MID,iHeartMedia,WMZQ-FM,10:38:00 AM,MONTGOMERY GENTRY,Hell Yeah,2002,G,c-,duo,men,white,WashingtonDC,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",MID,iHeartMedia,WMZQ-FM,10:52:00 AM,"RAY, MICHAEL",Whiskey And Rain,2020,R,c-,solo,men,white,WashingtonDC,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",MID,iHeartMedia,WMZQ-FM,10:55:00 AM,SUGARLAND,Baby Girl,2004,G,c-,duo,male-female,white,WashingtonDC,false,X,X,X,X,B2Bwhite,X
-1/28/22,"Friday, regular",MID,iHeartMedia,WMZQ-FM,10:59:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,WashingtonDC,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/28/22,"Friday, regular",MID,iHeartMedia,WMZQ-FM,10:59:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,WashingtonDC,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/28/22,"Friday, regular",MID,iHeartMedia,WMZQ-FM,11:02:00 AM,"STAPLETON, CHRIS",You Should Probably Leave,2020,R,c-,solo,men,white,WashingtonDC,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",MID,iHeartMedia,WMZQ-FM,11:05:00 AM,"YOUNG, BRETT",Like I Loved You,2016,G,c-,solo,men,white,WashingtonDC,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",MID,iHeartMedia,WMZQ-FM,11:22:00 AM,"HAYES, WALKER",Fancy Like,2021,R,c-,solo,men,white,WashingtonDC,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -4563,7 +4563,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 9/30/22,"Friday, regular",OVN,iHeartMedia,WMZQ-FM,3:55:00 AM,"LAMBERT, MIRANDA",The House That Built Me,2009,G,c-,solo,women,white,WashingtonDC,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",OVN,iHeartMedia,WMZQ-FM,3:58:00 AM,"DAVIS, JORDAN",Singles You Up,2017,G,c-,solo,men,white,WashingtonDC,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",OVN,iHeartMedia,WMZQ-FM,4:02:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,WashingtonDC,false,X,X,X,X,B2Bwhite,X
-9/30/22,"Friday, regular",OVN,iHeartMedia,WMZQ-FM,4:05:00 AM,"BAND PERRY, THE",If I Die Young,2010,G,c-,trio,male-female,white,WashingtonDC,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+9/30/22,"Friday, regular",OVN,iHeartMedia,WMZQ-FM,4:05:00 AM,"BAND PERRY, THE",If I Die Young,2010,G,c-,trio,male-female,white,WashingtonDC,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 9/30/22,"Friday, regular",OVN,iHeartMedia,WMZQ-FM,4:09:00 AM,"COMBS, LUKE",The Kind Of Love We Make,2022,R,c-,solo,men,white,WashingtonDC,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",OVN,iHeartMedia,WMZQ-FM,4:12:00 AM,"BRYAN, LUKE","Sunrise, Sunburn, Sunset",2017,G,c-,solo,men,white,WashingtonDC,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 9/30/22,"Friday, regular",OVN,iHeartMedia,WMZQ-FM,4:22:00 AM,"CHESNEY, KENNY/OLD DOMINION",Beer With My…,2022,C,c-,collab,men,white,WashingtonDC,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen

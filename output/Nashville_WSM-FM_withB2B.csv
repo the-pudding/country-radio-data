@@ -69,7 +69,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/7/22,"Friday, Morris",OVN,Cumulus,WSM-FM,4:09 AM,"CHURCH, ERIC",Some Of It,2018,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 1/7/22,"Friday, Morris",OVN,Cumulus,WSM-FM,4:15 AM,"JACKSON, ALAN",Mercury Blues,1993,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/7/22,"Friday, Morris",OVN,Cumulus,WSM-FM,4:18 AM,LADY ANTEBELLUM,American Honey,2009,G,c-,trio,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
-1/7/22,"Friday, Morris",OVN,Cumulus,WSM-FM,4:22 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/7/22,"Friday, Morris",OVN,Cumulus,WSM-FM,4:22 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/7/22,"Friday, Morris",OVN,Cumulus,WSM-FM,4:25 AM,"SHELTON, BLAKE",God Gave Me You,2011,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 1/7/22,"Friday, Morris",OVN,Cumulus,WSM-FM,4:29 AM,"MONTGOMERY, JOHN MICHAEL",Sold (The Grundy County ...),1995,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/7/22,"Friday, Morris",OVN,Cumulus,WSM-FM,4:31 AM,"OTTO, JAMES",Just Got Started Lovin' You,2007,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -601,7 +601,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/24/22,"Monday, Block",PMD,Cumulus,WSM-FM,5:18 PM,"CORBIN, EASTON",Roll With It,2009,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/24/22,"Monday, Block",PMD,Cumulus,WSM-FM,5:21 PM,"LOVELESS, PATTY",I Try To Think About Elvis,1994,G,c-,solo,women,white,Nashville,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",PMD,Cumulus,WSM-FM,5:24 PM,LITTLE BIG TOWN,Boondocks,2005,G,c-,group,male-female,white,Nashville,false,X,B2BCombWomen,X,X,B2Bwhite,X
-1/24/22,"Monday, Block",PMD,Cumulus,WSM-FM,5:28 PM,"ALDEAN, JASON/Lambert, Miranda",Drowns The Whiskey,2018,G,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/24/22,"Monday, Block",PMD,Cumulus,WSM-FM,5:28 PM,"ALDEAN, JASON/Lambert, Miranda",Drowns The Whiskey,2018,G,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/24/22,"Monday, Block",PMD,Cumulus,WSM-FM,5:31 PM,"STRAIT, GEORGE",Carrying Your Love With Me,1997,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",PMD,Cumulus,WSM-FM,5:35 PM,"RUCKER, DARIUS",Come Back Song,2010,G,c-,solo,men,black,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 1/24/22,"Monday, Block",PMD,Cumulus,WSM-FM,5:39 PM,ALABAMA,Mountain Music,1982,G,c-,group,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
@@ -2352,7 +2352,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 3/25/22,"Friday, regular",EVE,Cumulus,WSM-FM,8:39 PM,"MOORE, JUSTIN",We Didn't Have Much,2020,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/25/22,"Friday, regular",EVE,Cumulus,WSM-FM,8:48 PM,"TURNER, JOSH",Why Don't We Just Dance,2009,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/25/22,"Friday, regular",EVE,Cumulus,WSM-FM,8:51 PM,"MCGRAW, TIM/HILL, FAITH",It's Your Love,1997,G,c-,collab,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
-3/25/22,"Friday, regular",EVE,Cumulus,WSM-FM,8:55 PM,SUGARLAND,Baby Girl,2004,G,c-,duo,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+3/25/22,"Friday, regular",EVE,Cumulus,WSM-FM,8:55 PM,SUGARLAND,Baby Girl,2004,G,c-,duo,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 3/25/22,"Friday, regular",EVE,Cumulus,WSM-FM,8:59 PM,"ALDEAN, JASON",Big Green Tractor,2009,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 3/25/22,"Friday, regular",EVE,Cumulus,WSM-FM,9:02 PM,"CARPENTER, MARY CHAPIN",Down At The Twist And Shout,1990,G,c-,solo,women,white,Nashville,false,X,X,X,X,B2Bwhite,X
 3/25/22,"Friday, regular",EVE,Cumulus,WSM-FM,9:06 PM,"STRAIT, GEORGE",The Fireman,1985,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
@@ -4405,7 +4405,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/24/22,"Friday, regular",EVE,Cumulus,WSM-FM,9:30 PM,"BENTLEY, DIERKS",What Was I Thinkin',2003,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/24/22,"Friday, regular",EVE,Cumulus,WSM-FM,9:34 PM,"MCGRAW, TIM",My Best Friend,1999,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/24/22,"Friday, regular",EVE,Cumulus,WSM-FM,9:38 PM,LADY ANTEBELLUM,What If I Never Get Over You,2019,G,c-,trio,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
-6/24/22,"Friday, regular",EVE,Cumulus,WSM-FM,9:49 PM,LITTLE BIG TOWN,Better Man,2016,G,c-,group,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/24/22,"Friday, regular",EVE,Cumulus,WSM-FM,9:49 PM,LITTLE BIG TOWN,Better Man,2016,G,c-,group,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/24/22,"Friday, regular",EVE,Cumulus,WSM-FM,9:53 PM,BROOKS & DUNN,Hard Workin' Man,1993,G,c-,duo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 6/24/22,"Friday, regular",EVE,Cumulus,WSM-FM,9:56 PM,"URBAN, KEITH",Days Go By,2004,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/24/22,"Friday, regular",EVE,Cumulus,WSM-FM,10:00 PM,"CURRINGTON, BILLY",Must Be Doin' Somethin' Right,2005,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -4593,7 +4593,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 7/29/22,"Friday, regular",MID,Cumulus,WSM-FM,10:32 AM,"STELL, MATT",Everywhere But On,2019,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 7/29/22,"Friday, regular",MID,Cumulus,WSM-FM,10:35 AM,LITTLE TEXAS,God Blessed Texas,1993,G,c-,group,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 7/29/22,"Friday, regular",MID,Cumulus,WSM-FM,10:38 AM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
-7/29/22,"Friday, regular",MID,Cumulus,WSM-FM,10:43 AM,SUGARLAND,Stuck Like Glue,2010,G,c-,duo,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+7/29/22,"Friday, regular",MID,Cumulus,WSM-FM,10:43 AM,SUGARLAND,Stuck Like Glue,2010,G,c-,duo,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 7/29/22,"Friday, regular",MID,Cumulus,WSM-FM,10:47 AM,"JACKSON, ALAN",Mercury Blues,1993,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 7/29/22,"Friday, regular",MID,Cumulus,WSM-FM,10:51 AM,"STAPLETON, CHRIS",Broken Halos,2016,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 7/29/22,"Friday, regular",MID,Cumulus,WSM-FM,10:54 AM,"BROOKS, GARTH",The River,1992,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -5372,7 +5372,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 9/30/22,"Friday, regular",PMD,Cumulus,WSM-FM,5:02 PM,"WALKER, CLAY",What's It To You,1993,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 9/30/22,"Friday, regular",PMD,Cumulus,WSM-FM,5:05 PM,"RUCKER, DARIUS",Wagon Wheel,2012,G,c-,solo,men,black,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 9/30/22,"Friday, regular",PMD,Cumulus,WSM-FM,5:09 PM,"PEARCE, CARLY/BRICE, LEE",I Hope You're Happy Now,2019,G,c-,solo,male-female,white,Nashville,false,X,X,X,X,X,X
-9/30/22,"Friday, regular",PMD,Cumulus,WSM-FM,5:18 PM,SUGARLAND,Something More,2004,G,c-,duo,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+9/30/22,"Friday, regular",PMD,Cumulus,WSM-FM,5:18 PM,SUGARLAND,Something More,2004,G,c-,duo,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 9/30/22,"Friday, regular",PMD,Cumulus,WSM-FM,5:22 PM,"TRAVIS, RANDY",Hard Rock Bottom Of Your Heart,1989,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",PMD,Cumulus,WSM-FM,5:26 PM,"CURRINGTON, BILLY",Must Be Doin' Somethin' Right,2005,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 9/30/22,"Friday, regular",PMD,Cumulus,WSM-FM,5:30 PM,"JANSON, CHRIS",Buy Me A Boat,2015,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen

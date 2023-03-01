@@ -2112,7 +2112,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 3/28/22,"Friday, Underwood",MID,iHeartMedia,WTQR-FM,11:17:00 AM,"LANE, CHRIS","Big, Big Plans",2019,R,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 3/28/22,"Friday, Underwood",MID,iHeartMedia,WTQR-FM,11:20:00 AM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/28/22,"Friday, Underwood",MID,iHeartMedia,WTQR-FM,11:23:00 AM,SUGARLAND,Stay,2006,G,c-,duo,male-female,white,Greensboro,false,X,X,X,X,B2Bwhite,X
-3/28/22,"Friday, Underwood",MID,iHeartMedia,WTQR-FM,11:27:00 AM,"BROWN, KANE/ALAINA, LAUREN",What Ifs,2016,G,c-,collab,male-female,multiethnic,Greensboro,false,B2Bmixed,B2BCombWomen,X,X,X,X
+3/28/22,"Friday, Underwood",MID,iHeartMedia,WTQR-FM,11:27:00 AM,"BROWN, KANE/ALAINA, LAUREN",What Ifs,2016,G,c-,collab,male-female,multiethnic,Greensboro,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,X,X
 3/28/22,"Friday, Underwood",MID,iHeartMedia,WTQR-FM,11:30:00 AM,"SWINDELL, COLE",Single Saturday Night,2020,R,c-,solo,men,white,Greensboro,false,X,X,X,X,X,X
 3/28/22,"Friday, Underwood",MID,iHeartMedia,WTQR-FM,11:33:00 AM,"GILBERT, BRANTLEY",You Don't Know Her Like I Do,2011,G,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/28/22,"Friday, Underwood",MID,iHeartMedia,WTQR-FM,11:37:00 AM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -2311,7 +2311,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 4/8/22,"Friday, Ballerini",OVN,iHeartMedia,WTQR-FM,1:04:00 AM,"LAMBERT, MIRANDA",If I Was A Cowboy,2021,R,c-,solo,women,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 4/8/22,"Friday, Ballerini",OVN,iHeartMedia,WTQR-FM,1:07:00 AM,LANCO,Greatest Love Story,2016,G,c-,group,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 4/8/22,"Friday, Ballerini",OVN,iHeartMedia,WTQR-FM,1:10:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Greensboro,false,X,X,X,X,B2Bwhite,X
-4/8/22,"Friday, Ballerini",OVN,iHeartMedia,WTQR-FM,1:18:00 AM,LADY ANTEBELLUM,What A Song Can Do,2021,R,c-,trio,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+4/8/22,"Friday, Ballerini",OVN,iHeartMedia,WTQR-FM,1:18:00 AM,LADY ANTEBELLUM,What A Song Can Do,2021,R,c-,trio,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 4/8/22,"Friday, Ballerini",OVN,iHeartMedia,WTQR-FM,1:22:00 AM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 4/8/22,"Friday, Ballerini",OVN,iHeartMedia,WTQR-FM,1:26:00 AM,DAN + SHAY,Glad You Exist,2021,R,c-,duo,men,multiethnic,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 4/8/22,"Friday, Ballerini",OVN,iHeartMedia,WTQR-FM,1:29:00 AM,"PARDI, JON",Last Night Lonely,2022,R,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
@@ -4941,7 +4941,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 9/30/22,"Friday, regular",OVN,iHeartMedia,WTQR-FM,3:55:00 AM,"LAMBERT, MIRANDA",The House That Built Me,2009,G,c-,solo,women,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",OVN,iHeartMedia,WTQR-FM,3:58:00 AM,"DAVIS, JORDAN",Singles You Up,2017,G,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",OVN,iHeartMedia,WTQR-FM,4:02:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Greensboro,false,X,X,X,X,B2Bwhite,X
-9/30/22,"Friday, regular",OVN,iHeartMedia,WTQR-FM,4:05:00 AM,"BAND PERRY, THE",If I Die Young,2010,G,c-,trio,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+9/30/22,"Friday, regular",OVN,iHeartMedia,WTQR-FM,4:05:00 AM,"BAND PERRY, THE",If I Die Young,2010,G,c-,trio,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 9/30/22,"Friday, regular",OVN,iHeartMedia,WTQR-FM,4:09:00 AM,"COMBS, LUKE",The Kind Of Love We Make,2022,R,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",OVN,iHeartMedia,WTQR-FM,4:12:00 AM,"BRYAN, LUKE","Sunrise, Sunburn, Sunset",2017,G,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 9/30/22,"Friday, regular",OVN,iHeartMedia,WTQR-FM,4:22:00 AM,"PROFITT, SHANE",How It Oughta Be,2022,C,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen

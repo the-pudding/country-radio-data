@@ -1595,7 +1595,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,12:33:00 AM,"SWIFT, TAYLOR",I Bet You Think About Me,2021,C,c-,solo,women,white,Dallas,false,B2Bwomen,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,B2BwhiteWomen
 3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,12:37:00 AM,"PARDI, JON",Last Night Lonely,2022,R,c-,solo,men,white,Dallas,false,X,X,X,X,B2Bwhite,X
 3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,12:40:00 AM,"BALLERINI, KELSEA/CHESNEY, KENNY",Half Of My Hometown,2020,R,c-,collab,male-female,white,Dallas,false,X,X,X,X,B2Bwhite,X
-3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,12:47:00 AM,LADY ANTEBELLUM,Compass,2013,G,c-,trio,male-female,white,Dallas,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,12:47:00 AM,LADY ANTEBELLUM,Compass,2013,G,c-,trio,male-female,white,Dallas,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,12:50:00 AM,"HUNT, SAM",23,2021,R,c-,solo,men,white,Dallas,false,X,X,X,X,B2Bwhite,X
 3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,12:54:00 AM,"BRICE, LEE",Soul,2020,R,c-,solo,men,white,Dallas,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,12:57:00 AM,"RODGERS, JAMESON",Some Girls,2017,G,c-,solo,men,white,Dallas,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -1615,7 +1615,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,1:51:00 AM,"MCCOLLUM, PARKER",To Be Loved By You,2020,R,c-,solo,men,white,Dallas,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,1:54:00 AM,"YOUNG, CHRIS/TENPENNY, MITCHELL",At The End Of A Bar,2021,R,c-,collab,men,white,Dallas,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,1:57:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Dallas,false,X,X,X,X,B2Bwhite,X
-3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,2:00:00 AM,LADY ANTEBELLUM,Champagne Night,2020,R,c-,trio,male-female,white,Dallas,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,2:00:00 AM,LADY ANTEBELLUM,Champagne Night,2020,R,c-,trio,male-female,white,Dallas,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,2:03:00 AM,"SCOTT, DYLAN",New Truck,2021,R,c-,solo,men,white,Dallas,false,X,X,X,X,B2Bwhite,X
 3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,2:06:00 AM,"PARDI, JON",Ain't Always The Cowboy,2019,R,c-,solo,men,white,Dallas,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/18/22,"Friday, Underwood",OVN,Cumulus,KPLX-FM,2:13:00 AM,"JACKSON, ALAN",It Must Be Love,1999,G,c-,solo,men,white,Dallas,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -2913,7 +2913,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 5/20/22,"Friday, Wilson",OVN,Cumulus,KPLX-FM,5:17:00 AM,"LYNCH, DUSTIN",Good Girl,2018,G,c-,solo,men,white,Dallas,false,X,X,X,X,B2Bwhite,X
 5/20/22,"Friday, Wilson",OVN,Cumulus,KPLX-FM,5:20:00 AM,"BLACK, CLINT",A Good Run Of Bad Luck,1994,G,c-,solo,men,white,Dallas,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/20/22,"Friday, Wilson",OVN,Cumulus,KPLX-FM,5:23:00 AM,LADY ANTEBELLUM,I Run To You,2008,G,c-,trio,male-female,white,Dallas,false,X,X,X,X,B2Bwhite,X
-5/20/22,"Friday, Wilson",OVN,Cumulus,KPLX-FM,5:31:00 AM,LITTLE BIG TOWN,Little White Church,2010,G,c-,group,male-female,white,Dallas,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+5/20/22,"Friday, Wilson",OVN,Cumulus,KPLX-FM,5:31:00 AM,LITTLE BIG TOWN,Little White Church,2010,G,c-,group,male-female,white,Dallas,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 5/20/22,"Friday, Wilson",OVN,Cumulus,KPLX-FM,5:34:00 AM,"MURPHY, DAVID LEE",Dust On The Bottle,1995,G,c-,solo,men,white,Dallas,false,X,X,X,X,B2Bwhite,X
 5/20/22,"Friday, Wilson",OVN,Cumulus,KPLX-FM,5:43:00 AM,"BENTLEY, DIERKS",What Was I Thinkin',2003,G,c-,solo,men,white,Dallas,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/20/22,"Friday, Wilson",OVN,Cumulus,KPLX-FM,5:47:00 AM,"STRAIT, GEORGE",River Of Love,2008,G,c-,solo,men,white,Dallas,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -4064,7 +4064,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/24/22,"Friday, regular",EVE,Cumulus,KPLX-FM,9:51:00 PM,"MCDANIEL, MEL",Baby's Got Her Blue Jeans On,1984,G,c-,solo,men,white,Dallas,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/24/22,"Friday, regular",EVE,Cumulus,KPLX-FM,9:54:00 PM,BROOKS & DUNN,Only In America,2001,G,c-,duo,men,white,Dallas,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/24/22,"Friday, regular",EVE,Cumulus,KPLX-FM,9:58:00 PM,"YOUNG, CHRIS/POPE, CASSADEE",Think Of You,2015,G,c-,collab,male-female,white,Dallas,false,X,X,X,X,B2Bwhite,X
-6/24/22,"Friday, regular",EVE,Cumulus,KPLX-FM,10:02:00 PM,SUGARLAND,Something More,2004,G,c-,duo,male-female,white,Dallas,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/24/22,"Friday, regular",EVE,Cumulus,KPLX-FM,10:02:00 PM,SUGARLAND,Something More,2004,G,c-,duo,male-female,white,Dallas,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/24/22,"Friday, regular",EVE,Cumulus,KPLX-FM,10:05:00 PM,"CHESNEY, KENNY",Out Last Night,2009,G,c-,solo,men,white,Dallas,false,X,X,X,X,B2Bwhite,X
 6/24/22,"Friday, regular",EVE,Cumulus,KPLX-FM,10:08:00 PM,"LAWRENCE, TRACY",Stars Over Texas,1996,G,c-,solo,men,white,Dallas,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/24/22,"Friday, regular",EVE,Cumulus,KPLX-FM,10:18:00 PM,"ALDEAN, JASON",Dirt Road Anthem,2010,G,c-,solo,men,white,Dallas,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen

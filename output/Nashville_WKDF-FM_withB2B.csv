@@ -477,7 +477,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/24/22,"Monday, Block",MID,Cumulus,WKDF-FM,12:12 PM,FLORIDA GEORGIA LINE,Long Live,2020,R,c-,duo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/24/22,"Monday, Block",MID,Cumulus,WKDF-FM,12:14 PM,"MCCOLLUM, PARKER",To Be Loved By You,2020,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/24/22,"Monday, Block",MID,Cumulus,WKDF-FM,12:18 PM,LITTLE BIG TOWN,Girl Crush,2014,G,c-,group,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
-1/24/22,"Monday, Block",MID,Cumulus,WKDF-FM,12:21 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/24/22,"Monday, Block",MID,Cumulus,WKDF-FM,12:21 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/24/22,"Monday, Block",MID,Cumulus,WKDF-FM,12:24 PM,"RHETT, THOMAS",Sixteen,2017,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",MID,Cumulus,WKDF-FM,12:35 PM,"CLARK, CALLISTA",It's 'Cause I Am,2021,R,c-,solo,women,white,Nashville,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",MID,Cumulus,WKDF-FM,12:38 PM,"SHANE, ELVIE",My Boy,2020,R,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
@@ -565,8 +565,8 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/24/22,"Monday, Block",PMD,Cumulus,WKDF-FM,6:43 PM,"BENTLEY, DIERKS",Gone,2020,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/24/22,"Monday, Block",PMD,Cumulus,WKDF-FM,6:46 PM,"PEARCE, CARLY/MCBRYDE, ASHLEY",Never Wanted To Be That Girl,2021,R,c-,collab,women,white,Nashville,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",PMD,Cumulus,WKDF-FM,6:54 PM,LITTLE BIG TOWN,Better Man,2016,G,c-,group,male-female,white,Nashville,false,X,B2BCombWomen,X,X,B2Bwhite,X
-1/24/22,"Monday, Block",EVE,Cumulus,WKDF-FM,7:00 PM,LADY ANTEBELLUM,Champagne Night,2020,R,c-,trio,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
-1/24/22,"Monday, Block",EVE,Cumulus,WKDF-FM,7:03 PM,"LYNCH, DUSTIN/PORTER, MEGHAN",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/24/22,"Monday, Block",EVE,Cumulus,WKDF-FM,7:00 PM,LADY ANTEBELLUM,Champagne Night,2020,R,c-,trio,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
+1/24/22,"Monday, Block",EVE,Cumulus,WKDF-FM,7:03 PM,"LYNCH, DUSTIN/PORTER, MEGHAN",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/24/22,"Monday, Block",EVE,Cumulus,WKDF-FM,7:06 PM,"BRYAN, LUKE",Do I,2009,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",EVE,Cumulus,WKDF-FM,7:17 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",EVE,Cumulus,WKDF-FM,7:20 PM,"COMBS, LUKE",Forever After All,2020,R,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
@@ -699,7 +699,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/28/22,"Friday, regular",OVN,Cumulus,WKDF-FM,4:51 AM,"RAY, MICHAEL",Whiskey And Rain,2020,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",OVN,Cumulus,WKDF-FM,4:57 AM,"LYNCH, DUSTIN/PORTER, MEGHAN",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",OVN,Cumulus,WKDF-FM,5:06 AM,"BALLERINI, KELSEA/CHESNEY, KENNY",Half of My Hometown,2020,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,B2BwhiteMixed
-1/28/22,"Friday, regular",OVN,Cumulus,WKDF-FM,5:10 AM,LITTLE BIG TOWN,The Star Spangled Banner,2006,G,c-,group,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/28/22,"Friday, regular",OVN,Cumulus,WKDF-FM,5:10 AM,LITTLE BIG TOWN,The Star Spangled Banner,2006,G,c-,group,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/28/22,"Friday, regular",OVN,Cumulus,WKDF-FM,5:13 AM,"JONES, GEORGE",Finally Friday,1993,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",OVN,Cumulus,WKDF-FM,5:15 AM,"LAMBERT, MIRANDA",If I Was A Cowboy,2021,R,c-,solo,women,white,Nashville,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",OVN,Cumulus,WKDF-FM,5:26 AM,"MCGRAW, TIM",Where The Green Grass Grows,1997,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
@@ -741,7 +741,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/28/22,"Friday, regular",AMD,Cumulus,WKDF-FM,9:07 AM,"BENTLEY, DIERKS",Gone,2020,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",AMD,Cumulus,WKDF-FM,9:11 AM,"BROWN, KANE",Cool Again,2020,G,c-,solo,men,multiethnic,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 1/28/22,"Friday, regular",AMD,Cumulus,WKDF-FM,9:14 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Nashville,false,X,X,X,X,X,X
-1/28/22,"Friday, regular",AMD,Cumulus,WKDF-FM,9:17 AM,LITTLE BIG TOWN,Girl Crush,2014,G,c-,group,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/28/22,"Friday, regular",AMD,Cumulus,WKDF-FM,9:17 AM,LITTLE BIG TOWN,Girl Crush,2014,G,c-,group,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/28/22,"Friday, regular",AMD,Cumulus,WKDF-FM,9:21 AM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",AMD,Cumulus,WKDF-FM,9:23 AM,"DAVIS, JORDAN/BRYAN, LUKE",Buy Dirt,2021,R,c-,collab,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",AMD,Cumulus,WKDF-FM,9:31 AM,"SHELTON, BLAKE",Come Back As A Country Boy,2021,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -1049,7 +1049,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 2/7/22,"Monday, Barrett",AMD,Cumulus,WKDF-FM,9:07 AM,"WILSON, LAINEY",Things A Man Oughta Know,2019,R,c-,solo,women,white,Nashville,false,X,X,X,X,B2Bwhite,X
 2/7/22,"Monday, Barrett",AMD,Cumulus,WKDF-FM,9:11 AM,"RHETT, THOMAS",Sixteen,2017,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 2/7/22,"Monday, Barrett",AMD,Cumulus,WKDF-FM,9:14 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
-2/7/22,"Monday, Barrett",AMD,Cumulus,WKDF-FM,9:17 AM,LITTLE BIG TOWN,Girl Crush,2014,G,c-,group,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+2/7/22,"Monday, Barrett",AMD,Cumulus,WKDF-FM,9:17 AM,LITTLE BIG TOWN,Girl Crush,2014,G,c-,group,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 2/7/22,"Monday, Barrett",AMD,Cumulus,WKDF-FM,9:21 AM,"MCCOLLUM, PARKER",To Be Loved By You,2020,R,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 2/7/22,"Monday, Barrett",AMD,Cumulus,WKDF-FM,9:24 AM,"DICKERSON, RUSSELL",Every Little Thing,2016,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 2/7/22,"Monday, Barrett",AMD,Cumulus,WKDF-FM,9:27 AM,"LYNCH, DUSTIN/PORTER, MEGHAN",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
@@ -1246,7 +1246,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 2/7/22,"Monday, Barrett",EVE,Cumulus,WKDF-FM,11:25 PM,"RHETT, THOMAS",What's Your Country Song,2020,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 2/7/22,"Monday, Barrett",EVE,Cumulus,WKDF-FM,11:28 PM,"STAPLETON, CHRIS",Tennessee Whiskey,2015,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 2/7/22,"Monday, Barrett",EVE,Cumulus,WKDF-FM,11:32 PM,"LYNCH, DUSTIN/PORTER, MEGHAN",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
-2/7/22,"Monday, Barrett",EVE,Cumulus,WKDF-FM,11:35 PM,LADY ANTEBELLUM,Champagne Night,2020,R,c-,trio,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+2/7/22,"Monday, Barrett",EVE,Cumulus,WKDF-FM,11:35 PM,LADY ANTEBELLUM,Champagne Night,2020,R,c-,trio,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 2/7/22,"Monday, Barrett",EVE,Cumulus,WKDF-FM,11:38 PM,"BRYAN, LUKE",Up,2021,R,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 2/7/22,"Monday, Barrett",EVE,Cumulus,WKDF-FM,11:49 PM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 2/7/22,"Monday, Barrett",EVE,Cumulus,WKDF-FM,11:53 PM,"PEARCE, CARLY/MCBRYDE, ASHLEY",Never Wanted To Be That Girl,2021,R,c-,collab,women,white,Nashville,false,X,X,X,X,B2Bwhite,X
@@ -1592,7 +1592,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 3/18/22,"Friday, Underwood",OVN,Cumulus,WKDF-FM,1:50 AM,"MCCOLLUM, PARKER",To Be Loved By You,2020,R,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 3/18/22,"Friday, Underwood",OVN,Cumulus,WKDF-FM,1:54 AM,"YOUNG, CHRIS/TENPENNY, MITCHELL",At The End Of A Bar,2021,R,c-,collab,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/18/22,"Friday, Underwood",OVN,Cumulus,WKDF-FM,1:57 AM,"LYNCH, DUSTIN/PORTER, MEGHAN",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
-3/18/22,"Friday, Underwood",OVN,Cumulus,WKDF-FM,2:00 AM,LADY ANTEBELLUM,Champagne Night,2020,R,c-,trio,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+3/18/22,"Friday, Underwood",OVN,Cumulus,WKDF-FM,2:00 AM,LADY ANTEBELLUM,Champagne Night,2020,R,c-,trio,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 3/18/22,"Friday, Underwood",OVN,Cumulus,WKDF-FM,2:03 AM,"SCOTT, DYLAN",New Truck,2021,R,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 3/18/22,"Friday, Underwood",OVN,Cumulus,WKDF-FM,2:05 AM,"PARDI, JON",Ain't Always The Cowboy,2019,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/18/22,"Friday, Underwood",OVN,Cumulus,WKDF-FM,2:16 AM,"KING, ELLE/LAMBERT, MIRANDA",Drunk (And I Don't Wanna Go..),2021,R,c-,collab,women,white,Nashville,false,X,X,X,X,B2Bwhite,X
@@ -1695,7 +1695,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 3/18/22,"Friday, Underwood",MID,Cumulus,WKDF-FM,10:42 AM,"BARRETT, GABBY",The Good Ones,2019,R,c-,solo,women,white,Nashville,false,X,X,X,X,B2Bwhite,X
 3/18/22,"Friday, Underwood",MID,Cumulus,WKDF-FM,10:46 AM,"RUCKER, DARIUS",Wagon Wheel,2012,G,c-,solo,men,black,Nashville,false,X,X,X,X,X,X
 3/18/22,"Friday, Underwood",MID,Cumulus,WKDF-FM,10:50 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Nashville,false,X,X,X,X,X,X
-3/18/22,"Friday, Underwood",MID,Cumulus,WKDF-FM,10:52 AM,LADY ANTEBELLUM,I Run To You,2008,G,c-,trio,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+3/18/22,"Friday, Underwood",MID,Cumulus,WKDF-FM,10:52 AM,LADY ANTEBELLUM,I Run To You,2008,G,c-,trio,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 3/18/22,"Friday, Underwood",MID,Cumulus,WKDF-FM,11:05 AM,"HUNT, SAM",Breaking Up Was Easy In The...,2020,R,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 3/18/22,"Friday, Underwood",MID,Cumulus,WKDF-FM,11:08 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
 3/18/22,"Friday, Underwood",MID,Cumulus,WKDF-FM,11:11 AM,"MCGRAW, TIM",Down On The Farm,1994,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
@@ -1762,7 +1762,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 3/18/22,"Friday, Underwood",PMD,Cumulus,WKDF-FM,3:39 PM,"HUNT, SAM",23,2021,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/18/22,"Friday, Underwood",PMD,Cumulus,WKDF-FM,3:42 PM,"RHETT, THOMAS",What's Your Country Song,2020,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/18/22,"Friday, Underwood",PMD,Cumulus,WKDF-FM,3:45 PM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
-3/18/22,"Friday, Underwood",PMD,Cumulus,WKDF-FM,3:47 PM,"LYNCH, DUSTIN/PORTER, MEGHAN",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+3/18/22,"Friday, Underwood",PMD,Cumulus,WKDF-FM,3:47 PM,"LYNCH, DUSTIN/PORTER, MEGHAN",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 3/18/22,"Friday, Underwood",PMD,Cumulus,WKDF-FM,3:50 PM,"BENTLEY, DIERKS",Gone,2020,R,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 3/18/22,"Friday, Underwood",PMD,Cumulus,WKDF-FM,4:03 PM,"COMBS, LUKE",She Got The Best Of Me,2018,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/18/22,"Friday, Underwood",PMD,Cumulus,WKDF-FM,4:05 PM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -2080,7 +2080,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 3/25/22,"Friday, regular",PMD,Cumulus,WKDF-FM,4:31 PM,"CHURCH, ERIC",Heart On Fire,2021,R,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 3/25/22,"Friday, regular",PMD,Cumulus,WKDF-FM,4:35 PM,"RUCKER, DARIUS",Beers And Sunshine,2020,R,c-,solo,men,black,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 3/25/22,"Friday, regular",PMD,Cumulus,WKDF-FM,4:38 PM,LITTLE BIG TOWN,Boondocks,2005,G,c-,group,male-female,white,Nashville,false,X,X,X,X,X,X
-3/25/22,"Friday, regular",PMD,Cumulus,WKDF-FM,4:42 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+3/25/22,"Friday, regular",PMD,Cumulus,WKDF-FM,4:42 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 3/25/22,"Friday, regular",PMD,Cumulus,WKDF-FM,4:46 PM,HARDY,Give Heaven Some Hell,2020,R,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 3/25/22,"Friday, regular",PMD,Cumulus,WKDF-FM,4:49 PM,"TURNER, JOSH",Hometown Girl,2016,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/25/22,"Friday, regular",PMD,Cumulus,WKDF-FM,4:53 PM,"MORRIS, MAREN",I Could Use A Love Song,2016,G,c-,solo,women,white,Nashville,false,X,X,X,X,B2Bwhite,X
@@ -2440,7 +2440,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,7:56 PM,"YOUNG, BRETT",In Case You Didn't Know,2016,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,8:00 PM,"BENTLEY, DIERKS",Gone,2020,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,8:03 PM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
-4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,8:07 PM,"LYNCH, DUSTIN/PORTER, MEGHAN",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,8:07 PM,"LYNCH, DUSTIN/PORTER, MEGHAN",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,8:19 PM,"WALLEN, MORGAN",Wasted On You,2021,R,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,8:22 PM,"MCGRAW, TIM",7500 OBO,2020,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,8:25 PM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -2464,7 +2464,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,9:38 PM,"PEARCE, CARLY/MCBRYDE, ASHLEY",Never Wanted To Be That Girl,2021,R,c-,collab,women,white,Nashville,false,X,X,X,X,B2Bwhite,X
 4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,9:49 PM,"RHETT, THOMAS",T-Shirt,2015,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,9:53 PM,LADY ANTEBELLUM,What A Song Can Do,2021,R,c-,trio,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
-4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,9:56 PM,"ALDEAN, JASON/KELLY CLARKSON",Don't You Wanna Stay,2010,G,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,9:56 PM,"ALDEAN, JASON/KELLY CLARKSON",Don't You Wanna Stay,2010,G,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,10:00 PM,"BALLERINI, KELSEA/CHESNEY, KENNY",Half of My Hometown,2020,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,B2BwhiteMixed
 4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,10:04 PM,"LYNCH, DUSTIN/PORTER, MEGHAN",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,B2BwhiteMixed
 4/8/22,"Friday, Ballerini",EVE,Cumulus,WKDF-FM,10:06 PM,"CURRINGTON, BILLY",Do I Make You Wanna,2015,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
@@ -2778,7 +2778,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 4/29/22,"Friday, regular",EVE,Cumulus,WKDF-FM,9:56 PM,ZAC BROWN BAND,Free,2008,G,c-,group,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/29/22,"Friday, regular",EVE,Cumulus,WKDF-FM,10:00 PM,"WILSON, LAINEY",Things A Man Oughta Know,2019,R,c-,solo,women,white,Nashville,false,X,X,X,X,B2Bwhite,X
 4/29/22,"Friday, regular",EVE,Cumulus,WKDF-FM,10:03 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Nashville,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
-4/29/22,"Friday, regular",EVE,Cumulus,WKDF-FM,10:07 PM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+4/29/22,"Friday, regular",EVE,Cumulus,WKDF-FM,10:07 PM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 4/29/22,"Friday, regular",EVE,Cumulus,WKDF-FM,10:18 PM,"HUNT, SAM",23,2021,R,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 4/29/22,"Friday, regular",EVE,Cumulus,WKDF-FM,10:21 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/29/22,"Friday, regular",EVE,Cumulus,WKDF-FM,10:24 PM,"DAVIS, JORDAN/BRYAN, LUKE",Buy Dirt,2021,R,c-,collab,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -2881,8 +2881,8 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 5/20/22,"Friday, Wilson",OVN,Cumulus,WKDF-FM,5:29 AM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/20/22,"Friday, Wilson",OVN,Cumulus,WKDF-FM,5:35 AM,"BROWN, KANE",Like I Love Country Music,2022,R,c-,solo,men,multiethnic,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 5/20/22,"Friday, Wilson",OVN,Cumulus,WKDF-FM,5:48 AM,"LYNCH, DUSTIN/PORTER, MEGHAN",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Nashville,false,X,X,X,X,X,X
-5/20/22,"Friday, Wilson",OVN,Cumulus,WKDF-FM,5:52 AM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
-5/20/22,"Friday, Wilson",OVN,Cumulus,WKDF-FM,5:57 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+5/20/22,"Friday, Wilson",OVN,Cumulus,WKDF-FM,5:52 AM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
+5/20/22,"Friday, Wilson",OVN,Cumulus,WKDF-FM,5:57 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 5/20/22,"Friday, Wilson",AMD,Cumulus,WKDF-FM,6:06 AM,"STAPLETON, CHRIS",Millionaire,2017,G,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 5/20/22,"Friday, Wilson",AMD,Cumulus,WKDF-FM,6:09 AM,"LAMBERT, MIRANDA",If I Was A Cowboy,2021,R,c-,solo,women,white,Nashville,false,X,X,X,X,B2Bwhite,X
 5/20/22,"Friday, Wilson",AMD,Cumulus,WKDF-FM,6:20 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Nashville,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
@@ -3217,7 +3217,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 5/27/22,"Friday, regular",AMD,Cumulus,WKDF-FM,8:06 AM,"STAPLETON, CHRIS",Starting Over,2020,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/27/22,"Friday, regular",AMD,Cumulus,WKDF-FM,8:10 AM,"MCCREERY, SCOTTY",Damn Strait,2021,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/27/22,"Friday, regular",AMD,Cumulus,WKDF-FM,8:22 AM,"HURD, RYAN/MORRIS, MAREN",Chasing After You,2021,R,c-,collab,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
-5/27/22,"Friday, regular",AMD,Cumulus,WKDF-FM,8:28 AM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+5/27/22,"Friday, regular",AMD,Cumulus,WKDF-FM,8:28 AM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 5/27/22,"Friday, regular",AMD,Cumulus,WKDF-FM,8:31 AM,"LAMBERT, MIRANDA",If I Was A Cowboy,2021,R,c-,solo,women,white,Nashville,false,X,B2BCombWomen,X,X,B2Bwhite,X
 5/27/22,"Friday, regular",AMD,Cumulus,WKDF-FM,8:36 AM,"DAVIS, JORDAN/BRYAN, LUKE",Buy Dirt,2021,R,c-,collab,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 5/27/22,"Friday, regular",AMD,Cumulus,WKDF-FM,8:39 AM,"WALLEN, MORGAN",Wasted On You,2021,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -3879,7 +3879,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/24/22,"Friday, regular",MID,Cumulus,WKDF-FM,11:07 AM,"HAYES, WALKER",Fancy Like,2021,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/24/22,"Friday, regular",MID,Cumulus,WKDF-FM,11:09 AM,"MCCREERY, SCOTTY",Damn Strait,2021,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/24/22,"Friday, regular",MID,Cumulus,WKDF-FM,11:13 AM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
-6/24/22,"Friday, regular",MID,Cumulus,WKDF-FM,11:16 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/24/22,"Friday, regular",MID,Cumulus,WKDF-FM,11:16 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/24/22,"Friday, regular",MID,Cumulus,WKDF-FM,11:20 AM,"RODGERS, JAMESON/COMBS, LUKE",Cold Beer Calling My Name,2020,R,c-,collab,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 6/24/22,"Friday, regular",MID,Cumulus,WKDF-FM,11:23 AM,"BROWN, KANE",Good As You,2018,G,c-,solo,men,multiethnic,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 6/24/22,"Friday, regular",MID,Cumulus,WKDF-FM,11:29 AM,"OWEN, JAKE",Best Thing Since Backroads,2021,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
@@ -4541,7 +4541,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 8/26/22,"Friday, regular",MID,Cumulus,WKDF-FM,11:35 AM,"DEAN, JACKSON",Don't Come Lookin',2021,C,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 8/26/22,"Friday, regular",MID,Cumulus,WKDF-FM,11:38 AM,"SWINDELL, COLE",She Had Me At Heads Carolina,2022,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 8/26/22,"Friday, regular",MID,Cumulus,WKDF-FM,11:41 AM,"HURD, RYAN/MORRIS, MAREN",Chasing After You,2021,R,c-,collab,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
-8/26/22,"Friday, regular",MID,Cumulus,WKDF-FM,11:45 AM,LITTLE BIG TOWN,Boondocks,2005,G,c-,group,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+8/26/22,"Friday, regular",MID,Cumulus,WKDF-FM,11:45 AM,LITTLE BIG TOWN,Boondocks,2005,G,c-,group,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 8/26/22,"Friday, regular",MID,Cumulus,WKDF-FM,11:48 AM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 8/26/22,"Friday, regular",MID,Cumulus,WKDF-FM,11:52 AM,"ALDEAN, JASON",That's What Tequila Does,2021,C,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 8/26/22,"Friday, regular",MID,Cumulus,WKDF-FM,12:04 PM,"HUNT, SAM",Break Up In A Small Town,2014,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -4608,7 +4608,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 8/26/22,"Friday, regular",PMD,Cumulus,WKDF-FM,4:39 PM,"HUNT, SAM",Hard To Forget,2020,G,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 8/26/22,"Friday, regular",PMD,Cumulus,WKDF-FM,4:42 PM,"WALLEN, MORGAN",Wasted On You,2021,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 8/26/22,"Friday, regular",PMD,Cumulus,WKDF-FM,4:46 PM,"HARDY/WILSON, LAINEY",Wait in the Truck,2022,C,c-,collab,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X
-8/26/22,"Friday, regular",PMD,Cumulus,WKDF-FM,4:50 PM,LADY ANTEBELLUM,I Run To You,2008,G,c-,trio,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+8/26/22,"Friday, regular",PMD,Cumulus,WKDF-FM,4:50 PM,LADY ANTEBELLUM,I Run To You,2008,G,c-,trio,male-female,white,Nashville,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 8/26/22,"Friday, regular",PMD,Cumulus,WKDF-FM,4:54 PM,"HAYES, WALKER",AA,2021,R,c-,solo,men,white,Nashville,false,X,X,X,X,B2Bwhite,X
 8/26/22,"Friday, regular",PMD,Cumulus,WKDF-FM,5:05 PM,"BRICE, LEE",Memory I Don't Mess With,2020,R,c-,solo,men,white,Nashville,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 8/26/22,"Friday, regular",PMD,Cumulus,WKDF-FM,5:08 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Nashville,false,X,X,X,X,B2Bwhite,X

@@ -21,115 +21,123 @@ function computeSummary(data, file) {
     console.log(cityName)
     songPlays = data.length;
 
-    // Women songs stats
+    // WOMEN
+    // Women ONLY
     const onlyWomenSongs_ARRAY = data.filter(d => d.gender == "women");
     const onlyWomenSongs_COUNT = onlyWomenSongs_ARRAY.length;
     const onlyWomenSongs_PERCENT = onlyWomenSongs_COUNT/songPlays*100;
     const b2bWomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen").length;
     const b2bWomenSongs_PERCENT = b2bWomenSongs_COUNT/songPlays*100;
 
+    // Women ONLY overnight
     const OVNwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.dayparts == "OVN")
     const OVNwomenSongs_COUNT = OVNwomenSongs_ARRAY.length;
     const OVNwomenSongs_PERCENT = OVNwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
     const b2bOVNwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.dayparts == "OVN").length;
     const b2bOVNwomenSongs_PERCENT = b2bOVNwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
 
+    // Women ONLY morning
     const AMDwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.dayparts == "AMD")
     const AMDwomenSongs_COUNT = AMDwomenSongs_ARRAY.length;
     const AMDwomenSongs_PERCENT = AMDwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
     const b2bAMDwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.dayparts == "AMD").length;
     const b2bAMDwomenSongs_PERCENT = b2bAMDwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
 
+    // Women ONLY midday
     const MIDwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.dayparts == "MID")
     const MIDwomenSongs_COUNT = MIDwomenSongs_ARRAY.length;
     const MIDwomenSongs_PERCENT = MIDwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
     const b2bMIDwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.dayparts == "MID").length;
     const b2bMIDwomenSongs_PERCENT = b2bMIDwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
 
+    // Women ONLY afternoon
     const PMDwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.dayparts == "PMD")
     const PMDwomenSongs_COUNT = PMDwomenSongs_ARRAY.length;
     const PMDwomenSongs_PERCENT = PMDwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
     const b2bPMDwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.dayparts == "PMD").length;
     const b2bPMDwomenSongs_PERCENT = b2bPMDwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
 
+    // Women ONLY evening
     const EVEwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.dayparts == "EVE")
     const EVEwomenSongs_COUNT = EVEwomenSongs_ARRAY.length;
     const EVEwomenSongs_PERCENT = EVEwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
     const b2bEVEwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.dayparts == "EVE").length;
     const b2bEVEwomenSongs_PERCENT = b2bEVEwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
 
+    // Women ONLY gold
     const GwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.grc == "G")
     const GwomenSongs_COUNT = GwomenSongs_ARRAY.length;
     const GwomenSongs_PERCENT = GwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
     const b2bGwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.grc == "G").length;
     const b2bGwomenSongs_PERCENT = b2bGwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
 
+    // Women ONLY recurrent
     const RwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.grc == "R")
     const RwomenSongs_COUNT = RwomenSongs_ARRAY.length;
     const RwomenSongs_PERCENT = RwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
     const b2bRwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.grc == "R").length;
     const b2bRwomenSongs_PERCENT = b2bRwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
 
+    // Women ONLY current
     const CwomenSongs_ARRAY = data.filter(d => d.gender == "women" && d.grc == "C")
     const CwomenSongs_COUNT = CwomenSongs_ARRAY.length;
     const CwomenSongs_PERCENT = CwomenSongs_COUNT/onlyWomenSongs_COUNT*100;
     const b2bCwomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bwomen" && d.grc == "C").length;
     const b2bCwomenSongs_PERCENT = b2bCwomenSongs_COUNT/b2bWomenSongs_COUNT*100;
 
-    // Men songs stats
+    // MEN
+    // Men ONLY
     const onlyMenSongs_ARRAY = data.filter(d => d.gender == "men");
     const onlyMenSongs_COUNT = onlyMenSongs_ARRAY.length;
     const onlyMenSongs_PERCENT = onlyMenSongs_COUNT/songPlays*100;
     const b2bMenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmen").length;
     const b2bMenSongs_PERCENT = b2bMenSongs_COUNT/songPlays*100;
 
-    // Mixed gender songs stats
+    // MIXED
+    // Mixed gender ONLY
     const onlyMixedGenderSongs_ARRAY = data.filter(d => d.gender == "male-female");
     const onlyMixedGenderSongs_COUNT = onlyMixedGenderSongs_ARRAY.length;
     const onlyMixedGenderSongs_PERCENT = onlyMixedGenderSongs_COUNT/songPlays*100;
     const b2bMixedGenderSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmixed").length;
     const b2bMixedGenderSongs_PERCENT = b2bMixedGenderSongs_COUNT/songPlays*100;
 
-    // Women and all mixed combined stats
+    // Women + all mixed gender
     const onlyCombinedGenderSongs_ARRAY = data.filter(d => d.gender == "male-female" || d.gender == "women");
     const onlyCombinedGenderSongs_COUNT = onlyCombinedGenderSongs_ARRAY.length;
     const onlyCombinedGenderSongs_PERCENT = onlyCombinedGenderSongs_COUNT/songPlays*100;
     const b2bCombinedGenderSongs_COUNT = songPlays_B2B.filter(d => d.b2b_combinedGender == "B2BCombWomen").length;
     const b2bCombinedGenderSongs_PERCENT = b2bCombinedGenderSongs_COUNT/songPlays*100;
 
-    // Women and collabs combined stats
+    // Women + men/women collabs ONLY
     let onlyCollabGenderSongs_ARRAY = data.filter(d => d.gender == "male-female" && d.ensemble == "collab" || d.gender == "women");
     const onlyCollabGenderSongs_COUNT = onlyCollabGenderSongs_ARRAY.length;
     const onlyCollabGenderSongs_PERCENT = onlyCollabGenderSongs_COUNT/songPlays*100;
     const b2bCollabGenderSongs_COUNT = songPlays_B2B.filter(d => d.b2b_collabGender == "B2BCollabWomen").length;
     const b2bCollabGenderSongs_PERCENT = b2bCollabGenderSongs_COUNT/songPlays*100;
 
-    const combinedCollabDiff_COUNT = onlyCombinedGenderSongs_COUNT - onlyCollabGenderSongs_COUNT;
-    const combinedCollabDiff_PERCENT = onlyCombinedGenderSongs_PERCENT - onlyCollabGenderSongs_PERCENT;
-    const b2bcombinedCollabDiff_COUNT = b2bCombinedGenderSongs_COUNT - b2bCollabGenderSongs_COUNT;
-    const b2bcombinedCollabDiff_PERCENT = b2bCombinedGenderSongs_PERCENT - b2bCollabGenderSongs_PERCENT;
-
-    // LGBTQ song stats
+    // LGBTQ
     const onlyLGBTQSong_ARRAY = songPlays_B2B.filter(d => d.lgbtq == true);
     const onlyLGBTQSongs_COUNT = onlyLGBTQSong_ARRAY.length;
     const onlyLGBTQSongs_PERCENT = onlyLGBTQSongs_COUNT/songPlays*100;
     const b2bLGBTQSongs_COUNT = songPlays_B2B.filter(d => d.b2b_lgbtq == "B2BLGBTQ").length;
     const b2bLGBTQSongs_PERCENT = b2bLGBTQSongs_COUNT/songPlays*100;
 
-    // POC song stats
+    // POC
+    // All POC
     const onlyPOCSong_ARRAY = data.filter(d => d.race !== "white");
     const onlyPOCSongs_COUNT = onlyPOCSong_ARRAY.length;
     const onlyPOCSongs_PERCENT = onlyPOCSongs_COUNT/songPlays*100;
     const b2bPOCSongs_COUNT = songPlays_B2B.filter(d => d.b2b_race == "B2BPOC").length;
     const b2bPOCSongs_PERCENT = b2bPOCSongs_COUNT/songPlays*100;
     
+    // WOC
     const onlyPOCWomenSong_ARRAY = data.filter(d => d.race !== "white" && d.gender == "women");
     const onlyPOCWomenSongs_COUNT = onlyPOCWomenSong_ARRAY.length;
     const onlyPOCWomenSongs_PERCENT = onlyPOCWomenSongs_COUNT/songPlays*100;
     const b2bPOCWomenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_raceGender == "B2BPOCWomen").length;
     const b2bPOCWomenSongs_PERCENT = b2bPOCWomenSongs_COUNT/songPlays*100;
 
-    // Total songs
+    // TOTAL
     const total_COUNT = data.length;
 
     summaryData.push({cityName, 
@@ -156,10 +164,6 @@ function computeSummary(data, file) {
                     onlyCollabGenderSongs_PERCENT,
                     b2bCollabGenderSongs_COUNT,
                     b2bCollabGenderSongs_PERCENT,
-                    combinedCollabDiff_COUNT,
-                    combinedCollabDiff_PERCENT,
-                    b2bcombinedCollabDiff_COUNT,
-                    b2bcombinedCollabDiff_PERCENT,
                     onlyLGBTQSongs_COUNT,
                     onlyLGBTQSongs_PERCENT,
                     b2bLGBTQSongs_COUNT,
@@ -309,26 +313,38 @@ function addB2BCollabData(data, file) {
             let currDate = data[i].date;
 
             if (currDate == prevDate) {
+                // Both songs women
                 if (currGender == "women" && prevGender == "women") {
                     b2bValueCollab = "B2BCollabWomen"
+                // Women then male-female
                 } else if (currGender == "women" && prevGender == "male-female") {
+                    // Must be collab
                     if (prevEnsemble == "collab") {
                         b2bValueCollab = "B2BCollabWomen"
+                    // If not collab
                     } else {
                         b2bValueCollab = "X"
                     }
+                // Male-female then woman
                 } else if (currGender == "male-female" && prevGender == "women") {
+                    // Must be collab
                     if (currEnsemble == "collab") {
                         b2bValueCollab = "B2BCollabWomen"
+                    // If not collab
                     } else {
                         b2bValueCollab = "X"
                     }
+                // Both male-female
                 } else if (currGender == "male-female" && prevGender == "male-female") {
+                    // Both must be collab
                     if (prevEnsemble == "collab" && currEnsemble == "collab") {
                         b2bValueCollab = "B2BCollabWomen"
+                    } else if (prevEnsemble !== "collab" || currEnsemble !== "collab") {
+                        b2bValueCollab = "B2BCollabMixed"
                     } else {
                         b2bValueCollab = "X"
                     }
+                // Both men
                 } else if (currGender == "men" && prevGender == "men") {
                     b2bValueCollab = "B2BCollabMen"
                 } else {

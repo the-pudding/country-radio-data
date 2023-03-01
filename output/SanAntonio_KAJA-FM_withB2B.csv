@@ -6,7 +6,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/7/22,"Friday, Morris",OVN,iHeartMedia,KAJA-FM,12:12:00 AM,"MORRIS, MAREN",Circles Around This Town,2022,R,c-,solo,women,white,SanAntonio,false,X,X,X,X,X,X
 1/7/22,"Friday, Morris",OVN,iHeartMedia,KAJA-FM,12:20:00 AM,"LAMBERT, MIRANDA",If I Was A Cowboy,2021,R,c-,solo,women,white,SanAntonio,false,B2Bwomen,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,B2BwhiteWomen
 1/7/22,"Friday, Morris",OVN,iHeartMedia,KAJA-FM,12:23:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,SanAntonio,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
-1/7/22,"Friday, Morris",OVN,iHeartMedia,KAJA-FM,12:26:00 AM,LADY ANTEBELLUM,Bartender,2014,G,c-,trio,male-female,white,SanAntonio,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/7/22,"Friday, Morris",OVN,iHeartMedia,KAJA-FM,12:26:00 AM,LADY ANTEBELLUM,Bartender,2014,G,c-,trio,male-female,white,SanAntonio,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/7/22,"Friday, Morris",OVN,iHeartMedia,KAJA-FM,12:30:00 AM,"CHURCH, ERIC",Heart On Fire,2021,R,c-,solo,men,white,SanAntonio,false,X,X,X,X,B2Bwhite,X
 1/7/22,"Friday, Morris",OVN,iHeartMedia,KAJA-FM,12:34:00 AM,"RHETT, THOMAS",T-Shirt,2015,G,c-,solo,men,white,SanAntonio,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/7/22,"Friday, Morris",OVN,iHeartMedia,KAJA-FM,12:37:00 AM,"DAVIS, JORDAN/BRYAN, LUKE",Buy Dirt,2021,R,c-,collab,men,white,SanAntonio,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -2638,7 +2638,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 4/29/22,"Friday, regular",MID,iHeartMedia,KAJA-FM,2:39:00 PM,"KEITH, TOBY",As Good As I Once Was,2005,G,c-,solo,men,white,SanAntonio,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 4/29/22,"Friday, regular",MID,iHeartMedia,KAJA-FM,2:43:00 PM,"HAYES, WALKER",Fancy Like,2021,R,c-,solo,men,white,SanAntonio,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/29/22,"Friday, regular",MID,iHeartMedia,KAJA-FM,2:55:00 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,SanAntonio,false,X,X,X,X,B2Bwhite,X
-4/29/22,"Friday, regular",MID,iHeartMedia,KAJA-FM,2:58:00 PM,LITTLE BIG TOWN,Better Man,2016,G,c-,group,male-female,white,SanAntonio,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+4/29/22,"Friday, regular",MID,iHeartMedia,KAJA-FM,2:58:00 PM,LITTLE BIG TOWN,Better Man,2016,G,c-,group,male-female,white,SanAntonio,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 4/29/22,"Friday, regular",PMD,iHeartMedia,KAJA-FM,3:03:00 PM,"COMBS, LUKE",One Number Away,2017,G,c-,solo,men,white,SanAntonio,false,X,X,X,X,B2Bwhite,X
 4/29/22,"Friday, regular",PMD,iHeartMedia,KAJA-FM,3:06:00 PM,"SHELTON, BLAKE",Come Back As A Country Boy,2021,R,c-,solo,men,white,SanAntonio,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/29/22,"Friday, regular",PMD,iHeartMedia,KAJA-FM,3:21:00 PM,"BENTLEY, DIERKS",Living,2018,G,c-,solo,men,white,SanAntonio,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -4648,7 +4648,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 9/30/22,"Friday, regular",OVN,iHeartMedia,KAJA-FM,3:54:00 AM,"LAMBERT, MIRANDA",The House That Built Me,2009,G,c-,solo,women,white,SanAntonio,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",OVN,iHeartMedia,KAJA-FM,3:58:00 AM,"DAVIS, JORDAN",Singles You Up,2017,G,c-,solo,men,white,SanAntonio,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",OVN,iHeartMedia,KAJA-FM,4:02:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,SanAntonio,false,X,X,X,X,B2Bwhite,X
-9/30/22,"Friday, regular",OVN,iHeartMedia,KAJA-FM,4:05:00 AM,"BAND PERRY, THE",If I Die Young,2010,G,c-,trio,male-female,white,SanAntonio,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+9/30/22,"Friday, regular",OVN,iHeartMedia,KAJA-FM,4:05:00 AM,"BAND PERRY, THE",If I Die Young,2010,G,c-,trio,male-female,white,SanAntonio,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 9/30/22,"Friday, regular",OVN,iHeartMedia,KAJA-FM,4:09:00 AM,"COMBS, LUKE",The Kind Of Love We Make,2022,R,c-,solo,men,white,SanAntonio,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",OVN,iHeartMedia,KAJA-FM,4:12:00 AM,"BRYAN, LUKE","Sunrise, Sunburn, Sunset",2017,G,c-,solo,men,white,SanAntonio,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 9/30/22,"Friday, regular",OVN,iHeartMedia,KAJA-FM,4:24:00 AM,"MIDLAND/PARDI, JON",Longneck Way To Go,2022,C,c-,collab,men,white,SanAntonio,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen

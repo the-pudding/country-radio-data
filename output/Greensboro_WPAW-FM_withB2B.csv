@@ -161,7 +161,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/7/22,"Friday, Morris",MID,Audacy/Entercom,WPAW-FM,10:08:00 AM,"MORRIS, MAREN",Circles Around This Town,2022,R,c-,solo,women,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 1/7/22,"Friday, Morris",MID,Audacy/Entercom,WPAW-FM,10:11:00 AM,"SMITH, GRANGER",Backroad Song,2015,G,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 1/7/22,"Friday, Morris",MID,Audacy/Entercom,WPAW-FM,10:20:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Greensboro,false,X,X,X,X,B2Bwhite,X
-1/7/22,"Friday, Morris",MID,Audacy/Entercom,WPAW-FM,10:24:00 AM,LITTLE BIG TOWN,Tornado,2012,G,c-,group,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/7/22,"Friday, Morris",MID,Audacy/Entercom,WPAW-FM,10:24:00 AM,LITTLE BIG TOWN,Tornado,2012,G,c-,group,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/7/22,"Friday, Morris",MID,Audacy/Entercom,WPAW-FM,10:27:00 AM,"COMBS, LUKE",One Number Away,2017,G,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 1/7/22,"Friday, Morris",MID,Audacy/Entercom,WPAW-FM,10:31:00 AM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/7/22,"Friday, Morris",MID,Audacy/Entercom,WPAW-FM,10:35:00 AM,"BRICE, LEE",One Of Them Girls,2020,G,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -233,7 +233,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/7/22,"Friday, Morris",PMD,Audacy/Entercom,WPAW-FM,3:05:00 PM,MARSHMELLO & KANE BROWN,One Thing Right,2019,G,c-,collab,men,multiethnic,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 1/7/22,"Friday, Morris",PMD,Audacy/Entercom,WPAW-FM,3:08:00 PM,"PARDI, JON",Tequila Little Time,2019,R,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 1/7/22,"Friday, Morris",PMD,Audacy/Entercom,WPAW-FM,3:17:00 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Greensboro,false,X,X,X,X,B2Bwhite,X
-1/7/22,"Friday, Morris",PMD,Audacy/Entercom,WPAW-FM,3:20:00 PM,LITTLE BIG TOWN,Girl Crush,2014,G,c-,group,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/7/22,"Friday, Morris",PMD,Audacy/Entercom,WPAW-FM,3:20:00 PM,LITTLE BIG TOWN,Girl Crush,2014,G,c-,group,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/7/22,"Friday, Morris",PMD,Audacy/Entercom,WPAW-FM,3:23:00 PM,"RHETT, THOMAS",What's Your Country Song,2020,R,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 1/7/22,"Friday, Morris",PMD,Audacy/Entercom,WPAW-FM,3:26:00 PM,"BROWN, KANE",One Mississippi,2021,R,c-,solo,men,multiethnic,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 1/7/22,"Friday, Morris",PMD,Audacy/Entercom,WPAW-FM,3:29:00 PM,"BRICE, LEE",Rumor,2017,G,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
@@ -876,7 +876,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/28/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,8:20:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Greensboro,false,X,X,X,X,X,X
 1/28/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,8:27:00 AM,"COMBS, LUKE",Forever After All,2020,R,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,8:31:00 AM,"BROWN, KANE/ALAINA, LAUREN",What Ifs,2016,G,c-,collab,male-female,multiethnic,Greensboro,false,X,X,X,X,X,X
-1/28/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,8:34:00 AM,LITTLE BIG TOWN,Girl Crush,2014,G,c-,group,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,X,X,X,X
+1/28/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,8:34:00 AM,LITTLE BIG TOWN,Girl Crush,2014,G,c-,group,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,X,X
 1/28/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,8:39:00 AM,"JANSON, CHRIS",Good Vibes,2019,G,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,8:47:00 AM,"HAYES, WALKER",Fancy Like,2021,R,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,8:50:00 AM,"CURRINGTON, BILLY",Must Be Doin' Somethin' Right,2005,G,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -918,7 +918,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,11:21:00 AM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,11:23:00 AM,"WALLEN, MORGAN",More Than My Hometown,2020,R,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,11:27:00 AM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,Greensboro,false,X,X,X,X,B2Bwhite,X
-1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,11:30:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,11:30:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,11:33:00 AM,"BALLERINI, KELSEA",Love Me Like You Mean It,2014,G,c-,solo,women,white,Greensboro,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
 1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,11:36:00 AM,"JANSON, CHRIS",Buy Me A Boat,2015,G,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,11:39:00 AM,"ANDRESS, INGRID/HUNT, SAM",Wishful Drinking,2021,R,c-,collab,male-female,white,Greensboro,false,X,X,X,X,B2Bwhite,X
@@ -963,7 +963,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:18:00 PM,"BRICE, LEE",Rumor,2017,G,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:22:00 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:25:00 PM,"HARDY/ALAINA, LAUREN/DAWSON, DEVON",One Beer,2019,G,c-,collab,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,B2BwhiteMixed
-1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:28:00 PM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:28:00 PM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:31:00 PM,"SWINDELL, COLE",Single Saturday Night,2020,R,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:34:00 PM,"CHURCH, ERIC",Springsteen,2011,G,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:39:00 PM,"YOUNG, BRETT",Lady,2020,R,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -2052,7 +2052,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 3/18/22,"Friday, Underwood",MID,Audacy/Entercom,WPAW-FM,12:28:00 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Greensboro,false,X,X,X,X,X,X
 3/18/22,"Friday, Underwood",MID,Audacy/Entercom,WPAW-FM,12:31:00 PM,"LYNCH, DUSTIN",Ridin' Roads,2019,G,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 3/18/22,"Friday, Underwood",MID,Audacy/Entercom,WPAW-FM,12:35:00 PM,LITTLE BIG TOWN,Day Drinking,2014,G,c-,group,male-female,white,Greensboro,false,X,X,X,X,B2Bwhite,X
-3/18/22,"Friday, Underwood",MID,Audacy/Entercom,WPAW-FM,12:38:00 PM,"HURD, RYAN/MORRIS, MAREN",Chasing After You,2021,R,c-,collab,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+3/18/22,"Friday, Underwood",MID,Audacy/Entercom,WPAW-FM,12:38:00 PM,"HURD, RYAN/MORRIS, MAREN",Chasing After You,2021,R,c-,collab,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 3/18/22,"Friday, Underwood",MID,Audacy/Entercom,WPAW-FM,12:48:00 PM,"BRICE, LEE",Rumor,2017,G,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 3/18/22,"Friday, Underwood",MID,Audacy/Entercom,WPAW-FM,12:51:00 PM,"JANSON, CHRIS",Fix A Drink,2017,G,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/18/22,"Friday, Underwood",MID,Audacy/Entercom,WPAW-FM,12:54:00 PM,"SCOTT, DYLAN",Nobody,2019,R,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -2858,7 +2858,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 4/8/22,"Friday, Ballerini",PMD,Audacy/Entercom,WPAW-FM,4:54:00 PM,"DICKERSON, RUSSELL",Every Little Thing,2016,G,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 4/8/22,"Friday, Ballerini",PMD,Audacy/Entercom,WPAW-FM,4:58:00 PM,"MORRIS, MAREN",Circles Around This Town,2022,R,c-,solo,women,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 4/8/22,"Friday, Ballerini",PMD,Audacy/Entercom,WPAW-FM,5:01:00 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Greensboro,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
-4/8/22,"Friday, Ballerini",PMD,Audacy/Entercom,WPAW-FM,5:04:00 PM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+4/8/22,"Friday, Ballerini",PMD,Audacy/Entercom,WPAW-FM,5:04:00 PM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 4/8/22,"Friday, Ballerini",PMD,Audacy/Entercom,WPAW-FM,5:07:00 PM,"COMBS, LUKE",Better Together,2019,R,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 4/8/22,"Friday, Ballerini",PMD,Audacy/Entercom,WPAW-FM,5:10:00 PM,"MCCREERY, SCOTTY",Damn Strait,2021,R,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/8/22,"Friday, Ballerini",PMD,Audacy/Entercom,WPAW-FM,5:14:00 PM,"ALLEN, JIMMIE/PAISLEY, BRAD",Freedom Was A Highway,2020,R,c-,collab,men,multiethnic,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
@@ -3280,7 +3280,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 4/29/22,"Friday, regular",EVE,Audacy/Entercom,WPAW-FM,8:00:00 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 4/29/22,"Friday, regular",EVE,Audacy/Entercom,WPAW-FM,8:02:00 PM,"DAVIS, JORDAN/BRYAN, LUKE",Buy Dirt,2021,R,c-,collab,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 4/29/22,"Friday, regular",EVE,Audacy/Entercom,WPAW-FM,8:05:00 PM,LITTLE BIG TOWN,Better Man,2016,G,c-,group,male-female,white,Greensboro,false,X,X,X,X,B2Bwhite,X
-4/29/22,"Friday, regular",EVE,Audacy/Entercom,WPAW-FM,8:10:00 PM,"HURD, RYAN/MORRIS, MAREN",Chasing After You,2021,R,c-,collab,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+4/29/22,"Friday, regular",EVE,Audacy/Entercom,WPAW-FM,8:10:00 PM,"HURD, RYAN/MORRIS, MAREN",Chasing After You,2021,R,c-,collab,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 4/29/22,"Friday, regular",EVE,Audacy/Entercom,WPAW-FM,8:14:00 PM,"JANSON, CHRIS",Buy Me A Boat,2015,G,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 4/29/22,"Friday, regular",EVE,Audacy/Entercom,WPAW-FM,8:17:00 PM,"WHITTERS, HAILEY",Everything She Ain't,2022,C,c-,solo,women,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 4/29/22,"Friday, regular",EVE,Audacy/Entercom,WPAW-FM,8:19:00 PM,"PARMALEE/BROWN, BLANCO",Just The Way,2019,R,c-,collab,men,multiethnic,Greensboro,false,X,X,X,X,X,X
@@ -4547,7 +4547,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/24/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,6:55:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 6/24/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,7:02:00 AM,"DICKERSON, RUSSELL",Every Little Thing,2016,G,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 6/24/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,7:05:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Greensboro,false,X,X,X,X,B2Bwhite,X
-6/24/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,7:10:00 AM,LITTLE BIG TOWN,Tornado,2012,G,c-,group,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/24/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,7:10:00 AM,LITTLE BIG TOWN,Tornado,2012,G,c-,group,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/24/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,7:19:00 AM,"MOON, NIKO",Good Time,2019,R,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 6/24/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,7:23:00 AM,"MCCREERY, SCOTTY",Damn Strait,2021,R,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/24/22,"Friday, regular",AMD,Audacy/Entercom,WPAW-FM,7:32:00 AM,"STELL, MATT",Prayed For You,2018,G,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -5456,7 +5456,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 8/26/22,"Friday, regular",PMD,Audacy/Entercom,WPAW-FM,4:51:00 PM,"STAPLETON, CHRIS",You Should Probably Leave,2020,R,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 8/26/22,"Friday, regular",PMD,Audacy/Entercom,WPAW-FM,4:54:00 PM,"CHESNEY, KENNY/OLD DOMINION",Beer With My…,2022,C,c-,collab,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 8/26/22,"Friday, regular",PMD,Audacy/Entercom,WPAW-FM,4:57:00 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Greensboro,false,X,X,X,X,B2Bwhite,X
-8/26/22,"Friday, regular",PMD,Audacy/Entercom,WPAW-FM,5:00:00 PM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+8/26/22,"Friday, regular",PMD,Audacy/Entercom,WPAW-FM,5:00:00 PM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,Greensboro,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 8/26/22,"Friday, regular",PMD,Audacy/Entercom,WPAW-FM,5:03:00 PM,"WALLEN, MORGAN",Wasted On You,2021,R,c-,solo,men,white,Greensboro,false,X,X,X,X,B2Bwhite,X
 8/26/22,"Friday, regular",PMD,Audacy/Entercom,WPAW-FM,5:06:00 PM,"DEAN, JACKSON",Don't Come Lookin',2021,R,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 8/26/22,"Friday, regular",PMD,Audacy/Entercom,WPAW-FM,5:09:00 PM,"HUNT, SAM",Hard To Forget,2020,G,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -6184,7 +6184,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 10/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:27:00 PM,"COOPER, KOLBY",Excuses,2021,C,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 10/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:30:00 PM,"RICE, CHASE",Eyes On You,2017,G,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 10/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:33:00 PM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,Greensboro,false,X,X,X,X,B2Bwhite,X
-10/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:37:00 PM,"BROWN, KANE/BROWN, KATELYN",Thank God,2022,C,c-,collab,male-female,multiethnic,Greensboro,false,B2Bmixed,B2BCombWomen,X,X,X,X
+10/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:37:00 PM,"BROWN, KANE/BROWN, KATELYN",Thank God,2022,C,c-,collab,male-female,multiethnic,Greensboro,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,X,X
 10/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:43:00 PM,"BRICE, LEE",One Of Them Girls,2020,G,c-,solo,men,white,Greensboro,false,X,X,X,X,X,X
 10/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:46:00 PM,JELLY ROLL,Son Of A Sinner,2021,C,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 10/28/22,"Friday, regular",MID,Audacy/Entercom,WPAW-FM,2:49:00 PM,"HUNT, SAM",Hard To Forget,2020,G,c-,solo,men,white,Greensboro,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen

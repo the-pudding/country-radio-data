@@ -76,7 +76,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/7/22,"Friday, Morris",OVN,Hubbard,WUBE-FM,4:48:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Cincinnati,false,X,X,X,X,B2Bwhite,X
 1/7/22,"Friday, Morris",OVN,Hubbard,WUBE-FM,4:52:00 AM,"OWEN, JAKE",Best Thing Since Backroads,2021,R,c-,solo,men,white,Cincinnati,false,X,X,X,X,B2Bwhite,X
 1/7/22,"Friday, Morris",OVN,Hubbard,WUBE-FM,4:55:00 AM,"BAND PERRY, THE",If I Die Young,2010,G,c-,trio,male-female,white,Cincinnati,false,X,X,X,X,B2Bwhite,X
-1/7/22,"Friday, Morris",OVN,Hubbard,WUBE-FM,5:02:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Cincinnati,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/7/22,"Friday, Morris",OVN,Hubbard,WUBE-FM,5:02:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Cincinnati,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/7/22,"Friday, Morris",OVN,Hubbard,WUBE-FM,5:05:00 AM,DAN + SHAY,Tequila,2018,G,c-,duo,men,multiethnic,Cincinnati,false,X,X,X,X,X,X
 1/7/22,"Friday, Morris",OVN,Hubbard,WUBE-FM,5:08:00 AM,"LAMBERT, MIRANDA",If I Was A Cowboy,2021,R,c-,solo,women,white,Cincinnati,false,X,X,X,X,X,X
 1/7/22,"Friday, Morris",OVN,Hubbard,WUBE-FM,5:18:00 AM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white,Cincinnati,false,X,X,X,X,B2Bwhite,X
@@ -1409,7 +1409,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 2/25/22,"Friday, regular",OVN,Hubbard,WUBE-FM,5:23:00 AM,"ERNEST/WALLEN, MORGAN",Flower Shops,2022,R,c-,collab,men,white,Cincinnati,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 2/25/22,"Friday, regular",OVN,Hubbard,WUBE-FM,5:35:00 AM,"SHELTON, BLAKE",Come Back As A Country Boy,2021,R,c-,solo,men,white,Cincinnati,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 2/25/22,"Friday, regular",OVN,Hubbard,WUBE-FM,5:43:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Cincinnati,false,X,X,X,X,B2Bwhite,X
-2/25/22,"Friday, regular",OVN,Hubbard,WUBE-FM,5:46:00 AM,LADY ANTEBELLUM,Bartender,2014,G,c-,trio,male-female,white,Cincinnati,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+2/25/22,"Friday, regular",OVN,Hubbard,WUBE-FM,5:46:00 AM,LADY ANTEBELLUM,Bartender,2014,G,c-,trio,male-female,white,Cincinnati,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 2/25/22,"Friday, regular",OVN,Hubbard,WUBE-FM,5:51:00 AM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white,Cincinnati,false,X,X,X,X,B2Bwhite,X
 2/25/22,"Friday, regular",AMD,Hubbard,WUBE-FM,6:03:00 AM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white,Cincinnati,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 2/25/22,"Friday, regular",AMD,Hubbard,WUBE-FM,6:07:00 AM,"HUNT, SAM",23,2021,R,c-,solo,men,white,Cincinnati,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen

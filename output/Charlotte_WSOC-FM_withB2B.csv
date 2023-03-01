@@ -364,7 +364,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/24/22,"Monday, Block",OVN,Beasley,WSOC-FM,12:48 AM,"ELLIS, HANNAH",Us,2021,C,c-,solo,women,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",OVN,Beasley,WSOC-FM,12:51 AM,RASCAL FLATTS,These Days,2002,G,c-,trio,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",OVN,Beasley,WSOC-FM,12:54 AM,LADY ANTEBELLUM,Like A Lady,2021,R,c-,trio,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-1/24/22,"Monday, Block",OVN,Beasley,WSOC-FM,12:57 AM,"HURD, RYAN/MORRIS, MAREN",Chasing After You,2021,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/24/22,"Monday, Block",OVN,Beasley,WSOC-FM,12:57 AM,"HURD, RYAN/MORRIS, MAREN",Chasing After You,2021,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/24/22,"Monday, Block",OVN,Beasley,WSOC-FM,1:01 AM,"RAY, FRANK",Country'd Look Good On You,2021,R,c-,solo,men,hispanic,Charlotte,false,X,X,X,X,X,X
 1/24/22,"Monday, Block",OVN,Beasley,WSOC-FM,1:04 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,X,X,X,X,X,X
 1/24/22,"Monday, Block",OVN,Beasley,WSOC-FM,1:07 AM,"CHURCH, ERIC",Heart On Fire,2021,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
@@ -593,7 +593,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/24/22,"Monday, Block",PMD,Beasley,WSOC-FM,4:38 PM,LADY ANTEBELLUM,Like A Lady,2021,R,c-,trio,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",PMD,Beasley,WSOC-FM,4:41 PM,"CHESNEY, KENNY",Knowing You,2020,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",PMD,Beasley,WSOC-FM,4:46 PM,SUGARLAND,Baby Girl,2004,G,c-,duo,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-1/24/22,"Monday, Block",PMD,Beasley,WSOC-FM,4:50 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/24/22,"Monday, Block",PMD,Beasley,WSOC-FM,4:50 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/24/22,"Monday, Block",PMD,Beasley,WSOC-FM,4:53 PM,"CURRINGTON, BILLY",Do I Make You Wanna,2015,G,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",PMD,Beasley,WSOC-FM,4:57 PM,"YOUNG, BRETT",Lady,2020,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/24/22,"Monday, Block",PMD,Beasley,WSOC-FM,5:11 PM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -628,7 +628,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/24/22,"Monday, Block",EVE,Beasley,WSOC-FM,7:27 PM,"RODGERS, JAMESON/COMBS, LUKE",Cold Beer Calling…,2020,R,c-,collab,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/24/22,"Monday, Block",EVE,Beasley,WSOC-FM,7:30 PM,"BROWN, KANE",One Mississippi,2021,R,c-,solo,men,multiethnic,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 1/24/22,"Monday, Block",EVE,Beasley,WSOC-FM,7:41 PM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,Charlotte,false,X,X,X,X,X,X
-1/24/22,"Monday, Block",EVE,Beasley,WSOC-FM,7:44 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/24/22,"Monday, Block",EVE,Beasley,WSOC-FM,7:44 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/24/22,"Monday, Block",EVE,Beasley,WSOC-FM,7:48 PM,"DAVIS, JORDAN",Singles You Up,2017,G,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",EVE,Beasley,WSOC-FM,7:51 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",EVE,Beasley,WSOC-FM,7:55 PM,"BRYAN, LUKE",Waves,2021,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
@@ -755,7 +755,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:00 AM,"CLARK, CALLISTA",It's 'Cause I Am,2021,R,c-,solo,women,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:02 AM,"ARTS, TENILLE","Back Then, Right Now",2021,R,c-,solo,women,white,Charlotte,false,B2Bwomen,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,B2BwhiteWomen
 1/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:05 AM,LADY ANTEBELLUM,Like A Lady,2021,R,c-,trio,male-female,white,Charlotte,false,X,B2BCombWomen,X,X,B2Bwhite,X
-1/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:08 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:08 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:11 AM,"COMBS, LUKE",Forever After All,2020,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:15 AM,"LANE, CHRIS",Fill Them Boots,2021,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:17 AM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -851,7 +851,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/28/22,"Friday, regular",MID,Beasley,WSOC-FM,10:41 AM,"BALLERINI, KELSEA/CHESNEY, KENNY",Half Of My Hometown,2020,R,c-,collab,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",MID,Beasley,WSOC-FM,10:45 AM,"BRYAN, LUKE",Waves,2021,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",MID,Beasley,WSOC-FM,10:48 AM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-1/28/22,"Friday, regular",MID,Beasley,WSOC-FM,10:59 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/28/22,"Friday, regular",MID,Beasley,WSOC-FM,10:59 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/28/22,"Friday, regular",MID,Beasley,WSOC-FM,11:02 AM,"LYNCH, DUSTIN",Momma's House,2019,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",MID,Beasley,WSOC-FM,11:06 AM,"RHETT, THOMAS",What's Your Country Song,2020,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",MID,Beasley,WSOC-FM,11:09 AM,"RAY, MICHAEL",Whiskey And Rain,2020,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -945,7 +945,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/28/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:27 PM,"RUCKER, DARIUS",Beers And Sunshine,2020,R,c-,solo,men,black,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 1/28/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:30 PM,"CHESNEY, KENNY",Knowing You,2020,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 1/28/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:34 PM,SUGARLAND,Baby Girl,2004,G,c-,duo,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-1/28/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:38 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/28/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:38 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/28/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:41 PM,"MCCREERY, SCOTTY",You Time,2020,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:44 PM,"WALLEN, MORGAN",More Than My Hometown,2020,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:57 PM,"COMBS, LUKE",Cold As You,2020,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -1703,7 +1703,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 2/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,0.956944444,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 2/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,0.959722222,"URBAN, KEITH",Wild Hearts,2021,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 2/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,0.961805556,LITTLE BIG TOWN,Girl Crush,2014,G,c-,group,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-2/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,0.964583333,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+2/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,0.964583333,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 2/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,0.966666667,"HUNT, SAM",23,2021,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 2/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,0.972222222,"STAPLETON, CHRIS",You Should Probably Leave,2020,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 2/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,0.975,"BROWN, KANE",Whiskey Sour,2022,C,c-,solo,men,multiethnic,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
@@ -2191,7 +2191,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 3/25/22,"Friday, regular",AMD,Beasley,WSOC-FM,8:47 AM,"ATKINS, RODNEY",These Are My People,2006,G,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/25/22,"Friday, regular",AMD,Beasley,WSOC-FM,9:00 AM,"RODGERS, JAMESON/COMBS, LUKE",Cold Beer Calling…,2020,R,c-,collab,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 3/25/22,"Friday, regular",AMD,Beasley,WSOC-FM,9:03 AM,LADY ANTEBELLUM,Like A Lady,2021,R,c-,trio,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-3/25/22,"Friday, regular",AMD,Beasley,WSOC-FM,9:06 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+3/25/22,"Friday, regular",AMD,Beasley,WSOC-FM,9:06 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 3/25/22,"Friday, regular",AMD,Beasley,WSOC-FM,9:09 AM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 3/25/22,"Friday, regular",AMD,Beasley,WSOC-FM,9:13 AM,"MORRIS, MAREN",Rich,2016,G,c-,solo,women,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 3/25/22,"Friday, regular",AMD,Beasley,WSOC-FM,9:16 AM,"SCOTT, DYLAN",Nobody,2019,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
@@ -2957,7 +2957,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 4/29/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:25 PM,PARMALEE,Take My Name,2021,R,c-,group,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 4/29/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:27 PM,"BENTLEY, DIERKS",Gone,2020,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/29/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:31 PM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-4/29/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:34 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+4/29/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:34 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 4/29/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:36 PM,"DEAN, JACKSON",Don't Come Lookin',2021,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 4/29/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:39 PM,"SWINDELL, COLE",Single Saturday Night,2020,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 4/29/22,"Friday, regular",PMD,Beasley,WSOC-FM,5:42 PM,"SHELTON, BLAKE",Come Back As A Country Boy,2021,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -3067,8 +3067,8 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 5/20/22,"Friday, Wilson",OVN,Beasley,WSOC-FM,1:39 AM,"PARDI, JON",Last Night Lonely,2022,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 5/20/22,"Friday, Wilson",OVN,Beasley,WSOC-FM,1:45 AM,PARMALEE,Take My Name,2021,R,c-,group,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/20/22,"Friday, Wilson",OVN,Beasley,WSOC-FM,1:48 AM,"SHELTON, BLAKE/STEFANI, GWEN",Happy Anywhere,2020,R,c-,collab,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-5/20/22,"Friday, Wilson",OVN,Beasley,WSOC-FM,1:50 AM,THOMPSON SQUARE,Country In My Soul,2022,C,c-,duo,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
-5/20/22,"Friday, Wilson",OVN,Beasley,WSOC-FM,1:53 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+5/20/22,"Friday, Wilson",OVN,Beasley,WSOC-FM,1:50 AM,THOMPSON SQUARE,Country In My Soul,2022,C,c-,duo,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
+5/20/22,"Friday, Wilson",OVN,Beasley,WSOC-FM,1:53 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 5/20/22,"Friday, Wilson",OVN,Beasley,WSOC-FM,1:56 AM,"COMBS, LUKE",Lovin' On You,2019,G,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 5/20/22,"Friday, Wilson",OVN,Beasley,WSOC-FM,1:59 AM,"YOUNG, CHRIS/TENPENNY, MITCHELL",At The End Of A Bar,2021,R,c-,collab,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/20/22,"Friday, Wilson",OVN,Beasley,WSOC-FM,2:03 AM,"CHESNEY, KENNY",Everyone She Knows,2020,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -4231,7 +4231,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/24/22,"Friday, regular",MID,Beasley,WSOC-FM,1:35 PM,"MORRIS, MAREN",Circles Around This Town,2022,R,c-,solo,women,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 6/24/22,"Friday, regular",MID,Beasley,WSOC-FM,1:38 PM,"SHELTON, BLAKE",Boys 'Round Here,2013,G,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 6/24/22,"Friday, regular",MID,Beasley,WSOC-FM,1:42 PM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-6/24/22,"Friday, regular",MID,Beasley,WSOC-FM,1:44 PM,SUGARLAND,Baby Girl,2004,G,c-,duo,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/24/22,"Friday, regular",MID,Beasley,WSOC-FM,1:44 PM,SUGARLAND,Baby Girl,2004,G,c-,duo,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/24/22,"Friday, regular",MID,Beasley,WSOC-FM,1:48 PM,"HUBBARD, TYLER",5 Foot 9,2022,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 6/24/22,"Friday, regular",MID,Beasley,WSOC-FM,1:58 PM,"YOUNG, CHRIS/BROWN, KANE",Famous Friends,2020,R,c-,collab,men,multiethnic,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 6/24/22,"Friday, regular",MID,Beasley,WSOC-FM,2:00 PM,PARMALEE,Take My Name,2021,R,c-,group,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
@@ -4518,7 +4518,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 7/29/22,"Friday, regular",MID,Beasley,WSOC-FM,10:14 AM,"ALLEN, JIMMIE",down home,2022,C,c-,solo,men,black,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 7/29/22,"Friday, regular",MID,Beasley,WSOC-FM,10:18 AM,"BENTLEY, DIERKS",Gone,2020,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 7/29/22,"Friday, regular",MID,Beasley,WSOC-FM,10:21 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-7/29/22,"Friday, regular",MID,Beasley,WSOC-FM,10:24 AM,SUGARLAND,Baby Girl,2004,G,c-,duo,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+7/29/22,"Friday, regular",MID,Beasley,WSOC-FM,10:24 AM,SUGARLAND,Baby Girl,2004,G,c-,duo,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 7/29/22,"Friday, regular",MID,Beasley,WSOC-FM,10:35 AM,"MCGRAW, TIM",7500 OBO,2020,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 7/29/22,"Friday, regular",MID,Beasley,WSOC-FM,10:39 AM,"CHURCH, ERIC",Heart On Fire,2021,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 7/29/22,"Friday, regular",MID,Beasley,WSOC-FM,10:43 AM,"TENPENNY, MITCHELL",Truth About You,2021,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -4806,7 +4806,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 8/26/22,"Friday, regular",AMD,Beasley,WSOC-FM,6:34 AM,"MCCREERY, SCOTTY",Damn Strait,2021,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 8/26/22,"Friday, regular",AMD,Beasley,WSOC-FM,6:38 AM,"BRICE, LEE",One Of Them Girls,2020,G,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 8/26/22,"Friday, regular",AMD,Beasley,WSOC-FM,6:41 AM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-8/26/22,"Friday, regular",AMD,Beasley,WSOC-FM,6:55 AM,"BAND PERRY, THE",Better Dig Two,2012,G,c-,trio,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+8/26/22,"Friday, regular",AMD,Beasley,WSOC-FM,6:55 AM,"BAND PERRY, THE",Better Dig Two,2012,G,c-,trio,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 8/26/22,"Friday, regular",AMD,Beasley,WSOC-FM,6:58 AM,"WALLEN, MORGAN",Sand In My Boots,2021,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 8/26/22,"Friday, regular",AMD,Beasley,WSOC-FM,7:08 AM,"ALDEAN, JASON",Trouble With A Heartbreak,2022,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 8/26/22,"Friday, regular",AMD,Beasley,WSOC-FM,7:12 AM,OLD DOMINION,One Man Band,2019,G,c-,group,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -5466,7 +5466,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 10/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:23 AM,"BENTLEY, DIERKS",Gone,2020,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 10/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:27 AM,"HAYES, WALKER",Y'all Life,2022,C,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 10/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:30 AM,"ANDRESS, INGRID/HUNT, SAM",Wishful Drinking,2021,R,c-,collab,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-10/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:33 AM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+10/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:33 AM,LADY ANTEBELLUM,Need You Now,2009,G,c-,trio,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 10/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:37 AM,"BRICE, LEE",Soul,2020,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 10/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:43 AM,"HUBBARD, TYLER",5 Foot 9,2022,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 10/28/22,"Friday, regular",OVN,Beasley,WSOC-FM,4:46 AM,"SMITH, NATE",Whiskey On You,2022,C,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -5589,7 +5589,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 10/28/22,"Friday, regular",MID,Beasley,WSOC-FM,1:11 PM,"ALDEAN, JASON",That's What Tequila Does,2021,C,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 10/28/22,"Friday, regular",MID,Beasley,WSOC-FM,1:14 PM,"STAPLETON, CHRIS",You Should Probably Leave,2020,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 10/28/22,"Friday, regular",MID,Beasley,WSOC-FM,1:17 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-10/28/22,"Friday, regular",MID,Beasley,WSOC-FM,1:20 PM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+10/28/22,"Friday, regular",MID,Beasley,WSOC-FM,1:20 PM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 10/28/22,"Friday, regular",MID,Beasley,WSOC-FM,1:23 PM,"COMBS, LUKE",The Kind Of Love We Make,2022,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 10/28/22,"Friday, regular",MID,Beasley,WSOC-FM,1:34 PM,"BARRETT, GABBY",Pick Me Up,2021,C,c-,solo,women,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 10/28/22,"Friday, regular",MID,Beasley,WSOC-FM,1:37 PM,"MURPHY, DAVID LEE/CHESNEY, KENNY",Everything's Gonna Be Alright,2017,G,c-,collab,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
@@ -5993,7 +5993,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 11/25/22,"Friday, regular",PMD,Beasley,WSOC-FM,4:09 PM,PARMALEE,Take My Name,2021,R,c-,group,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 11/25/22,"Friday, regular",PMD,Beasley,WSOC-FM,4:12 PM,"STAPLETON, CHRIS",You Should Probably Leave,2020,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 11/25/22,"Friday, regular",PMD,Beasley,WSOC-FM,4:15 PM,LITTLE BIG TOWN,Boondocks,2005,G,c-,group,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-11/25/22,"Friday, regular",PMD,Beasley,WSOC-FM,4:19 PM,"BROWN, KANE/BROWN, KATELYN",Thank God,2022,C,c-,collab,male-female,multiethnic,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,X,X
+11/25/22,"Friday, regular",PMD,Beasley,WSOC-FM,4:19 PM,"BROWN, KANE/BROWN, KATELYN",Thank God,2022,C,c-,collab,male-female,multiethnic,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,X,X
 11/25/22,"Friday, regular",PMD,Beasley,WSOC-FM,4:22 PM,"YOUNG, CHRIS",I'm Comin' Over,2015,G,c-,solo,men,white,Charlotte,false,X,X,X,X,X,X
 11/25/22,"Friday, regular",PMD,Beasley,WSOC-FM,4:32 PM,"ANDRESS, INGRID/HUNT, SAM",Wishful Drinking,2021,R,c-,collab,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 11/25/22,"Friday, regular",PMD,Beasley,WSOC-FM,4:36 PM,"ALLAN, GARY",Every Storm (Runs Out Of Rain),2012,G,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
@@ -6039,7 +6039,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 11/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,7:26 PM,"ALDEAN, JASON",Trouble With A Heartbreak,2022,R,c-,solo,men,white,Charlotte,false,X,X,X,X,X,X
 11/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,7:29 PM,"SWINDELL, COLE",She Had Me At Heads Carolina,2022,R,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 11/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,7:40 PM,"BAND PERRY, THE",If I Die Young,2010,G,c-,trio,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-11/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,7:44 PM,"ANDRESS, INGRID/HUNT, SAM",Wishful Drinking,2021,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+11/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,7:44 PM,"ANDRESS, INGRID/HUNT, SAM",Wishful Drinking,2021,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 11/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,7:47 PM,"RAY, MICHAEL",Whiskey And Rain,2020,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 11/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,7:51 PM,"DICKERSON, RUSSELL/SCOTT, JAKE",She Likes It,2021,R,c-,collab,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 11/25/22,"Friday, regular",EVE,Beasley,WSOC-FM,7:54 PM,PARMALEE,Take My Name,2021,R,c-,group,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen

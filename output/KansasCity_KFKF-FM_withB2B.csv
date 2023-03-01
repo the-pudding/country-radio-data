@@ -741,7 +741,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,4:35:00 AM,RICOCHET,Daddy's Money,1996,G,c-,group,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,4:38:00 AM,"SCOTT, DYLAN",New Truck,2021,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,4:44:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-1/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,4:47:00 AM,LADY ANTEBELLUM,Just A Kiss,2011,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,4:47:00 AM,LADY ANTEBELLUM,Just A Kiss,2011,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,4:50:00 AM,MIDLAND,Drinkin' Problem,2016,G,c-,trio,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,4:54:00 AM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,4:57:00 AM,"SHELTON, BLAKE",Mine Would Be You,2013,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -863,7 +863,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/28/22,"Friday, regular",MID,Steel City,KFKF-FM,2:34:00 PM,"RAY, MICHAEL",Whiskey And Rain,2020,R,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",MID,Steel City,KFKF-FM,2:37:00 PM,"PAISLEY, BRAD",He Didn't Have To Be,2000,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",MID,Steel City,KFKF-FM,2:41:00 PM,"BROWN, KANE/ALAINA, LAUREN",What Ifs,2016,G,c-,collab,male-female,multiethnic,KansasCity,false,X,X,X,X,X,X
-1/28/22,"Friday, regular",MID,Steel City,KFKF-FM,2:52:00 PM,"BAND PERRY, THE",Better Dig Two,2012,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,X,X
+1/28/22,"Friday, regular",MID,Steel City,KFKF-FM,2:52:00 PM,"BAND PERRY, THE",Better Dig Two,2012,G,c-,trio,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,X,X
 1/28/22,"Friday, regular",MID,Steel City,KFKF-FM,2:55:00 PM,HARDY,Give Heaven Some Hell,2020,R,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 1/28/22,"Friday, regular",MID,Steel City,KFKF-FM,2:58:00 PM,"YOUNG, CHRIS",Who I Am With You,2013,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/28/22,"Friday, regular",PMD,Steel City,KFKF-FM,3:02:00 PM,"BRYAN, LUKE",Drunk On You,2011,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -5227,7 +5227,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 10/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,3:53:00 AM,"PASLAY, ERIC",Friday Night,2013,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 10/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,3:56:00 AM,"MCCREERY, SCOTTY",Feelin' It,2013,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 10/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,3:59:00 AM,LADY ANTEBELLUM,Our Kind Of Love,2010,G,c-,trio,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-10/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,4:03:00 AM,"ALDEAN, JASON/LAMBERT, MIRANDA",Drowns The Whiskey,2018,G,c-,collab,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+10/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,4:03:00 AM,"ALDEAN, JASON/LAMBERT, MIRANDA",Drowns The Whiskey,2018,G,c-,collab,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 10/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,4:06:00 AM,"TURNER, JOSH",Long Black Train,2002,G,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 10/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,4:10:00 AM,"JACKSON, ALAN",Wanted,1990,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 10/28/22,"Friday, regular",OVN,Steel City,KFKF-FM,4:13:00 AM,"KEITH, TOBY",Oklahoma Breakdown,2021,C,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -5774,7 +5774,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 11/25/22,"Friday, regular",EVE,Steel City,KFKF-FM,7:52:00 PM,"ALDEAN, JASON",Trouble With A Heartbreak,2022,R,c-,solo,men,white,KansasCity,false,X,X,X,X,B2Bwhite,X
 11/25/22,"Friday, regular",EVE,Steel City,KFKF-FM,7:55:00 PM,"MURPHY, DAVID LEE",Dust On The Bottle,1995,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 11/25/22,"Friday, regular",EVE,Steel City,KFKF-FM,7:59:00 PM,SUGARLAND,Baby Girl,2004,G,c-,duo,male-female,white,KansasCity,false,X,X,X,X,B2Bwhite,X
-11/25/22,"Friday, regular",EVE,Steel City,KFKF-FM,8:03:00 PM,"HARDY/WILSON, LAINEY",wait in the truck,2022,C,c-,collab,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+11/25/22,"Friday, regular",EVE,Steel City,KFKF-FM,8:03:00 PM,"HARDY/WILSON, LAINEY",wait in the truck,2022,C,c-,collab,male-female,white,KansasCity,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 11/25/22,"Friday, regular",EVE,Steel City,KFKF-FM,8:08:00 PM,"RUCKER, DARIUS",Beers And Sunshine,2020,R,c-,solo,men,black,KansasCity,false,X,X,X,X,X,X
 11/25/22,"Friday, regular",EVE,Steel City,KFKF-FM,8:10:00 PM,"SHELTON, BLAKE",Ol' Red,2001,G,c-,solo,men,white,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 11/25/22,"Friday, regular",EVE,Steel City,KFKF-FM,8:14:00 PM,"BROWN, KANE",One Mississippi,2021,R,c-,solo,men,multiethnic,KansasCity,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X

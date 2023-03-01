@@ -495,7 +495,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/24/22,"Monday, Block",MID,Beasley,WQYK-FM,10:33:00 AM,"SHANE, ELVIE",My Boy,2020,R,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/24/22,"Monday, Block",MID,Beasley,WQYK-FM,10:36:00 AM,"DAVIS, JORDAN/BRYAN, LUKE",Buy Dirt,2021,R,c-,collab,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/24/22,"Monday, Block",MID,Beasley,WQYK-FM,10:44:00 AM,LADY ANTEBELLUM,Just A Kiss,2011,G,c-,trio,male-female,white,Tampa,false,X,X,X,X,B2Bwhite,X
-1/24/22,"Monday, Block",MID,Beasley,WQYK-FM,10:48:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/24/22,"Monday, Block",MID,Beasley,WQYK-FM,10:48:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/24/22,"Monday, Block",MID,Beasley,WQYK-FM,10:51:00 AM,"BROWN, KANE",One Mississippi,2021,R,c-,solo,men,multiethnic,Tampa,false,X,X,X,X,X,X
 1/24/22,"Monday, Block",MID,Beasley,WQYK-FM,10:54:00 AM,"ATKINS, RODNEY",These Are My People,2006,G,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 1/24/22,"Monday, Block",MID,Beasley,WQYK-FM,10:57:00 AM,"WALLEN, MORGAN",Chasin' You,2018,G,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -634,7 +634,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/24/22,"Monday, Block",EVE,Beasley,WQYK-FM,7:29:00 PM,"RODGERS, JAMESON/COMBS, LUKE",Cold Beer Calling…,2020,R,c-,collab,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/24/22,"Monday, Block",EVE,Beasley,WQYK-FM,7:32:00 PM,"BROWN, KANE",One Mississippi,2021,R,c-,solo,men,multiethnic,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 1/24/22,"Monday, Block",EVE,Beasley,WQYK-FM,7:35:00 PM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,Tampa,false,X,X,X,X,X,X
-1/24/22,"Monday, Block",EVE,Beasley,WQYK-FM,7:39:00 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/24/22,"Monday, Block",EVE,Beasley,WQYK-FM,7:39:00 PM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/24/22,"Monday, Block",EVE,Beasley,WQYK-FM,7:42:00 PM,"DAVIS, JORDAN",Singles You Up,2017,G,c-,solo,men,white,Tampa,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",EVE,Beasley,WQYK-FM,7:52:00 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Tampa,false,X,X,X,X,B2Bwhite,X
 1/24/22,"Monday, Block",EVE,Beasley,WQYK-FM,7:56:00 PM,"BRYAN, LUKE",Waves,2021,R,c-,solo,men,white,Tampa,false,X,X,X,X,B2Bwhite,X
@@ -3175,7 +3175,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 5/20/22,"Friday, Wilson",AMD,Beasley,WQYK-FM,9:20:00 AM,"BRYAN, LUKE",Games,2015,G,c-,solo,men,white,Tampa,false,X,X,X,X,B2Bwhite,X
 5/20/22,"Friday, Wilson",AMD,Beasley,WQYK-FM,9:23:00 AM,"HUBBARD, TYLER",5 Foot 9,2022,R,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/20/22,"Friday, Wilson",AMD,Beasley,WQYK-FM,9:26:00 AM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,Tampa,false,X,X,X,X,B2Bwhite,X
-5/20/22,"Friday, Wilson",AMD,Beasley,WQYK-FM,9:29:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+5/20/22,"Friday, Wilson",AMD,Beasley,WQYK-FM,9:29:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 5/20/22,"Friday, Wilson",AMD,Beasley,WQYK-FM,9:32:00 AM,JELLY ROLL,Son Of A Sinner,2021,C,c-,solo,men,white,Tampa,false,X,X,X,X,B2Bwhite,X
 5/20/22,"Friday, Wilson",AMD,Beasley,WQYK-FM,9:36:00 AM,"HUNT, SAM",23,2021,R,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 5/20/22,"Friday, Wilson",AMD,Beasley,WQYK-FM,9:49:00 AM,ZAC BROWN BAND,Whatever It Is,2008,G,c-,group,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -3787,7 +3787,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/13/22,"Monday, Pearce",OVN,Beasley,WQYK-FM,3:53:00 AM,"BROWN, KANE",Like I Love Country Music,2022,R,c-,solo,men,multiethnic,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 6/13/22,"Monday, Pearce",OVN,Beasley,WQYK-FM,3:55:00 AM,"CARMICHAEL, DILLON",Son Of A,2021,C,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 6/13/22,"Monday, Pearce",OVN,Beasley,WQYK-FM,3:58:00 AM,THOMPSON SQUARE,Country In My Soul,2022,C,c-,duo,male-female,white,Tampa,false,X,X,X,X,B2Bwhite,X
-6/13/22,"Monday, Pearce",OVN,Beasley,WQYK-FM,4:02:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/13/22,"Monday, Pearce",OVN,Beasley,WQYK-FM,4:02:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/13/22,"Monday, Pearce",OVN,Beasley,WQYK-FM,4:04:00 AM,"MCGRAW, TIM",7500 OBO,2020,R,c-,solo,men,white,Tampa,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",OVN,Beasley,WQYK-FM,4:08:00 AM,"UNDERWOOD, CARRIE",Ghost Story,2022,R,c-,solo,women,white,Tampa,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",OVN,Beasley,WQYK-FM,4:12:00 AM,"RAY, MICHAEL",Holy Water,2021,C,c-,solo,men,white,Tampa,false,X,X,X,X,B2Bwhite,X
@@ -3834,7 +3834,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/13/22,"Monday, Pearce",AMD,Beasley,WQYK-FM,7:41:00 AM,RASCAL FLATTS,Mayberry,2002,G,c-,trio,men,white,Tampa,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",AMD,Beasley,WQYK-FM,7:45:00 AM,"BROWN, KANE",Like I Love Country Music,2022,R,c-,solo,men,multiethnic,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 6/13/22,"Monday, Pearce",AMD,Beasley,WQYK-FM,7:48:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Tampa,false,X,X,X,X,X,X
-6/13/22,"Monday, Pearce",AMD,Beasley,WQYK-FM,7:51:00 AM,LADY ANTEBELLUM,Bartender,2014,G,c-,trio,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/13/22,"Monday, Pearce",AMD,Beasley,WQYK-FM,7:51:00 AM,LADY ANTEBELLUM,Bartender,2014,G,c-,trio,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/13/22,"Monday, Pearce",AMD,Beasley,WQYK-FM,7:57:00 AM,"WALLEN, MORGAN",Wasted On You,2021,R,c-,solo,men,white,Tampa,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",AMD,Beasley,WQYK-FM,8:00:00 AM,"MCCOLLUM, PARKER",To Be Loved By You,2020,R,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/13/22,"Monday, Pearce",AMD,Beasley,WQYK-FM,8:03:00 AM,"CHURCH, ERIC",Doing Life With Me,2022,C,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -4487,7 +4487,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 7/29/22,"Friday, regular",OVN,Beasley,WQYK-FM,4:30:00 AM,"UNDERWOOD, CARRIE",Ghost Story,2022,R,c-,solo,women,white,Tampa,false,X,X,X,X,B2Bwhite,X
 7/29/22,"Friday, regular",OVN,Beasley,WQYK-FM,4:33:00 AM,"LYNCH, DUSTIN",Party Mode,2022,R,c-,solo,men,white,Tampa,false,X,X,X,X,B2Bwhite,X
 7/29/22,"Friday, regular",OVN,Beasley,WQYK-FM,4:36:00 AM,"SWINDELL, COLE/WILSON, LAINEY",Never Say Never,2021,R,c-,collab,male-female,white,Tampa,false,X,X,X,X,B2Bwhite,X
-7/29/22,"Friday, regular",OVN,Beasley,WQYK-FM,4:39:00 AM,THOMPSON SQUARE,Country In My Soul,2022,C,c-,duo,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+7/29/22,"Friday, regular",OVN,Beasley,WQYK-FM,4:39:00 AM,THOMPSON SQUARE,Country In My Soul,2022,C,c-,duo,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 7/29/22,"Friday, regular",OVN,Beasley,WQYK-FM,4:42:00 AM,"MCGRAW, TIM",7500 OBO,2020,R,c-,solo,men,white,Tampa,false,X,X,X,X,B2Bwhite,X
 7/29/22,"Friday, regular",OVN,Beasley,WQYK-FM,4:48:00 AM,"WALLEN, MORGAN",You Proof,2022,R,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 7/29/22,"Friday, regular",OVN,Beasley,WQYK-FM,4:51:00 AM,"YOUNG, CHRIS/TENPENNY, MITCHELL",At The End Of A Bar,2021,R,c-,collab,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -4934,7 +4934,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 8/26/22,"Friday, regular",MID,Beasley,WQYK-FM,12:21:00 PM,"JOHNSON, CODY",Til You Can't,2021,R,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 8/26/22,"Friday, regular",MID,Beasley,WQYK-FM,12:25:00 PM,"BRYAN, LUKE",Country On,2022,R,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 8/26/22,"Friday, regular",MID,Beasley,WQYK-FM,12:28:00 PM,SUGARLAND,Something More,2004,G,c-,duo,male-female,white,Tampa,false,X,X,X,X,B2Bwhite,X
-8/26/22,"Friday, regular",MID,Beasley,WQYK-FM,12:32:00 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+8/26/22,"Friday, regular",MID,Beasley,WQYK-FM,12:32:00 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 8/26/22,"Friday, regular",MID,Beasley,WQYK-FM,12:35:00 PM,"PARDI, JON",Last Night Lonely,2022,R,c-,solo,men,white,Tampa,false,X,X,X,X,B2Bwhite,X
 8/26/22,"Friday, regular",MID,Beasley,WQYK-FM,12:38:00 PM,"YOUNG, CHRIS",Who I Am With You,2013,G,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 8/26/22,"Friday, regular",MID,Beasley,WQYK-FM,12:41:00 PM,"RICE, CHASE/FLORIDA GEORGIA LINE",Drinkin' Beer Talkin' God Amen,2020,R,c-,collab,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -5642,7 +5642,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 10/28/22,"Friday, regular",MID,Beasley,WQYK-FM,1:27:00 PM,"RHETT, THOMAS",It Goes Like This,2013,G,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 10/28/22,"Friday, regular",MID,Beasley,WQYK-FM,1:29:00 PM,ZAC BROWN BAND,Out In The Middle,2021,C,c-,group,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 10/28/22,"Friday, regular",MID,Beasley,WQYK-FM,1:32:00 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Tampa,false,X,X,X,X,B2Bwhite,X
-10/28/22,"Friday, regular",MID,Beasley,WQYK-FM,1:36:00 PM,LADY ANTEBELLUM,Bartender,2014,G,c-,trio,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+10/28/22,"Friday, regular",MID,Beasley,WQYK-FM,1:36:00 PM,LADY ANTEBELLUM,Bartender,2014,G,c-,trio,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 10/28/22,"Friday, regular",MID,Beasley,WQYK-FM,1:44:00 PM,"HUNT, SAM",Make You Miss Me,2014,G,c-,solo,men,white,Tampa,false,X,X,X,X,B2Bwhite,X
 10/28/22,"Friday, regular",MID,Beasley,WQYK-FM,1:48:00 PM,"MCCREERY, SCOTTY",Damn Strait,2021,R,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 10/28/22,"Friday, regular",MID,Beasley,WQYK-FM,1:52:00 PM,"COMBS, LUKE",The Kind Of Love We Make,2022,R,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -6101,7 +6101,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 11/25/22,"Friday, regular",EVE,Beasley,WQYK-FM,7:26:00 PM,"ALDEAN, JASON",Trouble With A Heartbreak,2022,R,c-,solo,men,white,Tampa,false,X,X,X,X,X,X
 11/25/22,"Friday, regular",EVE,Beasley,WQYK-FM,7:29:00 PM,"SWINDELL, COLE",She Had Me At Heads Carolina,2022,R,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 11/25/22,"Friday, regular",EVE,Beasley,WQYK-FM,7:32:00 PM,"BAND PERRY, THE",If I Die Young,2010,G,c-,trio,male-female,white,Tampa,false,X,X,X,X,B2Bwhite,X
-11/25/22,"Friday, regular",EVE,Beasley,WQYK-FM,7:36:00 PM,"ANDRESS, INGRID/HUNT, SAM",Wishful Drinking,2021,R,c-,collab,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+11/25/22,"Friday, regular",EVE,Beasley,WQYK-FM,7:36:00 PM,"ANDRESS, INGRID/HUNT, SAM",Wishful Drinking,2021,R,c-,collab,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 11/25/22,"Friday, regular",EVE,Beasley,WQYK-FM,7:39:00 PM,"RAY, MICHAEL",Whiskey And Rain,2020,R,c-,solo,men,white,Tampa,false,X,X,X,X,B2Bwhite,X
 11/25/22,"Friday, regular",EVE,Beasley,WQYK-FM,7:50:00 PM,"DICKERSON, RUSSELL/SCOTT, JAKE",She Likes It,2021,R,c-,collab,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 11/25/22,"Friday, regular",EVE,Beasley,WQYK-FM,7:52:00 PM,PARMALEE,Take My Name,2021,R,c-,group,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -6291,7 +6291,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 12/30/22,"Friday, regular",AMD,Beasley,WQYK-FM,7:47:00 AM,"TRITT, TRAVIS",It's A Great Day To Be Alive,2000,G,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 12/30/22,"Friday, regular",AMD,Beasley,WQYK-FM,7:51:00 AM,"SWINDELL, COLE",Ain't Worth The Whiskey,2014,G,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 12/30/22,"Friday, regular",AMD,Beasley,WQYK-FM,7:54:00 AM,"SHELTON, BLAKE/STEFANI, GWEN",Happy Anywhere,2020,R,c-,collab,male-female,white,Tampa,false,X,X,X,X,B2Bwhite,X
-12/30/22,"Friday, regular",AMD,Beasley,WQYK-FM,7:57:00 AM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+12/30/22,"Friday, regular",AMD,Beasley,WQYK-FM,7:57:00 AM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,Tampa,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 12/30/22,"Friday, regular",AMD,Beasley,WQYK-FM,8:00:00 AM,"URBAN, KEITH",Wild Hearts,2021,R,c-,solo,men,white,Tampa,false,X,X,X,X,B2Bwhite,X
 12/30/22,"Friday, regular",AMD,Beasley,WQYK-FM,8:03:00 AM,"ALDEAN, JASON",Burnin' It Down,2014,G,c-,solo,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 12/30/22,"Friday, regular",AMD,Beasley,WQYK-FM,8:06:00 AM,ZAC BROWN BAND,Toes,2008,G,c-,group,men,white,Tampa,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen

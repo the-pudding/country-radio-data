@@ -108,7 +108,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 1/7/22,"Friday, Morris",AMD,iHeartMedia,WKKT-FM,7:31:00 AM,"DICKERSON, RUSSELL",Love You Like I Used To,2020,G,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/7/22,"Friday, Morris",AMD,iHeartMedia,WKKT-FM,7:34:00 AM,ZAC BROWN BAND,Same Boat,2021,R,c-,group,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 1/7/22,"Friday, Morris",AMD,iHeartMedia,WKKT-FM,7:37:00 AM,LADY ANTEBELLUM,Downtown,2013,G,c-,trio,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-1/7/22,"Friday, Morris",AMD,iHeartMedia,WKKT-FM,7:40:00 AM,"SHELTON, BLAKE/STEFANI, GWEN",Happy Anywhere,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+1/7/22,"Friday, Morris",AMD,iHeartMedia,WKKT-FM,7:40:00 AM,"SHELTON, BLAKE/STEFANI, GWEN",Happy Anywhere,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 1/7/22,"Friday, Morris",AMD,iHeartMedia,WKKT-FM,7:43:00 AM,"UNDERWOOD, CARRIE",Undo It,2009,G,c-,solo,women,white,Charlotte,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
 1/7/22,"Friday, Morris",AMD,iHeartMedia,WKKT-FM,7:47:00 AM,"WALLEN, MORGAN",Whiskey Glasses,2016,G,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 1/7/22,"Friday, Morris",AMD,iHeartMedia,WKKT-FM,7:51:00 AM,"LANE, CHRIS",I Don't Know About You,2018,G,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
@@ -3614,7 +3614,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/13/22,"Monday, Pearce",OVN,iHeartMedia,WKKT-FM,4:53:00 AM,"ANDRESS, INGRID/HUNT, SAM",Wishful Drinking,2021,R,c-,collab,male-female,white,Charlotte,false,X,B2BCombWomen,B2BCollabWomen,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",OVN,iHeartMedia,WKKT-FM,4:56:00 AM,"COMBS, LUKE",When It Rains It Pours,2017,G,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",OVN,iHeartMedia,WKKT-FM,5:00:00 AM,LITTLE BIG TOWN,The Star Spangled Banner,2006,G,c-,group,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-6/13/22,"Monday, Pearce",OVN,iHeartMedia,WKKT-FM,5:02:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/13/22,"Monday, Pearce",OVN,iHeartMedia,WKKT-FM,5:02:00 AM,"LYNCH, DUSTIN/PORTER, MACKENZIE",Thinking 'Bout You,2020,R,c-,collab,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/13/22,"Monday, Pearce",OVN,iHeartMedia,WKKT-FM,5:05:00 AM,FLORIDA GEORGIA LINE,H.O.L.Y.,2016,G,c-,duo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 6/13/22,"Monday, Pearce",OVN,iHeartMedia,WKKT-FM,5:08:00 AM,"BROWN, KANE",Like I Love Country Music,2022,R,c-,solo,men,multiethnic,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
 6/13/22,"Monday, Pearce",OVN,iHeartMedia,WKKT-FM,5:19:00 AM,"ALDEAN, JASON",Girl Like You,2018,G,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,X,X
@@ -4030,7 +4030,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 6/24/22,"Friday, regular",MID,iHeartMedia,WKKT-FM,12:40:00 PM,"OWEN, JAKE",Best Thing Since Backroads,2021,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 6/24/22,"Friday, regular",MID,iHeartMedia,WKKT-FM,12:43:00 PM,"KEITH, TOBY",As Good As I Once Was,2005,G,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 6/24/22,"Friday, regular",MID,iHeartMedia,WKKT-FM,12:47:00 PM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-6/24/22,"Friday, regular",MID,iHeartMedia,WKKT-FM,1:00:00 PM,LITTLE BIG TOWN,Pontoon,2012,G,c-,group,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+6/24/22,"Friday, regular",MID,iHeartMedia,WKKT-FM,1:00:00 PM,LITTLE BIG TOWN,Pontoon,2012,G,c-,group,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 6/24/22,"Friday, regular",MID,iHeartMedia,WKKT-FM,1:03:00 PM,"COMBS, LUKE",Forever After All,2020,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 6/24/22,"Friday, regular",MID,iHeartMedia,WKKT-FM,1:07:00 PM,THOMPSON SQUARE,Are You Gonna Kiss Me Or Not,2010,G,c-,duo,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 6/24/22,"Friday, regular",MID,iHeartMedia,WKKT-FM,1:20:00 PM,"BENTLEY, DIERKS/BRELAND/HARDY",Beers On Me,2021,R,c-,collab,men,multiethnic,Charlotte,false,X,X,X,X,X,X
@@ -4879,7 +4879,7 @@ date,weekday,dayparts,owner,station,time,artist,title,release,grc,genre,ensemble
 9/30/22,"Friday, regular",OVN,iHeartMedia,WKKT-FM,3:55:00 AM,"LAMBERT, MIRANDA",The House That Built Me,2009,G,c-,solo,women,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",OVN,iHeartMedia,WKKT-FM,3:58:00 AM,"DAVIS, JORDAN",Singles You Up,2017,G,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",OVN,iHeartMedia,WKKT-FM,4:02:00 AM,"ALDEAN, JASON/UNDERWOOD, CARRIE",If I Didn't Love You,2021,R,c-,collab,male-female,white,Charlotte,false,X,X,X,X,B2Bwhite,X
-9/30/22,"Friday, regular",OVN,iHeartMedia,WKKT-FM,4:05:00 AM,"BAND PERRY, THE",If I Die Young,2010,G,c-,trio,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,X,X,B2Bwhite,B2BwhiteMixed
+9/30/22,"Friday, regular",OVN,iHeartMedia,WKKT-FM,4:05:00 AM,"BAND PERRY, THE",If I Die Young,2010,G,c-,trio,male-female,white,Charlotte,false,B2Bmixed,B2BCombWomen,B2BCollabMixed,X,B2Bwhite,B2BwhiteMixed
 9/30/22,"Friday, regular",OVN,iHeartMedia,WKKT-FM,4:09:00 AM,"COMBS, LUKE",The Kind Of Love We Make,2022,R,c-,solo,men,white,Charlotte,false,X,X,X,X,B2Bwhite,X
 9/30/22,"Friday, regular",OVN,iHeartMedia,WKKT-FM,4:12:00 AM,"BRYAN, LUKE","Sunrise, Sunburn, Sunset",2017,G,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
 9/30/22,"Friday, regular",OVN,iHeartMedia,WKKT-FM,4:24:00 AM,"KENT, COREY",Wild As Her,2022,C,c-,solo,men,white,Charlotte,false,B2Bmen,B2BCombMen,B2BCollabMen,X,B2Bwhite,B2BwhiteMen
