@@ -93,6 +93,41 @@ function computeSummary(data, file) {
     const b2bMenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmen").length;
     const b2bMenSongs_PERCENT = b2bMenSongs_COUNT/songPlays*100;
 
+    // Men ONLY overnight
+    const OVNmenSongs_ARRAY = data.filter(d => d.gender == "men" && d.dayparts == "OVN")
+    const OVNmenSongs_COUNT = OVNmenSongs_ARRAY.length;
+    const OVNmenSongs_PERCENT = OVNmenSongs_COUNT/onlyMenSongs_COUNT*100;
+    const b2bOVNmenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmen" && d.dayparts == "OVN").length;
+    const b2bOVNmenSongs_PERCENT = b2bOVNmenSongs_COUNT/b2bMenSongs_COUNT*100;
+
+    // Men ONLY morning
+    const AMDmenSongs_ARRAY = data.filter(d => d.gender == "men" && d.dayparts == "AMD")
+    const AMDmenSongs_COUNT = AMDmenSongs_ARRAY.length;
+    const AMDmenSongs_PERCENT = AMDmenSongs_COUNT/onlyMenSongs_COUNT*100;
+    const b2bAMDmenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmen" && d.dayparts == "AMD").length;
+    const b2bAMDmenSongs_PERCENT = b2bAMDmenSongs_COUNT/b2bMenSongs_COUNT*100;
+
+    // Men ONLY midday
+    const MIDmenSongs_ARRAY = data.filter(d => d.gender == "men" && d.dayparts == "MID")
+    const MIDmenSongs_COUNT = MIDmenSongs_ARRAY.length;
+    const MIDmenSongs_PERCENT = MIDmenSongs_COUNT/onlyMenSongs_COUNT*100;
+    const b2bMIDmenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmen" && d.dayparts == "MID").length;
+    const b2bMIDmenSongs_PERCENT = b2bMIDmenSongs_COUNT/b2bMenSongs_COUNT*100;
+
+    // Men ONLY afternoon
+    const PMDmenSongs_ARRAY = data.filter(d => d.gender == "men" && d.dayparts == "PMD")
+    const PMDmenSongs_COUNT = PMDmenSongs_ARRAY.length;
+    const PMDmenSongs_PERCENT = PMDmenSongs_COUNT/onlyMenSongs_COUNT*100;
+    const b2bPMDmenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmen" && d.dayparts == "PMD").length;
+    const b2bPMDmenSongs_PERCENT = b2bPMDmenSongs_COUNT/b2bMenSongs_COUNT*100;
+
+    // Men ONLY evening
+    const EVEmenSongs_ARRAY = data.filter(d => d.gender == "men" && d.dayparts == "EVE")
+    const EVEmenSongs_COUNT = EVEmenSongs_ARRAY.length;
+    const EVEmenSongs_PERCENT = EVEmenSongs_COUNT/onlyMenSongs_COUNT*100;
+    const b2bEVEmenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmen" && d.dayparts == "EVE").length;
+    const b2bEVEmenSongs_PERCENT = b2bEVEmenSongs_COUNT/b2bMenSongs_COUNT*100;
+
     // MIXED
     // Mixed gender ONLY
     const onlyMixedGenderSongs_ARRAY = data.filter(d => d.gender == "male-female");
@@ -262,6 +297,26 @@ function computeSummary(data, file) {
                     EVEwomenSongs_PERCENT,
                     b2bEVEwomenSongs_COUNT,
                     b2bEVEwomenSongs_PERCENT,
+                    OVNmenSongs_COUNT,
+                    OVNmenSongs_PERCENT,
+                    b2bOVNmenSongs_COUNT,
+                    b2bOVNmenSongs_PERCENT,
+                    AMDmenSongs_COUNT,
+                    AMDmenSongs_PERCENT,
+                    b2bAMDmenSongs_COUNT,
+                    b2bAMDmenSongs_PERCENT,
+                    MIDmenSongs_COUNT,
+                    MIDmenSongs_PERCENT,
+                    b2bMIDmenSongs_COUNT,
+                    b2bMIDmenSongs_PERCENT,
+                    PMDmenSongs_COUNT,
+                    PMDmenSongs_PERCENT,
+                    b2bPMDmenSongs_COUNT,
+                    b2bPMDmenSongs_PERCENT,
+                    EVEmenSongs_COUNT,
+                    EVEmenSongs_PERCENT,
+                    b2bEVEmenSongs_COUNT,
+                    b2bEVEmenSongs_PERCENT,
                     GwomenSongs_COUNT,
                     GwomenSongs_PERCENT,
                     b2bGwomenSongs_COUNT,
