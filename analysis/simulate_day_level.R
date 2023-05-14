@@ -54,6 +54,7 @@ all_dists <- get_null_dist(numReps, data)
 
 
 for (i in 1:nrow(data)) {
+  #i=476 ## check one quoted in story
   base_name <- paste(paste(data$stationName[i], data$cityName[i], data$date[i], sep = "_"), ".csv", sep = "")
   base_name <- gsub("/", "_", base_name) ## doesn't like slashes in file name
   write.csv(all_dists$dist_infoW[[i]], file = paste("analysis/byStationDayRaw/women_only/", base_name, sep = ""), row.names = F)
