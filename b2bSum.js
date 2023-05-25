@@ -128,6 +128,27 @@ function computeSummary(data, file) {
     const b2bEVEmenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmen" && d.dayparts == "EVE").length;
     const b2bEVEmenSongs_PERCENT = b2bEVEmenSongs_COUNT/b2bMenSongs_COUNT*100;
 
+    // Men ONLY gold
+    const GmenSongs_ARRAY = data.filter(d => d.gender == "men" && d.grc == "G")
+    const GmenSongs_COUNT = GmenSongs_ARRAY.length;
+    const GmenSongs_PERCENT = GmenSongs_COUNT/onlyMenSongs_COUNT*100;
+    const b2bGmenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmen" && d.grc == "G").length;
+    const b2bGmenSongs_PERCENT = b2bGmenSongs_COUNT/b2bMenSongs_COUNT*100;
+
+    // Men ONLY recurrent
+    const RmenSongs_ARRAY = data.filter(d => d.gender == "men" && d.grc == "R")
+    const RmenSongs_COUNT = RmenSongs_ARRAY.length;
+    const RmenSongs_PERCENT = RmenSongs_COUNT/onlyMenSongs_COUNT*100;
+    const b2bRmenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmen" && d.grc == "R").length;
+    const b2bRmenSongs_PERCENT = b2bRmenSongs_COUNT/b2bMenSongs_COUNT*100;
+
+    // Men ONLY current
+    const CmenSongs_ARRAY = data.filter(d => d.gender == "men" && d.grc == "C")
+    const CmenSongs_COUNT = CmenSongs_ARRAY.length;
+    const CmenSongs_PERCENT = CmenSongs_COUNT/onlyMenSongs_COUNT*100;
+    const b2bCmenSongs_COUNT = songPlays_B2B.filter(d => d.b2b_gender == "B2Bmen" && d.grc == "C").length;
+    const b2bCmenSongs_PERCENT = b2bCmenSongs_COUNT/b2bMenSongs_COUNT*100;
+
     // MIXED
     // Mixed gender ONLY
     const onlyMixedGenderSongs_ARRAY = data.filter(d => d.gender == "male-female");
@@ -328,7 +349,19 @@ function computeSummary(data, file) {
                     CwomenSongs_COUNT,
                     CwomenSongs_PERCENT,
                     b2bCwomenSongs_COUNT,
-                    b2bCwomenSongs_PERCENT
+                    b2bCwomenSongs_PERCENT,
+                    GmenSongs_COUNT,
+                    GmenSongs_PERCENT,
+                    b2bGmenSongs_COUNT,
+                    b2bGmenSongs_PERCENT,
+                    RmenSongs_COUNT,
+                    RmenSongs_PERCENT,
+                    b2bRmenSongs_COUNT,
+                    b2bRmenSongs_PERCENT,
+                    CmenSongs_COUNT,
+                    CmenSongs_PERCENT,
+                    b2bCmenSongs_COUNT,
+                    b2bCmenSongs_PERCENT
 
     })
 }

@@ -5,7 +5,8 @@
 	"main": "index.js",
 	"scripts": {
 		"b2bSum": "node b2bSum.js",
-		"b2bDays": "node b2bDays.js"
+		"b2bDays": "node b2bDays.js",
+		"simCheck": "node simCheck.js"
 	},
 	"keywords": [],
 	"author": "",
